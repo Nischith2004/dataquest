@@ -1,0 +1,4 @@
+plan_type,total_users,churned_users,churn_rate
+Premium,8,1,12.5
+Standard,197,42,21.32
+Student Plan,195,49,25.13
