@@ -1,0 +1,4222 @@
+movie_id,title,release_year,runtime,genre
+1,Black Panther: Wakanda Forever,2022,161,Action
+2,Avatar: The Way of Water,2022,192,Action
+3,Plane,2023,107,Action
+4,Everything Everywhere All at Once,2022,139,Action
+5,Ant-Man and the Wasp: Quantumania,2023,125,Action
+6,Shotgun Wedding,2022,100,Action
+7,Bullet Train,2022,127,Action
+8,All Quiet on the Western Front,2022,148,Action
+9,Top Gun: Maverick,2022,130,Action
+10,Pathaan,2023,146,Action
+11,Teen Wolf: The Movie,2023,140,Action
+12,Black Panther,2018,134,Action
+13,The Batman,2022,176,Action
+14,Top Gun,1986,109,Action
+15,Avatar,2009,162,Action
+16,The Wandering Earth II,2023,173,Action
+17,Black Adam,2022,125,Action
+18,Operation Fortune: Ruse de guerre,2023,114,Action
+19,Jurassic World: Dominion,2022,147,Action
+20,The Hunger Games,2012,142,Action
+21,Devotion,2022,139,Action
+22,The Northman,2022,137,Action
+23,Dune,2021,155,Action
+24,The Unbearable Weight of Massive Talent,2022,107,Action
+25,The Woman King,2022,135,Action
+26,RRR,2022,187,Action
+27,The Lord of the Rings: The Fellowship of the Ring,2001,178,Action
+28,Thor: Love and Thunder,2022,118,Action
+29,Dungeons & Dragons: Honor Among Thieves,2023,134,Action
+30,The Locksmith,2023,92,Action
+31,The Dark Knight,2008,152,Action
+32,Inception,2010,148,Action
+33,Spider-Man: No Way Home,2021,148,Action
+34,John Wick: Chapter 4,2023,169,Action
+35,Gladiator,2000,155,Action
+36,Avengers: Endgame,2019,181,Action
+37,Legion of Super-Heroes,2023,83,Action
+38,Little Dixie,2023,105,Action
+39,An Action Hero,2022,130,Action
+40,Strange World,2022,102,Action
+41,John Wick,2014,101,Action
+42,The Gentlemen,2019,113,Action
+43,Blade Runner 2049,2017,164,Action
+44,F9: The Fast Saga,2021,143,Action
+45,Violent Night,2022,112,Action
+46,Last Seen Alive,2022,95,Action
+47,Nobody,2021,92,Action
+48,The Matrix,1999,136,Action
+49,The Gray Man,2022,122,Action
+50,Raiders of the Lost Ark,1981,115,Action
+51,Independence Day,1996,145,Action
+52,Scott Pilgrim vs. the World,2010,112,Action
+53,The Fast and the Furious,2001,106,Action
+54,Barb Wire,1996,98,Action
+55,No Time to Die,2021,163,Action
+56,Uncharted,2022,116,Action
+57,Tenet,2020,150,Action
+58,Shazam! Fury of the Gods,2023,130,Action
+59,Heat,1995,170,Action
+60,The Suicide Squad,2021,132,Action
+61,The Mummy,1999,124,Action
+62,Dunkirk,2017,106,Action
+63,Jurassic Park,1993,127,Action
+64,Kingsman: The Golden Circle,2017,141,Action
+65,Willow,1988,126,Action
+66,Ant-Man,2015,117,Action
+67,Edge of Tomorrow,2014,113,Action
+68,The Lord of the Rings: The Return of the King,2003,201,Action
+69,The Lost City,2022,112,Action
+70,The Hunger Games: Catching Fire,2013,146,Action
+71,Infinite,2021,106,Action
+72,Ford v Ferrari,2019,152,Action
+73,The King's Man,2021,131,Action
+74,Doctor Strange in the Multiverse of Madness,2022,126,Action
+75,Beast,2022,93,Action
+76,Eternals,2021,156,Action
+77,Guardians of the Galaxy,2014,121,Action
+78,Léon: The Professional,1994,110,Action
+79,Prey,2022,100,Action
+80,Mad Max: Fury Road,2015,120,Action
+81,Murder Mystery,2019,97,Action
+82,Road House,1989,114,Action
+83,Free Guy,2021,115,Action
+84,Mission Majnu,2023,129,Action
+85,Star Wars,1977,121,Action
+86,The School for Good and Evil,2022,147,Action
+87,1917,2019,119,Action
+88,GoldenEye,1995,130,Action
+89,Sicario,2015,121,Action
+90,Suicide Squad,2016,123,Action
+91,Oldboy,2003,120,Action
+92,Avengers: Infinity War,2018,149,Action
+93,From Dusk Till Dawn,1996,108,Action
+94,Wonder Woman 1984,2020,151,Action
+95,Deadpool 2,2018,119,Action
+96,Kingsman: The Secret Service,2014,129,Action
+97,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,Action
+98,Poker Face,2022,94,Action
+99,Ant-Man and the Wasp,2018,118,Action
+100,John Wick: Chapter 3 - Parabellum,2019,130,Action
+101,The Lord of the Rings: The Two Towers,2002,179,Action
+102,Indiana Jones and the Last Crusade,1989,127,Action
+103,Drive,2011,100,Action
+104,Blade Runner,1982,117,Action
+105,The Dark Knight Rises,2012,164,Action
+106,Mission: Impossible - Fallout,2018,147,Action
+107,Baywatch,2017,116,Action
+108,Rogue One: A Star Wars Story,2016,133,Action
+109,The Terminator,1984,107,Action
+110,Terminator 2: Judgment Day,1991,137,Action
+111,True Lies,1994,141,Action
+112,Medieval,2022,125,Action
+113,The Man from U.N.C.L.E.,2015,116,Action
+114,Wrath of Man,2021,119,Action
+115,Spider-Man: Into the Spider-Verse,2018,117,Action
+116,Ready Player One,2018,140,Action
+117,Harry Potter and the Order of the Phoenix,2007,138,Action
+118,Red Sparrow,2018,140,Action
+119,Spider-Man,2002,121,Action
+120,Enola Holmes 2,2022,129,Action
+121,Aliens,1986,137,Action
+122,Fury,2014,134,Action
+123,John Wick: Chapter 2,2017,122,Action
+124,The Fifth Element,1997,126,Action
+126,Oblivion,2013,124,Action
+127,Casino Royale,2006,144,Action
+128,Emancipation,2022,132,Action
+129,Baby Driver,2017,113,Action
+130,The Day After Tomorrow,2004,124,Action
+131,Ambulance,2022,136,Action
+132,Deadpool,2016,108,Action
+133,War of the Worlds,2005,116,Action
+134,Man of Steel,2013,143,Action
+135,Captain America: The First Avenger,2011,124,Action
+136,Thunivu,2023,146,Action
+137,Logan,2017,137,Action
+138,Triple Frontier,2019,125,Action
+139,Moonfall,2022,130,Action
+140,Shazam!,2019,132,Action
+141,Indiana Jones and the Temple of Doom,1984,118,Action
+142,300,2006,117,Action
+143,Apocalypto,2006,139,Action
+144,The Matrix Resurrections,2021,148,Action
+145,Ready or Not,2019,95,Action
+146,Star Wars: The Rise Of Skywalker,2019,141,Action
+147,Jung_E,2023,98,Action
+148,Batman Begins,2005,140,Action
+149,Harry Potter and the Half-Blood Prince,2009,153,Action
+150,The Equalizer,2014,132,Action
+151,Lou,2022,107,Action
+152,The Last Duel,2021,152,Action
+153,Above Suspicion,2019,104,Action
+154,The Rock,1996,136,Action
+155,RoboCop,1987,102,Action
+156,21 Jump Street,2012,109,Action
+157,Black Widow,2021,134,Action
+158,Shang-Chi and the Legend of the Ten Rings,2021,132,Action
+159,Kill Bill: Vol. 1,2003,111,Action
+160,The Old Way,2023,95,Action
+161,The Revenant,2015,156,Action
+162,You Only Live Twice,1967,117,Action
+163,Divergent,2014,139,Action
+164,Star Wars: Episode I - The Phantom Menace,1999,136,Action
+165,Creed,2015,133,Action
+166,Flushed Away,2006,85,Action
+167,The Avengers,2012,143,Action
+168,Transformers,2007,144,Action
+169,Troll,2022,101,Action
+170,National Treasure,2004,131,Action
+171,Star Wars: Episode VII - The Force Awakens,2015,138,Action
+172,Mission: Impossible,1996,110,Action
+173,Bad Boys,1995,119,Action
+174,Shooter,2007,124,Action
+175,Morbius,2022,104,Action
+176,Enola Holmes,2020,123,Action
+177,Iron Man,2008,126,Action
+178,From Russia with Love,1963,115,Action
+179,The Maze Runner,2014,113,Action
+180,Jack Reacher,2012,130,Action
+181,Kung Fu Panda,2008,92,Action
+182,2012,2009,158,Action
+183,Goldfinger,1964,110,Action
+184,The Hunger Games: Mockingjay - Part 2,2015,137,Action
+185,Furious 7,2015,137,Action
+186,Minority Report,2002,145,Action
+187,Angel Has Fallen,2019,121,Action
+188,Fast & Furious,2009,107,Action
+189,Red Notice,2021,118,Action
+190,Beverly Hills Cop,1984,105,Action
+191,The Adam Project,2022,106,Action
+192,World War Z,2013,116,Action
+193,Spiderhead,2022,106,Action
+194,Con Air,1997,115,Action
+195,Memory,2022,114,Action
+196,Tron: Legacy,2010,125,Action
+197,The Accountant,2016,128,Action
+198,Jurassic World: Fallen Kingdom,2018,128,Action
+199,Okja,2017,120,Action
+200,The Warriors,1979,93,Action
+201,Watchmen,2009,162,Action
+202,Thor: Ragnarok,2017,130,Action
+203,Die Hard,1988,132,Action
+204,Wonder Woman,2017,141,Action
+205,Kingdom of Heaven,2005,144,Action
+206,Tropic Thunder,2008,107,Action
+207,The Nice Guys,2016,116,Action
+208,Alita: Battle Angel,2019,122,Action
+209,Men in Black,1997,98,Action
+210,Aquaman,2018,143,Action
+211,Thirteen Lives,2022,147,Action
+212,Fast & Furious Presents: Hobbs & Shaw,2019,137,Action
+213,Training Day,2001,122,Action
+214,Batman v Superman: Dawn of Justice,2016,151,Action
+215,Point Break,1991,122,Action
+216,Ocean's Eight,2018,110,Action
+217,Thunderball,1965,130,Action
+218,El Camino: A Breaking Bad Movie,2019,122,Action
+219,Spider-Man: Homecoming,2017,133,Action
+220,Guardians of the Galaxy Vol. 2,2017,136,Action
+221,Jumanji: Welcome to the Jungle,2017,119,Action
+222,Predator,1987,107,Action
+223,Red Dawn,1984,114,Action
+224,Star Wars: Episode V - The Empire Strikes Back,1980,124,Action
+225,Armageddon,1998,151,Action
+226,Love and Monsters,2020,109,Action
+227,The Harder They Fall,2021,139,Action
+228,The Hunger Games: Mockingjay - Part 1,2014,123,Action
+229,Transformers: The Last Knight,2017,154,Action
+230,The Wandering Earth,2019,125,Action
+231,Ghostbusters,1984,105,Action
+232,Jurassic World,2015,124,Action
+233,Den of Thieves,2018,140,Action
+234,Dune,1984,137,Action
+235,Star Wars: Episode VI - Return of the Jedi,1983,131,Action
+236,The Fate of the Furious,2017,136,Action
+237,Avengers: Age of Ultron,2015,141,Action
+238,Thor,2011,115,Action
+239,Black Hawk Down,2001,144,Action
+240,Starship Troopers,1997,129,Action
+241,Quantum of Solace,2008,106,Action
+242,X-Men,2000,104,Action
+243,Skyfall,2012,143,Action
+244,Tomorrow Never Dies,1997,119,Action
+245,Total Recall,1990,113,Action
+246,White House Down,2013,131,Action
+247,Kick-Ass,2010,117,Action
+248,A Knight's Tale,2001,132,Action
+249,The Incredibles,2004,115,Action
+250,WarGames,1983,114,Action
+251,6 Underground,2019,128,Action
+252,Mission: Impossible - Rogue Nation,2015,131,Action
+253,Greenland,2020,119,Action
+254,Birds of Prey,2020,109,Action
+255,Polar,2019,118,Action
+256,"Lock, Stock and Two Smoking Barrels",1998,107,Action
+257,DC League of Super-Pets,2022,105,Action
+258,Captain America: Civil War,2016,147,Action
+259,Sonic the Hedgehog 2,2022,122,Action
+260,Death Proof,2007,127,Action
+261,2 Fast 2 Furious,2003,107,Action
+262,Train to Busan,2016,118,Action
+263,Army of the Dead,2021,148,Action
+264,Dawn of the Dead,2004,101,Action
+265,Justice League,2017,120,Action
+266,Oldboy,2013,104,Action
+267,Terminator: Dark Fate,2019,128,Action
+268,George of the Jungle,1997,92,Action
+269,Warrior,2011,140,Action
+270,The Karate Kid,1984,126,Action
+271,Condor's Nest,2023,102,Action
+272,Jungle,2017,115,Action
+273,Star Trek,2009,127,Action
+274,Pirates of the Caribbean: Dead Men Tell No Tales,2017,129,Action
+275,Creed II,2018,130,Action
+276,Day Shift,2022,113,Action
+277,Constantine,2005,121,Action
+278,Robin Hood: Prince of Thieves,1991,143,Action
+279,Batman,1989,126,Action
+280,Captain Marvel,2019,123,Action
+281,Pearl Harbor,2001,183,Action
+282,Olympus Has Fallen,2013,119,Action
+283,V for Vendetta,2005,132,Action
+284,The Mummy Returns,2001,130,Action
+285,Mortal Kombat,2021,110,Action
+286,13 Hours,2016,144,Action
+287,Mad Max,1979,88,Action
+288,Romancing the Stone,1984,106,Action
+289,"I, Robot",2004,115,Action
+290,Fast Five,2011,130,Action
+291,Kindergarten Cop,1990,111,Action
+292,Star Wars: Episode VIII - The Last Jedi,2017,152,Action
+293,In Time,2011,109,Action
+294,Star Wars: Episode III - Revenge of the Sith,2005,140,Action
+295,Predestination,2014,97,Action
+296,Underworld,2003,121,Action
+297,Law Abiding Citizen,2009,109,Action
+298,The Fast and the Furious: Tokyo Drift,2006,104,Action
+299,Kantara,2022,148,Action
+300,Army of Thieves,2021,127,Action
+301,Mission: Impossible - Ghost Protocol,2011,132,Action
+302,Zombieland,2009,88,Action
+303,The New Mutants,2020,94,Action
+304,Bad Boys II,2003,147,Action
+305,The Running Man,1987,101,Action
+306,Dr. No,1962,110,Action
+307,How to Train Your Dragon,2010,98,Action
+308,Samaritan,2022,102,Action
+309,Cowboys & Aliens,2011,119,Action
+310,The Equalizer 2,2018,121,Action
+311,The Last Airbender,2010,103,Action
+312,Snowpiercer,2013,126,Action
+313,The Man from Toronto,2022,110,Action
+314,Godzilla vs. Kong,2021,113,Action
+315,The Meg,2018,113,Action
+316,Speed,1994,116,Action
+317,Cloverfield,2008,85,Action
+318,Solo: A Star Wars Story,2018,135,Action
+319,Children of Men,2006,109,Action
+320,Spectre,2015,148,Action
+321,Bad Boys for Life,2020,124,Action
+322,Taken,2008,90,Action
+323,Extraction,2020,116,Action
+324,Doctor Strange,2016,115,Action
+325,Tomb Raider,2018,119,Action
+326,Iron Man Three,2013,130,Action
+327,Riddick,2013,119,Action
+328,The Bourne Identity,2002,119,Action
+329,The Old Guard,2020,125,Action
+330,28 Weeks Later,2007,100,Action
+331,Stargate,1994,116,Action
+332,Dick Tracy,1990,105,Action
+333,The Tomorrow War,2021,138,Action
+334,"Crouching Tiger, Hidden Dragon",2000,120,Action
+335,The Last of the Mohicans,1992,112,Action
+336,Lightyear,2022,105,Action
+337,Hitman's Wife's Bodyguard,2021,100,Action
+338,To Live and Die in L.A.,1985,116,Action
+339,Night Train,2023,95,Action
+340,Hunter Killer,2018,121,Action
+341,X-Men: Apocalypse,2016,144,Action
+342,Men in Black 3,2012,106,Action
+343,Spider-Man 3,2007,139,Action
+344,War,2019,154,Action
+345,Valerian and the City of a Thousand Planets,2017,136,Action
+346,Maneater,2022,87,Action
+347,Terminator 3: Rise of the Machines,2003,109,Action
+348,Deep Impact,1998,120,Action
+349,Super 8,2011,112,Action
+350,Layer Cake,2004,105,Action
+351,I Am Legend,2007,101,Action
+352,Blacklight,2022,104,Action
+353,Zoom,2006,83,Action
+354,Game Night,2018,100,Action
+355,Anna,2019,118,Action
+356,Old Henry,2021,99,Action
+357,Indiana Jones and the Kingdom of the Crystal Skull,2008,122,Action
+358,Man on Fire,2004,146,Action
+359,Captain America: The Winter Soldier,2014,136,Action
+360,Deep Blue Sea,1999,105,Action
+361,Sherlock Holmes,2009,128,Action
+362,Mr. & Mrs. Smith,2005,120,Action
+363,First Blood,1982,93,Action
+364,Superman,1978,143,Action
+365,A History of Violence,2005,96,Action
+366,Venom: Let There Be Carnage,2021,97,Action
+367,Spider-Man: Far from Home,2019,129,Action
+368,Pirates of the Caribbean: Dead Man's Chest,2006,151,Action
+369,The Mummy,2017,110,Action
+370,San Andreas,2015,114,Action
+371,Greyhound,2020,91,Action
+372,The Other Guys,2010,107,Action
+373,Sicario: Day of the Soldado,2018,122,Action
+374,The Fugitive,1993,130,Action
+375,Furious 6,2013,130,Action
+376,Lone Survivor,2013,121,Action
+377,The Amazing Spider-Man,2012,136,Action
+378,King Kong,2005,187,Action
+379,Face/Off,1997,138,Action
+380,Incredibles 2,2018,118,Action
+381,Jumanji: The Next Level,2019,123,Action
+382,Unbroken,2014,137,Action
+383,The Mask,1994,101,Action
+384,Star Wars: Episode II - Attack of the Clones,2002,142,Action
+385,American Sniper,2014,133,Action
+386,Venom,2018,112,Action
+387,Star Trek Beyond,2016,122,Action
+388,Central Intelligence,2016,107,Action
+389,District 9,2009,112,Action
+390,Gods of Egypt,2016,127,Action
+391,Ava,2020,96,Action
+392,The Hunt for Red October,1990,135,Action
+393,Batman & Robin,1997,125,Action
+394,The Tax Collector,2020,95,Action
+395,Black Panther: Wakanda Forever,2022,161,Adventure
+396,Avatar: The Way of Water,2022,192,Adventure
+397,Everything Everywhere All at Once,2022,139,Adventure
+398,Puss in Boots: The Last Wish,2022,102,Adventure
+399,Ant-Man and the Wasp: Quantumania,2023,125,Adventure
+400,True Spirit,2023,109,Adventure
+401,Pathaan,2023,146,Adventure
+402,"Lyle, Lyle, Crocodile",2022,106,Adventure
+403,Black Panther,2018,134,Adventure
+404,Avatar,2009,162,Adventure
+405,The Wandering Earth II,2023,173,Adventure
+406,Harry Potter and the Sorcerer's Stone,2001,152,Adventure
+407,Black Adam,2022,125,Adventure
+408,Interstellar,2014,169,Adventure
+409,Jurassic World: Dominion,2022,147,Adventure
+410,The Hunger Games,2012,142,Adventure
+411,The Northman,2022,137,Adventure
+412,Dune,2021,155,Adventure
+413,RRR,2022,187,Adventure
+414,The Lord of the Rings: The Fellowship of the Ring,2001,178,Adventure
+415,Thor: Love and Thunder,2022,118,Adventure
+416,Dungeons & Dragons: Honor Among Thieves,2023,134,Adventure
+417,Inception,2010,148,Adventure
+418,Spider-Man: No Way Home,2021,148,Adventure
+419,Asterix & Obelix: The Middle Kingdom,2023,112,Adventure
+420,Gladiator,2000,155,Adventure
+421,Avengers: Endgame,2019,181,Adventure
+422,Strange World,2022,102,Adventure
+423,Arctic,2018,98,Adventure
+424,Puss in Boots,2011,90,Adventure
+425,Raiders of the Lost Ark,1981,115,Adventure
+426,Minions: The Rise of Gru,2022,87,Adventure
+427,Independence Day,1996,145,Adventure
+428,Inglourious Basterds,2009,153,Adventure
+429,The Amazing Maurice,2022,93,Adventure
+430,No Time to Die,2021,163,Adventure
+431,Uncharted,2022,116,Adventure
+432,Vesper,2022,114,Adventure
+433,Shazam! Fury of the Gods,2023,130,Adventure
+434,Harry Potter and the Goblet of Fire,2005,157,Adventure
+435,The Suicide Squad,2021,132,Adventure
+436,The Mummy,1999,124,Adventure
+437,Back to the Future,1985,116,Adventure
+438,Jurassic Park,1993,127,Adventure
+439,Kingsman: The Golden Circle,2017,141,Adventure
+440,The Goonies,1985,114,Adventure
+441,Willow,1988,126,Adventure
+442,The Grand Budapest Hotel,2014,99,Adventure
+443,Edge of Tomorrow,2014,113,Adventure
+444,Dances with Wolves,1990,181,Adventure
+445,The Lord of the Rings: The Return of the King,2003,201,Adventure
+446,Sing 2,2021,110,Adventure
+447,The Lost City,2022,112,Adventure
+448,The Blue Lagoon,1980,104,Adventure
+449,The Hunger Games: Catching Fire,2013,146,Adventure
+450,The King's Man,2021,131,Adventure
+451,Doctor Strange in the Multiverse of Madness,2022,126,Adventure
+452,Beast,2022,93,Adventure
+453,Eternals,2021,156,Adventure
+454,Harry Potter and the Deathly Hallows: Part 2,2011,130,Adventure
+455,Guardians of the Galaxy,2014,121,Adventure
+456,The Princess Bride,1987,98,Adventure
+457,Prey,2022,100,Adventure
+458,Mad Max: Fury Road,2015,120,Adventure
+459,Free Guy,2021,115,Adventure
+460,Harry Potter and the Prisoner of Azkaban,2004,142,Adventure
+461,Star Wars,1977,121,Adventure
+462,GoldenEye,1995,130,Adventure
+463,Fantastic Beasts: The Secrets of Dumbledore,2022,142,Adventure
+464,Harry Potter and the Chamber of Secrets,2002,161,Adventure
+465,Suicide Squad,2016,123,Adventure
+466,Deliverance,1972,109,Adventure
+467,Avengers: Infinity War,2018,149,Adventure
+468,Wonder Woman 1984,2020,151,Adventure
+469,Deadpool 2,2018,119,Adventure
+470,Kingsman: The Secret Service,2014,129,Adventure
+471,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,Adventure
+472,The Bad Guys,2022,100,Adventure
+473,Ant-Man and the Wasp,2018,118,Adventure
+474,The Sea Beast,2022,115,Adventure
+475,The Lord of the Rings: The Two Towers,2002,179,Adventure
+476,Indiana Jones and the Last Crusade,1989,127,Adventure
+477,Mission: Impossible - Fallout,2018,147,Adventure
+478,Rogue One: A Star Wars Story,2016,133,Adventure
+479,Spirited Away,2001,125,Adventure
+480,The Man from U.N.C.L.E.,2015,116,Adventure
+481,Stand by Me,1986,89,Adventure
+482,Spider-Man: Into the Spider-Verse,2018,117,Adventure
+483,Ready Player One,2018,140,Adventure
+484,Harry Potter and the Order of the Phoenix,2007,138,Adventure
+485,Spider-Man,2002,121,Adventure
+486,Enola Holmes 2,2022,129,Adventure
+487,Aliens,1986,137,Adventure
+488,The Lion King,1994,88,Adventure
+489,The Fifth Element,1997,126,Adventure
+491,Oblivion,2013,124,Adventure
+492,Harry Potter and the Deathly Hallows: Part 1,2010,146,Adventure
+493,Casino Royale,2006,144,Adventure
+494,Almost Famous,2000,122,Adventure
+495,2001: A Space Odyssey,1968,149,Adventure
+496,Shrek,2001,90,Adventure
+497,The Day After Tomorrow,2004,124,Adventure
+498,War of the Worlds,2005,116,Adventure
+499,Man of Steel,2013,143,Adventure
+500,Captain America: The First Avenger,2011,124,Adventure
+501,Thunivu,2023,146,Adventure
+502,Moonfall,2022,130,Adventure
+503,Shazam!,2019,132,Adventure
+504,Indiana Jones and the Temple of Doom,1984,118,Adventure
+505,Cars,2006,117,Adventure
+506,Apocalypto,2006,139,Adventure
+507,Star Wars: The Rise Of Skywalker,2019,141,Adventure
+508,Jung_E,2023,98,Adventure
+509,"The Good, the Bad and the Ugly",1966,178,Adventure
+510,Ghostbusters: Afterlife,2021,124,Adventure
+511,The Martian,2015,144,Adventure
+512,Pinocchio,2022,105,Adventure
+513,Harry Potter and the Half-Blood Prince,2009,153,Adventure
+514,Moana,2016,107,Adventure
+515,Scooby-Doo,2002,86,Adventure
+516,Vacation,2015,99,Adventure
+517,Idiocracy,2006,84,Adventure
+518,Turning Red,2022,100,Adventure
+519,The Rock,1996,136,Adventure
+520,Ratatouille,2007,111,Adventure
+521,Black Widow,2021,134,Adventure
+522,Shang-Chi and the Legend of the Ten Rings,2021,132,Adventure
+523,Frozen,2013,102,Adventure
+524,Hook,1991,142,Adventure
+525,The Revenant,2015,156,Adventure
+526,Disenchanted,2022,119,Adventure
+527,You Only Live Twice,1967,117,Adventure
+528,Divergent,2014,139,Adventure
+529,Star Wars: Episode I - The Phantom Menace,1999,136,Adventure
+530,Zootopia,2016,108,Adventure
+531,Flushed Away,2006,85,Adventure
+532,Transformers,2007,144,Adventure
+533,Troll,2022,101,Adventure
+534,National Treasure,2004,131,Adventure
+535,Star Wars: Episode VII - The Force Awakens,2015,138,Adventure
+536,Mission: Impossible,1996,110,Adventure
+537,Morbius,2022,104,Adventure
+538,Enola Holmes,2020,123,Adventure
+539,Jaws,1975,124,Adventure
+540,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,Adventure
+541,Toy Story,1995,81,Adventure
+542,Iron Man,2008,126,Adventure
+543,From Russia with Love,1963,115,Adventure
+544,Inside Out,2015,95,Adventure
+545,Prometheus,2012,124,Adventure
+546,Beauty and the Beast,2017,129,Adventure
+547,Kung Fu Panda,2008,92,Adventure
+548,2012,2009,158,Adventure
+549,Goldfinger,1964,110,Adventure
+550,The Hunger Games: Mockingjay - Part 2,2015,137,Adventure
+551,Labyrinth,1986,101,Adventure
+552,The Adam Project,2022,106,Adventure
+553,World War Z,2013,116,Adventure
+554,Annihilation,2018,115,Adventure
+555,Tron: Legacy,2010,125,Adventure
+556,Jurassic World: Fallen Kingdom,2018,128,Adventure
+557,Okja,2017,120,Adventure
+558,Thor: Ragnarok,2017,130,Adventure
+559,Wonder Woman,2017,141,Adventure
+560,Kingdom of Heaven,2005,144,Adventure
+561,Howl's Moving Castle,2004,119,Adventure
+562,Barbarella,1968,98,Adventure
+563,Alita: Battle Angel,2019,122,Adventure
+564,Men in Black,1997,98,Adventure
+565,Coco,2017,105,Adventure
+566,Aquaman,2018,143,Adventure
+567,Thirteen Lives,2022,147,Adventure
+568,Fast & Furious Presents: Hobbs & Shaw,2019,137,Adventure
+569,Shrek 2,2004,93,Adventure
+570,The Hobbit: The Battle of the Five Armies,2014,144,Adventure
+571,Fantastic Mr. Fox,2009,87,Adventure
+572,Batman v Superman: Dawn of Justice,2016,151,Adventure
+573,Thunderball,1965,130,Adventure
+574,Spider-Man: Homecoming,2017,133,Adventure
+575,Guardians of the Galaxy Vol. 2,2017,136,Adventure
+576,Jumanji: Welcome to the Jungle,2017,119,Adventure
+577,Predator,1987,107,Adventure
+578,The Lion King,2019,118,Adventure
+579,Toy Story 4,2019,100,Adventure
+580,Into the Wild,2007,148,Adventure
+581,Star Wars: Episode V - The Empire Strikes Back,1980,124,Adventure
+582,Armageddon,1998,151,Adventure
+583,Love and Monsters,2020,109,Adventure
+584,The Hunger Games: Mockingjay - Part 1,2014,123,Adventure
+585,Transformers: The Last Knight,2017,154,Adventure
+586,The Wandering Earth,2019,125,Adventure
+587,Catherine Called Birdy,2022,108,Adventure
+588,Jurassic World,2015,124,Adventure
+589,Dune,1984,137,Adventure
+590,Star Wars: Episode VI - Return of the Jedi,1983,131,Adventure
+591,Hercules,1997,93,Adventure
+592,Avengers: Age of Ultron,2015,141,Adventure
+593,Starship Troopers,1997,129,Adventure
+594,Quantum of Solace,2008,106,Adventure
+595,X-Men,2000,104,Adventure
+596,E.T.,1982,115,Adventure
+597,WALL·E,2008,98,Adventure
+598,Skyfall,2012,143,Adventure
+599,Tomorrow Never Dies,1997,119,Adventure
+600,Total Recall,1990,113,Adventure
+601,The Wizard of Oz,1939,102,Adventure
+602,A Knight's Tale,2001,132,Adventure
+603,Up,2009,96,Adventure
+604,The Incredibles,2004,115,Adventure
+605,Fantastic Beasts and Where to Find Them,2016,132,Adventure
+606,Mission: Impossible - Rogue Nation,2015,131,Adventure
+607,Finding Nemo,2003,100,Adventure
+608,DC League of Super-Pets,2022,105,Adventure
+609,Sonic the Hedgehog 2,2022,122,Adventure
+610,Slumberland,2022,117,Adventure
+611,Justice League,2017,120,Adventure
+612,Terminator: Dark Fate,2019,128,Adventure
+613,George of the Jungle,1997,92,Adventure
+614,The Impossible,2012,114,Adventure
+615,Charlie and the Chocolate Factory,2005,115,Adventure
+616,Aladdin,2019,128,Adventure
+617,Jungle,2017,115,Adventure
+618,Star Trek,2009,127,Adventure
+619,Pirates of the Caribbean: Dead Men Tell No Tales,2017,129,Adventure
+620,Robin Hood: Prince of Thieves,1991,143,Adventure
+621,Tangled,2010,100,Adventure
+622,Percy Jackson & the Olympians: The Lightning Thief,2010,118,Adventure
+623,Batman,1989,126,Adventure
+624,Captain Marvel,2019,123,Adventure
+625,Austin Powers: International Man of Mystery,1997,89,Adventure
+626,The Secret Life of Walter Mitty,2013,114,Adventure
+627,The Mummy Returns,2001,130,Adventure
+628,The Princess and the Frog,2009,97,Adventure
+629,Stardust,2007,127,Adventure
+630,"Monsters, Inc.",2001,92,Adventure
+631,Mortal Kombat,2021,110,Adventure
+632,Mad Max,1979,88,Adventure
+633,Romancing the Stone,1984,106,Adventure
+634,Star Wars: Episode VIII - The Last Jedi,2017,152,Adventure
+635,Star Wars: Episode III - Revenge of the Sith,2005,140,Adventure
+636,"O Brother, Where Art Thou?",2000,107,Adventure
+637,Cruella,2021,134,Adventure
+638,The Mosquito Coast,1986,117,Adventure
+639,The Happening,2008,91,Adventure
+640,Kantara,2022,148,Adventure
+641,Enchanted,2007,107,Adventure
+642,Mission: Impossible - Ghost Protocol,2011,132,Adventure
+643,Cast Away,2000,143,Adventure
+644,Dr. No,1962,110,Adventure
+645,How to Train Your Dragon,2010,98,Adventure
+646,Soul,2020,100,Adventure
+647,The Last Airbender,2010,103,Adventure
+648,Ad Astra,2019,123,Adventure
+649,Super Mario Bros.,1993,104,Adventure
+650,The Man from Toronto,2022,110,Adventure
+651,Speed,1994,116,Adventure
+652,Cloverfield,2008,85,Adventure
+653,Solo: A Star Wars Story,2018,135,Adventure
+654,Spectre,2015,148,Adventure
+655,Prospect,2018,100,Adventure
+656,Cannibal Holocaust,1980,95,Adventure
+657,We Have a Ghost,2023,126,Adventure
+658,Doctor Strange,2016,115,Adventure
+659,Tomb Raider,2018,119,Adventure
+660,Iron Man Three,2013,130,Adventure
+661,Lawrence of Arabia,1962,218,Adventure
+662,The Parent Trap,1998,128,Adventure
+663,Riddick,2013,119,Adventure
+664,28 Weeks Later,2007,100,Adventure
+665,Stargate,1994,116,Adventure
+666,Cloudy with a Chance of Meatballs,2009,90,Adventure
+667,The Tomorrow War,2021,138,Adventure
+668,"Crouching Tiger, Hidden Dragon",2000,120,Adventure
+669,The Last of the Mohicans,1992,112,Adventure
+670,Holes,2003,117,Adventure
+671,Lightyear,2022,105,Adventure
+672,Alice in Wonderland,2010,108,Adventure
+673,X-Men: Apocalypse,2016,144,Adventure
+674,Men in Black 3,2012,106,Adventure
+675,Spider-Man 3,2007,139,Adventure
+676,War,2019,154,Adventure
+677,Robin Hood: Men in Tights,1993,104,Adventure
+678,Valerian and the City of a Thousand Planets,2017,136,Adventure
+679,Zoom,2006,83,Adventure
+680,Game Night,2018,100,Adventure
+681,Spaceballs,1987,96,Adventure
+682,Indiana Jones and the Kingdom of the Crystal Skull,2008,122,Adventure
+683,Captain America: The Winter Soldier,2014,136,Adventure
+684,Deep Blue Sea,1999,105,Adventure
+685,Trolls,2016,92,Adventure
+686,Night at the Museum,2006,108,Adventure
+687,Sherlock Holmes,2009,128,Adventure
+688,First Blood,1982,93,Adventure
+689,Fantastic Beasts: The Crimes of Grindelwald,2018,134,Adventure
+690,Sausage Party,2016,89,Adventure
+691,Superman,1978,143,Adventure
+692,Aladdin,1992,90,Adventure
+693,Jumanji,1995,104,Adventure
+694,Spider-Man: Far from Home,2019,129,Adventure
+695,Pirates of the Caribbean: Dead Man's Chest,2006,151,Adventure
+696,The Green Knight,2021,130,Adventure
+697,The Mummy,2017,110,Adventure
+698,San Andreas,2015,114,Adventure
+699,Toy Story 3,2010,103,Adventure
+700,Miss Willoughby and the Haunted Bookshop,2021,90,Adventure
+701,The Amazing Spider-Man,2012,136,Adventure
+702,Legend,1985,94,Adventure
+703,King Kong,2005,187,Adventure
+704,Incredibles 2,2018,118,Adventure
+705,Jumanji: The Next Level,2019,123,Adventure
+706,The Greatest Beer Run Ever,2022,126,Adventure
+707,Thelma & Louise,1991,130,Adventure
+708,Mulan,1998,87,Adventure
+709,Star Wars: Episode II - Attack of the Clones,2002,142,Adventure
+710,Chef,2014,114,Adventure
+711,Venom,2018,112,Adventure
+712,Star Trek Beyond,2016,122,Adventure
+713,Gods of Egypt,2016,127,Adventure
+714,Cinderella,2015,105,Adventure
+715,The Hunt for Red October,1990,135,Adventure
+716,The Beach,2000,119,Adventure
+717,Masters of the Universe,1987,106,Adventure
+718,Escape Room,2019,99,Adventure
+719,Charlie's Angels,2019,118,Adventure
+720,The Magnificent Seven,1960,128,Adventure
+721,Mission: Impossible II,2000,123,Adventure
+722,The Descent,2005,99,Adventure
+723,Logan's Run,1976,119,Adventure
+724,Escape from New York,1981,99,Adventure
+725,Mulan,2020,115,Adventure
+726,X-Men: Dark Phoenix,2019,113,Adventure
+727,The World Is Not Enough,1999,128,Adventure
+728,King Arthur: Legend of the Sword,2017,126,Adventure
+729,Life of Pi,2012,127,Adventure
+730,Despicable Me,2010,95,Adventure
+731,The Count of Monte Cristo,2002,131,Adventure
+732,Men in Black II,2002,88,Adventure
+733,The Lego Movie,2014,100,Adventure
+734,Raya and the Last Dragon,2021,107,Adventure
+735,The Incredible Hulk,2008,112,Adventure
+736,Smokey and the Bandit,1977,96,Adventure
+737,The Mask of Zorro,1998,136,Adventure
+738,Jungle Cruise,2021,127,Adventure
+739,The Book of Eli,2010,118,Adventure
+740,Master and Commander: The Far Side of the World,2003,138,Adventure
+741,Pirates of the Caribbean: On Stranger Tides,2011,136,Adventure
+742,A Bug's Life,1998,95,Adventure
+743,The Magnificent Seven,2016,132,Adventure
+744,Luck,2022,105,Adventure
+745,Now You See Me 2,2016,129,Adventure
+746,The Twilight Saga: Breaking Dawn - Part 2,2012,115,Adventure
+747,Suzume,2022,122,Adventure
+748,Transformers: Age of Extinction,2014,165,Adventure
+749,Frozen II,2019,103,Adventure
+750,Pacific Rim,2013,131,Adventure
+751,Ice Age,2002,81,Adventure
+752,The Mummy: Tomb of the Dragon Emperor,2008,112,Adventure
+753,Highlander,1986,116,Adventure
+754,Bumblebee,2018,114,Adventure
+755,Puss in Boots: The Last Wish,2022,102,Animation
+756,The Super Mario Bros. Movie,2023,92,Animation
+757,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,2023,110,Animation
+758,Guillermo del Toro's Pinocchio,2022,117,Animation
+759,"Lyle, Lyle, Crocodile",2022,106,Animation
+760,The Lion King,2019,118,Animation
+761,Marcel the Shell with Shoes On,2021,90,Animation
+762,Encanto,2021,102,Animation
+763,Sing 2,2021,110,Animation
+764,Mummies,2023,88,Animation
+765,Puss in Boots,2011,90,Animation
+766,Spider-Man: Into the Spider-Verse,2018,117,Animation
+767,The Lion King,1994,88,Animation
+768,Strange World,2022,102,Animation
+769,Cars,2006,117,Animation
+770,The Bad Guys,2022,100,Animation
+771,Spirited Away,2001,125,Animation
+772,Turning Red,2022,100,Animation
+773,Ratatouille,2007,111,Animation
+774,Minions: The Rise of Gru,2022,87,Animation
+775,The Sea Beast,2022,115,Animation
+776,Zootopia,2016,108,Animation
+777,Moana,2016,107,Animation
+778,Shrek,2001,90,Animation
+779,Sing,2016,108,Animation
+780,Toy Story,1995,81,Animation
+781,Suzume,2022,122,Animation
+782,Frozen,2013,102,Animation
+783,Howl's Moving Castle,2004,119,Animation
+784,Inside Out,2015,95,Animation
+785,Your Name.,2016,106,Animation
+786,Coco,2017,105,Animation
+787,How to Train Your Dragon,2010,98,Animation
+788,Kung Fu Panda,2008,92,Animation
+789,Finding Nemo,2003,100,Animation
+790,Tangled,2010,100,Animation
+791,Hercules,1997,93,Animation
+792,The Amazing Maurice,2022,93,Animation
+793,Disenchanted,2022,119,Animation
+794,"Monsters, Inc.",2001,92,Animation
+795,WALL·E,2008,98,Animation
+796,The Incredibles,2004,115,Animation
+797,Up,2009,96,Animation
+798,A Bug's Life,1998,95,Animation
+799,DC League of Super-Pets,2022,105,Animation
+800,Beauty and the Beast,1991,84,Animation
+801,Shrek 2,2004,93,Animation
+802,Fantastic Mr. Fox,2009,87,Animation
+803,The Little Mermaid,1989,83,Animation
+804,Aladdin,1992,90,Animation
+805,Trolls,2016,92,Animation
+806,Soul,2020,100,Animation
+807,The Princess and the Frog,2009,97,Animation
+808,Grave of the Fireflies,1988,89,Animation
+809,Despicable Me,2010,95,Animation
+810,Toy Story 3,2010,103,Animation
+811,Lightyear,2022,105,Animation
+812,Enchanted,2007,107,Animation
+813,Toy Story 4,2019,100,Animation
+814,Princess Mononoke,1997,134,Animation
+815,The Lego Movie,2014,100,Animation
+816,Elemental,2023,93,Animation
+817,Legion of Super-Heroes,2023,83,Animation
+818,"South Park: Bigger, Longer & Uncut",1999,81,Animation
+819,Luca,2021,95,Animation
+820,Perfect Blue,1997,81,Animation
+821,Mulan,1998,87,Animation
+822,Raya and the Last Dragon,2021,107,Animation
+823,Ice Age,2002,81,Animation
+824,Lilo & Stitch,2002,85,Animation
+825,Demon Slayer the Movie: Mugen Train,2020,117,Animation
+826,Coraline,2009,100,Animation
+827,Rio,2011,96,Animation
+828,The Prince of Egypt,1998,99,Animation
+829,Peter Pan,1953,77,Animation
+830,Brave,2012,93,Animation
+831,Spirit: Stallion of the Cimarron,2002,83,Animation
+832,Luck,2022,105,Animation
+833,Madagascar,2005,86,Animation
+834,The Mitchells vs the Machines,2021,114,Animation
+835,The Lorax,2012,86,Animation
+836,Rango,2011,107,Animation
+837,Wreck-It Ralph,2012,101,Animation
+838,Incredibles 2,2018,118,Animation
+839,How to Train Your Dragon: The Hidden World,2019,104,Animation
+840,Frozen II,2019,103,Animation
+841,Who Framed Roger Rabbit,1988,104,Animation
+842,Monsters University,2013,104,Animation
+843,Atlantis: The Lost Empire,2001,95,Animation
+844,Anastasia,1997,94,Animation
+845,Space Jam: A New Legacy,2021,115,Animation
+846,The Emperor's New Groove,2000,78,Animation
+847,Tarzan,1999,88,Animation
+848,Hotel Transylvania,2012,91,Animation
+849,My Neighbor Totoro,1988,86,Animation
+850,Mad God,2021,83,Animation
+851,Treasure Planet,2002,95,Animation
+852,Sausage Party,2016,89,Animation
+853,Monsters vs. Aliens,2009,94,Animation
+854,Big Hero 6,2014,102,Animation
+855,Minions,2015,91,Animation
+856,Toy Story 2,1999,92,Animation
+857,FernGully: The Last Rainforest,1992,76,Animation
+858,Hotel Transylvania: Transformania,2022,87,Animation
+859,Akira,1988,124,Animation
+860,Cloudy with a Chance of Meatballs,2009,90,Animation
+861,Shrek the Third,2007,93,Animation
+862,Kung Fu Panda 3,2016,95,Animation
+863,Robots,2005,91,Animation
+864,Pocahontas,1995,81,Animation
+865,Megamind,2010,95,Animation
+866,Flushed Away,2006,85,Animation
+867,Paws of Fury: The Legend of Hank,2022,98,Animation
+868,Cars 3,2017,102,Animation
+869,The Jungle Book,1967,78,Animation
+870,Cars 2,2011,106,Animation
+871,Ralph Breaks the Internet,2018,112,Animation
+872,The Lego Batman Movie,2017,104,Animation
+873,Chip 'n Dale: Rescue Rangers,2022,97,Animation
+874,Shrek Forever After,2010,95,Animation
+875,The Hunchback of Notre Dame,1996,91,Animation
+876,The Croods: A New Age,2020,95,Animation
+877,Robin Hood,1973,83,Animation
+878,Space Jam,1996,88,Animation
+879,The Adventures of Tintin,2011,107,Animation
+880,Horton Hears a Who!,2008,86,Animation
+881,Hoodwinked!,2005,80,Animation
+882,The Secret Life of Pets,2016,87,Animation
+883,The Iron Giant,1999,86,Animation
+884,Meet the Robinsons,2007,95,Animation
+885,Kung Fu Panda 2,2011,90,Animation
+886,The Croods,2013,98,Animation
+887,Alvin and the Chipmunks,2007,92,Animation
+888,The Nightmare Before Christmas,1993,76,Animation
+889,How to Train Your Dragon 2,2014,102,Animation
+890,Entergalactic,2022,93,Animation
+891,A Silent Voice: The Movie,2016,130,Animation
+892,Trolls World Tour,2020,91,Animation
+893,Finding Dory,2016,97,Animation
+894,The AristoCats,1970,78,Animation
+895,Chicken Run,2000,84,Animation
+896,Bolt,2008,96,Animation
+897,Isle of Dogs,2018,101,Animation
+898,Despicable Me 2,2013,98,Animation
+899,Kiki's Delivery Service,1989,103,Animation
+900,The Road to El Dorado,2000,89,Animation
+901,Ghost in the Shell,1995,83,Animation
+902,A Goofy Movie,1995,78,Animation
+903,Over the Hedge,2006,83,Animation
+904,Bee Movie,2007,91,Animation
+905,Snow White and the Seven Dwarfs,1937,83,Animation
+906,Home,2015,94,Animation
+907,Tom and Jerry,2021,101,Animation
+908,Red Shoes and the Seven Dwarfs,2019,92,Animation
+909,PAW Patrol: The Movie,2021,86,Animation
+910,The House,2022,97,Animation
+911,Ponyo,2008,101,Animation
+912,Shark Tale,2004,90,Animation
+913,The Addams Family,2019,86,Animation
+914,Angry Birds,2016,97,Animation
+915,Alice in Wonderland,1951,75,Animation
+916,The Good Dinosaur,2015,93,Animation
+917,Onward,2020,102,Animation
+918,The Boss Baby,2017,97,Animation
+919,Dragon Ball Super: Super Hero,2022,100,Animation
+920,Dinosaur,2000,82,Animation
+921,The Book of Life,2014,95,Animation
+922,Vivo,2021,95,Animation
+923,The First Slam Dunk,2022,124,Animation
+924,A Scanner Darkly,2006,100,Animation
+925,Belle,2021,121,Animation
+926,Wendell & Wild,2022,105,Animation
+927,Beowulf,2007,115,Animation
+928,The Land Before Time,1988,69,Animation
+929,Song of the South,1946,94,Animation
+930,Weathering with You,2019,112,Animation
+931,Kubo and the Two Strings,2016,101,Animation
+932,9,2009,79,Animation
+933,Cinderella,1950,74,Animation
+934,Turbo,2013,96,Animation
+935,Ferdinand,2017,108,Animation
+936,Brother Bear,2003,85,Animation
+937,The Polar Express,2004,100,Animation
+938,Gnomeo & Juliet,2011,84,Animation
+939,Happy Feet,2006,108,Animation
+940,Corpse Bride,2005,77,Animation
+941,Heavy Metal,1981,86,Animation
+942,Paprika,2006,90,Animation
+943,Ice Age: Continental Drift,2012,88,Animation
+944,One Hundred and One Dalmatians,1961,79,Animation
+945,The Lego Movie 2: The Second Part,2019,107,Animation
+946,Open Season,2006,86,Animation
+947,Despicable Me 3,2017,89,Animation
+948,Chicken Little,2005,81,Animation
+949,The Wind Rises,2013,126,Animation
+950,The Secret World of Arrietty,2010,94,Animation
+951,The Fox and the Hound,1981,83,Animation
+952,Oliver & Company,1988,74,Animation
+953,Jujutsu Kaisen 0: The Movie,2021,112,Animation
+954,Lady and the Tramp,1955,76,Animation
+955,Monster House,2006,91,Animation
+956,Sleeping Beauty,1959,75,Animation
+957,Castle in the Sky,1986,125,Animation
+958,The Grinch,2018,85,Animation
+959,Nausicaä of the Valley of the Wind,1984,117,Animation
+960,Spies in Disguise,2019,102,Animation
+961,Ice Age: Dawn of the Dinosaurs,2009,94,Animation
+962,Aqua Teen Forever: Plantasm,2022,79,Animation
+963,The Lord of the Rings,1978,132,Animation
+964,Garfield,2004,80,Animation
+965,James and the Giant Peach,1996,79,Animation
+966,Ladybug & Cat Noir: Awakening,2023,105,Animation
+967,Memories,1995,113,Animation
+968,Ice Age: Collision Course,2016,94,Animation
+969,Rumble,2021,95,Animation
+970,Cool World,1992,102,Animation
+971,Madagascar: Escape 2 Africa,2008,89,Animation
+972,The SpongeBob SquarePants Movie,2004,87,Animation
+973,Hotel Transylvania 2,2015,89,Animation
+974,Madagascar 3: Europe's Most Wanted,2012,93,Animation
+975,Pinocchio,1940,88,Animation
+976,Mary and Max,2009,92,Animation
+977,Antz,1998,83,Animation
+978,Cloudy with a Chance of Meatballs 2,2013,95,Animation
+979,Surf's Up,2007,85,Animation
+980,Storks,2016,87,Animation
+981,Klaus,2019,96,Animation
+982,Wish Dragon,2021,98,Animation
+983,Clifford the Big Red Dog,2021,96,Animation
+984,Ice Age: The Meltdown,2006,91,Animation
+985,Hotel Transylvania 3: Summer Vacation,2018,97,Animation
+986,Ron's Gone Wrong,2021,107,Animation
+987,Epic,2013,102,Animation
+988,Mavka: The Forest Song,2023,90,Animation
+989,Unicorn Wars,2022,80,Animation
+990,The Black Cauldron,1985,80,Animation
+991,Night at the Museum: Kahmunrah Rises Again,2022,77,Animation
+992,The Emoji Movie,2017,86,Animation
+993,Rise of the Guardians,2012,97,Animation
+994,I Want to Eat Your Pancreas,2018,109,Animation
+995,Penguins of Madagascar,2014,92,Animation
+996,Alvin and the Chipmunks: The Squeakquel,2009,88,Animation
+997,The Rescuers,1977,77,Animation
+998,The Bob's Burgers Movie,2022,102,Animation
+999,Winnie the Pooh,2011,63,Animation
+1000,Demon Slayer: Kimetsu no Yaiba - Tsuzumi Mansion Arc,2021,87,Animation
+1001,Injustice,2021,78,Animation
+1002,Wolfwalkers,2020,103,Animation
+1003,Hop,2011,95,Animation
+1004,The Simpsons Movie,2007,87,Animation
+1005,Planes,2013,91,Animation
+1006,Whisper of the Heart,1995,111,Animation
+1007,Fantastic Planet,1973,72,Animation
+1008,The Boss Baby: Family Business,2021,107,Animation
+1009,Rio 2,2014,101,Animation
+1010,The Lego Ninjago Movie,2017,101,Animation
+1011,Bedknobs and Broomsticks,1971,117,Animation
+1012,Epic Tales,2022,95,Animation
+1013,The Rescuers Down Under,1990,77,Animation
+1014,Loving Vincent,2017,94,Animation
+1015,The Great Mouse Detective,1986,74,Animation
+1016,Fantasia,1940,124,Animation
+1017,Titan A.E.,2000,94,Animation
+1018,Neon Genesis Evangelion: The End of Evangelion,1997,87,Animation
+1019,An American Tail,1986,80,Animation
+1020,Waking Life,2001,99,Animation
+1021,The Angry Birds Movie 2,2019,97,Animation
+1022,All Dogs Go to Heaven,1989,84,Animation
+1023,Scoob!,2020,93,Animation
+1024,Astro Boy,2009,94,Animation
+1025,The Secret of NIMH,1982,82,Animation
+1026,Looney Tunes: Back in Action,2003,91,Animation
+1027,The Pagemaster,1994,80,Animation
+1028,Osmosis Jones,2001,95,Animation
+1029,Mr. Peabody & Sherman,2014,92,Animation
+1030,Captain Underpants: The First Epic Movie,2017,89,Animation
+1031,Pete's Dragon,1977,128,Animation
+1032,The Cat Returns,2002,75,Animation
+1033,The Smurfs,2011,103,Animation
+1034,The Ice Age Adventures of Buck Wild,2022,82,Animation
+1035,The Sword in the Stone,1963,79,Animation
+1036,Back to the Outback,2021,95,Animation
+1037,The Secret Life of Pets 2,2019,86,Animation
+1038,Watership Down,1978,91,Animation
+1039,Bambi,1942,69,Animation
+1040,Fire and Ice,1983,81,Animation
+1041,"Katak, the Brave Beluga",2023,82,Animation
+1042,Fritz the Cat,1972,78,Animation
+1043,The Magician's Elephant,2023,99,Animation
+1044,Barnyard,2006,90,Animation
+1045,The Last Unicorn,1982,92,Animation
+1046,The Smurfs 2,2013,105,Animation
+1047,The Addams Family 2,2021,93,Animation
+1048,The SpongeBob Movie: Sponge Out of Water,2015,92,Animation
+1049,Redline,2009,102,Animation
+1050,Batman: The Killing Joke,2016,76,Animation
+1051,Tales from Earthsea,2006,115,Animation
+1053,Monkeybone,2001,93,Animation
+1054,The Witcher: Nightmare of the Wolf,2021,83,Animation
+1055,The Curse of the Were-Rabbit,2005,85,Animation
+1056,Smurfs: The Lost Village,2017,90,Animation
+1057,Leap!,2016,89,Animation
+1058,Vampire Hunter D: Bloodlust,2000,103,Animation
+1059,The Boxtrolls,2014,96,Animation
+1060,The Tale of The Princess Kaguya,2013,137,Animation
+1061,Apollo 10½: A Space Age Childhood,2022,97,Animation
+1062,Green Lantern: Beware My Power,2022,88,Animation
+1063,Where Is Anne Frank,2021,99,Animation
+1064,5 Centimeters per Second,2007,63,Animation
+1065,Sinbad: Legend of the Seven Seas,2003,86,Animation
+1066,One Piece Film: Red,2022,115,Animation
+1067,Porco Rosso,1992,94,Animation
+1068,Song of the Sea,2014,93,Animation
+1069,Arthur and the Invisibles,2006,94,Animation
+1070,Thumbelina,1994,86,Animation
+1071,ParaNorman,2012,92,Animation
+1072,Where the Dead Go to Die,2012,95,Animation
+1073,My Little Pony: The Movie,2017,99,Animation
+1074,Balto,1995,78,Animation
+1075,Over the Moon,2020,95,Animation
+1076,Coyote v. Acme,2023,98,Animation
+1077,Elvis,2022,159,Biography
+1078,The Wolf of Wall Street,2013,180,Biography
+1079,Catch Me If You Can,2002,141,Biography
+1080,Emily,2022,130,Biography
+1081,Blonde,2022,167,Biography
+1082,Goodfellas,1990,145,Biography
+1083,Schindler's List,1993,195,Biography
+1084,Chariots of Fire,1981,125,Biography
+1085,Hacksaw Ridge,2016,139,Biography
+1086,Green Book,2018,130,Biography
+1087,Whitney Houston: I Wanna Dance with Somebody,2022,144,Biography
+1088,Hidden Figures,2016,127,Biography
+1089,Weird: The Al Yankovic Story,2022,108,Biography
+1090,True Spirit,2023,109,Biography
+1091,The Good Nurse,2022,121,Biography
+1092,The Greatest Showman,2017,105,Biography
+1093,Sully,2016,96,Biography
+1094,Ford v Ferrari,2019,152,Biography
+1095,The Irishman,2019,209,Biography
+1096,Braveheart,1995,178,Biography
+1097,Tombstone,1993,130,Biography
+1098,Erin Brockovich,2000,131,Biography
+1099,"Argentina, 1985",2022,140,Biography
+1100,The Social Network,2010,120,Biography
+1101,The Big Short,2015,130,Biography
+1102,Operation Finale,2018,122,Biography
+1103,Hamilton,2020,160,Biography
+1104,The King,2019,140,Biography
+1105,The Intouchables,2011,112,Biography
+1106,The Pianist,2002,150,Biography
+1107,Tetris,2023,120,Biography
+1108,Father Stu,2022,124,Biography
+1109,The Sound of Music,1965,172,Biography
+1110,House of Gucci,2021,158,Biography
+1111,The Imitation Game,2014,114,Biography
+1112,Moneyball,2011,133,Biography
+1113,12 Years a Slave,2013,134,Biography
+1114,A Beautiful Mind,2001,135,Biography
+1115,Into the Wild,2007,148,Biography
+1116,Till,2022,130,Biography
+1117,Bohemian Rhapsody,2018,134,Biography
+1118,A Beautiful Day in the Neighborhood,2019,109,Biography
+1119,The Swimmers,2022,134,Biography
+1120,Spotlight,2015,129,Biography
+1121,Amadeus,1984,160,Biography
+1122,Lawrence of Arabia,1962,218,Biography
+1123,The Blind Side,2009,129,Biography
+1124,The Aviator,2004,170,Biography
+1125,Legend,2015,132,Biography
+1126,The Favourite,2018,119,Biography
+1127,The King's Speech,2010,118,Biography
+1128,Remember the Titans,2000,113,Biography
+1129,Coach Carter,2005,136,Biography
+1130,Thirteen Lives,2022,147,Biography
+1131,The Founder,2016,115,Biography
+1132,American Sniper,2014,133,Biography
+1133,Bombshell,2019,109,Biography
+1134,The Pursuit of Happyness,2006,117,Biography
+1135,Belfast,2021,98,Biography
+1136,An American Crime,2007,98,Biography
+1137,Bank of Dave,2023,107,Biography
+1138,The Post,2017,116,Biography
+1139,Rocketman,2019,121,Biography
+1140,"Girl, Interrupted",1999,127,Biography
+1141,Just Mercy,2019,137,Biography
+1142,Downfall,2004,156,Biography
+1143,Beautiful Boy,2018,120,Biography
+1144,Rush,2013,123,Biography
+1145,American Gangster,2007,157,Biography
+1146,Dallas Buyers Club,2013,117,Biography
+1147,Dog Day Afternoon,1975,125,Biography
+1148,Argo,2012,120,Biography
+1149,Lion,2016,118,Biography
+1150,Molly's Game,2017,140,Biography
+1151,Vice,2018,132,Biography
+1152,Corsage,2022,114,Biography
+1153,BlacKkKlansman,2018,135,Biography
+1154,Lone Survivor,2013,121,Biography
+1155,Malcolm X,1992,202,Biography
+1156,Walk the Line,2005,136,Biography
+1157,Benedetta,2021,131,Biography
+1158,Lincoln,2012,150,Biography
+1159,Curiosa,2019,107,Biography
+1160,Everest,2015,121,Biography
+1161,The Fighter,2010,116,Biography
+1162,Jerry and Marge Go Large,2022,96,Biography
+1163,Lamborghini: The Man Behind the Legend,2022,97,Biography
+1164,"I, Tonya",2017,119,Biography
+1165,Straight Outta Compton,2015,147,Biography
+1166,"tick, tick... BOOM!",2021,120,Biography
+1167,Raging Bull,1980,129,Biography
+1168,Hachi: A Dog's Tale,2009,93,Biography
+1169,In Cold Blood,1967,134,Biography
+1170,The Assassination of Jesse James by the Coward Robert Ford,2007,160,Biography
+1171,Jungle,2017,115,Biography
+1172,Dark Waters,2019,126,Biography
+1173,Awakenings,1990,121,Biography
+1174,Heavenly Creatures,1994,99,Biography
+1175,Eat Pray Love,2010,133,Biography
+1176,Monster,2003,109,Biography
+1177,First Man,2018,141,Biography
+1178,Outlaw King,2018,121,Biography
+1179,Unbroken,2014,137,Biography
+1180,The Elephant Man,1980,124,Biography
+1181,Judas and the Black Messiah,2021,126,Biography
+1182,The Basketball Diaries,1995,102,Biography
+1183,War Dogs,2016,114,Biography
+1184,Butch Cassidy and the Sundance Kid,1969,110,Biography
+1185,The Highwaymen,2019,132,Biography
+1186,Above Suspicion,2019,104,Biography
+1187,King Richard,2021,144,Biography
+1188,Bloodsport,1988,92,Biography
+1189,The Dirt,2019,107,Biography
+1190,The Banker,2020,120,Biography
+1191,Darkest Hour,2017,125,Biography
+1192,Harriet,2019,125,Biography
+1193,BlackBerry,2023,122,Biography
+1194,Richard Jewell,2019,131,Biography
+1195,Mask,1985,120,Biography
+1196,42,2013,128,Biography
+1197,Out of Africa,1985,161,Biography
+1198,This Boy's Life,1993,115,Biography
+1199,Only the Brave,2017,134,Biography
+1200,Public Enemies,2009,140,Biography
+1201,Worth,2020,118,Biography
+1202,Fruitvale Station,2013,85,Biography
+1203,Lawless,2012,116,Biography
+1204,Captain Phillips,2013,134,Biography
+1205,Blow,2001,124,Biography
+1206,The Theory of Everything,2014,123,Biography
+1207,Dog Gone,2023,95,Biography
+1208,Fighting with My Family,2019,108,Biography
+1209,Marie Antoinette,2006,123,Biography
+1210,Donnie Brasco,1997,127,Biography
+1211,Cleopatra,1963,192,Biography
+1212,Patch Adams,1998,115,Biography
+1213,In the Heart of the Sea,2015,122,Biography
+1214,The Danish Girl,2015,119,Biography
+1215,127 Hours,2010,94,Biography
+1216,Wyatt Earp,1994,191,Biography
+1217,The Eyes of Tammy Faye,2021,126,Biography
+1218,Mank,2020,131,Biography
+1219,Alexander,2004,175,Biography
+1220,Munich: The Edge of War,2021,130,Biography
+1221,Jarhead,2005,125,Biography
+1222,The Butler,2013,132,Biography
+1223,The Disaster Artist,2017,104,Biography
+1224,Glory,1989,122,Biography
+1225,Wild,2014,115,Biography
+1226,Spencer,2021,117,Biography
+1227,The Lost City of Z,2016,141,Biography
+1228,Chevalier,2022,107,Biography
+1229,The Dig,2021,112,Biography
+1230,Judy,2019,118,Biography
+1231,Papillon,2017,133,Biography
+1232,Born on the Fourth of July,1989,145,Biography
+1233,Chisum,1970,111,Biography
+1234,The People vs. Larry Flynt,1996,130,Biography
+1235,Cherry,2021,142,Biography
+1236,Midnight Express,1978,121,Biography
+1237,Spartacus,1960,197,Biography
+1238,Serpico,1973,130,Biography
+1239,October Sky,1999,108,Biography
+1240,Amistad,1997,155,Biography
+1241,Julie & Julia,2009,123,Biography
+1242,What's Love Got to Do with It,1993,118,Biography
+1243,The Other Boleyn Girl,2008,115,Biography
+1244,The Doors,1991,140,Biography
+1245,Gandhi,1982,191,Biography
+1246,Escape from Alcatraz,1979,112,Biography
+1247,American Underdog,2021,112,Biography
+1248,"Extremely Wicked, Shockingly Evil and Vile",2019,110,Biography
+1249,Ammonite,2020,120,Biography
+1250,In the Name of the Father,1993,133,Biography
+1251,Elizabeth,1998,124,Biography
+1252,Padre Pio,2022,104,Biography
+1253,Lovelace,2013,93,Biography
+1254,Ip Man,2008,106,Biography
+1255,The Last Emperor,1987,163,Biography
+1256,On the Basis of Sex,2018,120,Biography
+1257,Boy Erased,2018,115,Biography
+1258,The Lover,1992,115,Biography
+1259,Hollywoodland,2006,126,Biography
+1260,The Mauritanian,2021,129,Biography
+1261,Boys Don't Cry,1999,118,Biography
+1262,Miracle,2004,135,Biography
+1263,A Futile and Stupid Gesture,2018,101,Biography
+1264,Girl with a Pearl Earring,2003,100,Biography
+1265,Cinderella Man,2005,144,Biography
+1266,The Electrical Life of Louis Wain,2021,111,Biography
+1267,Hotel Rwanda,2004,121,Biography
+1268,My Left Foot,1989,103,Biography
+1269,Age of Consent,1969,98,Biography
+1270,A Dangerous Method,2011,99,Biography
+1271,I Want to Live!,1958,120,Biography
+1272,Bonnie and Clyde,1967,111,Biography
+1273,Freedom Writers,2007,123,Biography
+1274,The Killing Fields,1984,141,Biography
+1275,The Report,2019,119,Biography
+1276,Frida,2002,123,Biography
+1277,Benediction,2021,137,Biography
+1278,Mary Queen of Scots,2018,124,Biography
+1279,Black Mass,2015,123,Biography
+1280,The Rise and Fall of Legs Diamond,1960,101,Biography
+1281,Alpha Dog,2006,122,Biography
+1282,Foxcatcher,2014,134,Biography
+1283,Alive,1993,128,Biography
+1284,The Insider,1999,157,Biography
+1285,Papillon,1973,151,Biography
+1286,Official Secrets,2019,112,Biography
+1287,3096 Tage,2013,111,Biography
+1288,Saving Mr. Banks,2013,125,Biography
+1289,Joy,2015,124,Biography
+1290,The Runaways,2010,106,Biography
+1291,The Duke,2020,95,Biography
+1292,Men of Honor,2000,129,Biography
+1293,Steve Jobs,2015,122,Biography
+1294,Chaplin,1992,143,Biography
+1295,Rudy,1993,114,Biography
+1296,The Glass Castle,2017,127,Biography
+1297,Never Look Away,2018,189,Biography
+1298,Woman in Gold,2015,109,Biography
+1299,My Son Hunter,2022,95,Biography
+1300,Snowden,2016,134,Biography
+1301,Adrift,2018,96,Biography
+1302,Ed Wood,1994,127,Biography
+1303,Changeling,2008,141,Biography
+1304,The Iron Lady,2011,105,Biography
+1305,The Last King of Scotland,2006,123,Biography
+1306,The Survivor,2021,129,Biography
+1307,Charlie Wilson's War,2007,102,Biography
+1308,Spinning Gold,2023,137,Biography
+1309,Respect,2021,145,Biography
+1310,Communion,1989,107,Biography
+1311,"Good Morning, Vietnam",1987,121,Biography
+1312,The Infiltrator,2016,127,Biography
+1313,Eiffel,2021,108,Biography
+1314,All the Money in the World,2017,132,Biography
+1315,Whiskey Tango Foxtrot,2016,112,Biography
+1316,A Hidden Life,2019,174,Biography
+1317,The Wind Rises,2013,126,Biography
+1318,Shock and Awe,2017,90,Biography
+1319,Ali,2001,157,Biography
+1320,Miracles from Heaven,2016,109,Biography
+1321,Gangubai Kathiawadi,2022,152,Biography
+1322,Seven Years in Tibet,1997,136,Biography
+1323,I Can Only Imagine,2018,110,Biography
+1324,Glass Onion,2022,139,Crime
+1325,Infinity Pool,2023,117,Crime
+1326,The Pale Blue Eye,2022,128,Crime
+1327,Infiesto,2023,96,Crime
+1328,The Batman,2022,176,Crime
+1329,The Godfather,1972,175,Crime
+1330,Knives Out,2019,130,Crime
+1331,Vadh,2022,110,Crime
+1332,The Wolf of Wall Street,2013,180,Crime
+1333,The Unbearable Weight of Massive Talent,2022,107,Crime
+1334,Pulp Fiction,1994,154,Crime
+1335,The Dark Knight,2008,152,Crime
+1336,American Psycho,2000,102,Crime
+1337,John Wick: Chapter 4,2023,169,Crime
+1338,Decision to Leave,2022,139,Crime
+1339,Little Dixie,2023,105,Crime
+1340,An Action Hero,2022,130,Crime
+1341,Luther: The Fallen Sun,2023,129,Crime
+1342,John Wick,2014,101,Crime
+1343,The Gentlemen,2019,113,Crime
+1344,F9: The Fast Saga,2021,143,Crime
+1345,Violent Night,2022,112,Crime
+1346,Nobody,2021,92,Crime
+1347,Prisoners,2013,153,Crime
+1348,Catch Me If You Can,2002,141,Crime
+1349,Minions: The Rise of Gru,2022,87,Crime
+1350,Joker,2019,122,Crime
+1351,The Fast and the Furious,2001,106,Crime
+1352,In Bruges,2008,107,Crime
+1353,No Country for Old Men,2007,122,Crime
+1354,Emily the Criminal,2022,97,Crime
+1355,Taxi Driver,1976,114,Crime
+1356,Goodfellas,1990,145,Crime
+1357,Death on the Nile,2022,127,Crime
+1358,Se7en,1995,127,Crime
+1359,Shazam! Fury of the Gods,2023,130,Crime
+1360,The Silence of the Lambs,1991,118,Crime
+1361,Heat,1995,170,Crime
+1362,The Departed,2006,151,Crime
+1363,Transfusion,2023,106,Crime
+1364,Kingsman: The Golden Circle,2017,141,Crime
+1365,The Grand Budapest Hotel,2014,99,Crime
+1366,See How They Run,2022,98,Crime
+1367,The Green Mile,1999,189,Crime
+1368,The Good Nurse,2022,121,Crime
+1369,"Three Billboards Outside Ebbing, Missouri",2017,115,Crime
+1370,The Godfather Part II,1974,202,Crime
+1371,Irreversible,2002,97,Crime
+1372,The Stranger,2022,117,Crime
+1373,Léon: The Professional,1994,110,Crime
+1374,Murder Mystery,2019,97,Crime
+1375,Sharper,2023,116,Crime
+1376,White Chicks,2004,109,Crime
+1377,12 Angry Men,1957,96,Crime
+1378,Sicario,2015,121,Crime
+1379,The Little Things,2021,128,Crime
+1380,Scarface,1983,170,Crime
+1381,A Clockwork Orange,1971,136,Crime
+1382,Promising Young Woman,2020,113,Crime
+1383,From Dusk Till Dawn,1996,108,Crime
+1384,The Outfit,2022,105,Crime
+1385,The Outsiders,1983,91,Crime
+1386,The Bad Guys,2022,100,Crime
+1387,Poker Face,2022,94,Crime
+1388,The Usual Suspects,1995,106,Crime
+1389,John Wick: Chapter 3 - Parabellum,2019,130,Crime
+1390,The Irishman,2019,209,Crime
+1391,Baywatch,2017,116,Crime
+1392,Wrath of Man,2021,119,Crime
+1393,Reservoir Dogs,1992,99,Crime
+1394,Mystic River,2003,138,Crime
+1395,Enola Holmes 2,2022,129,Crime
+1396,The Big Lebowski,1998,117,Crime
+1397,Marlowe,2022,110,Crime
+1398,Snatch,2000,102,Crime
+1399,John Wick: Chapter 2,2017,122,Crime
+1400,Once Upon a Time in America,1984,229,Crime
+1401,American History X,1998,119,Crime
+1402,American Hustle,2013,138,Crime
+1403,Enough,2002,115,Crime
+1404,Orphan: First Kill,2022,99,Crime
+1405,Heavenly Creatures,1994,99,Crime
+1406,Road to Perdition,2002,117,Crime
+1407,"Argentina, 1985",2022,140,Crime
+1408,Clue,1985,94,Crime
+1409,Baby Driver,2017,113,Crime
+1410,Ambulance,2022,136,Crime
+1411,City of God,2002,130,Crime
+1412,The Hateful Eight,2015,168,Crime
+1413,House of Gucci,2021,158,Crime
+1414,Batman Begins,2005,140,Crime
+1415,The Equalizer,2014,132,Crime
+1416,Wind River,2017,107,Crime
+1417,Nightmare Alley,2021,150,Crime
+1418,Lou,2022,107,Crime
+1419,Above Suspicion,2019,104,Crime
+1420,The Longest Yard,2005,113,Crime
+1421,RoboCop,1987,102,Crime
+1422,21 Jump Street,2012,109,Crime
+1423,Kill Bill: Vol. 1,2003,111,Crime
+1424,Murder on the Orient Express,2017,114,Crime
+1425,Now You See Me,2013,115,Crime
+1426,Zootopia,2016,108,Crime
+1427,Casino,1995,178,Crime
+1428,True Romance,1993,119,Crime
+1429,Legend,2015,132,Crime
+1430,Holy Spider,2022,118,Crime
+1431,Hell or High Water,2016,102,Crime
+1432,Bad Boys,1995,119,Crime
+1433,Karen,2021,89,Crime
+1434,Nightcrawler,2014,117,Crime
+1435,Enola Holmes,2020,123,Crime
+1436,Zodiac,2007,157,Crime
+1437,Primal Fear,1996,129,Crime
+1438,My Cousin Vinny,1992,120,Crime
+1439,Fargo,1996,98,Crime
+1440,Spotlight,2015,129,Crime
+1441,Knock Knock,2015,99,Crime
+1442,We're the Millers,2013,110,Crime
+1443,Furious 7,2015,137,Crime
+1444,Hangover Square,1945,77,Crime
+1445,Minority Report,2002,145,Crime
+1446,Fast & Furious,2009,107,Crime
+1447,Beverly Hills Cop,1984,105,Crime
+1448,Spiderhead,2022,106,Crime
+1449,Bandit,2022,126,Crime
+1450,Sleepers,1996,147,Crime
+1451,Con Air,1997,115,Crime
+1452,Memory,2022,114,Crime
+1453,Seven Psychopaths,2012,110,Crime
+1454,The Warriors,1979,93,Crime
+1455,Drishyam 2,2022,140,Crime
+1456,The Nice Guys,2016,116,Crime
+1457,The Godfather Part III,1990,162,Crime
+1458,The Town,2010,125,Crime
+1459,Wild Things,1998,108,Crime
+1460,Uncut Gems,2019,135,Crime
+1461,Training Day,2001,122,Crime
+1462,Fantastic Mr. Fox,2009,87,Crime
+1463,Point Break,1991,122,Crime
+1464,Ocean's Eight,2018,110,Crime
+1465,El Camino: A Breaking Bad Movie,2019,122,Crime
+1466,Mindcage,2022,96,Crime
+1467,Sin City,2005,124,Crime
+1468,Inside Man,2006,129,Crime
+1469,Let Him Go,2020,113,Crime
+1470,West Side Story,2021,156,Crime
+1471,Den of Thieves,2018,140,Crime
+1472,The Fate of the Furious,2017,136,Crime
+1473,Hannibal,2001,131,Crime
+1474,Girl in the Basement,2021,88,Crime
+1475,Kick-Ass,2010,117,Crime
+1476,Gangs of New York,2002,167,Crime
+1477,Ocean's Eleven,2001,116,Crime
+1478,Bad Times at the El Royale,2018,141,Crime
+1479,The Many Saints of Newark,2021,120,Crime
+1480,Birds of Prey,2020,109,Crime
+1481,"Lock, Stock and Two Smoking Barrels",1998,107,Crime
+1482,The Sting,1973,129,Crime
+1483,DC League of Super-Pets,2022,105,Crime
+1484,The Guilty,2021,90,Crime
+1485,2 Fast 2 Furious,2003,107,Crime
+1486,The Devil All the Time,2020,138,Crime
+1487,Blue Velvet,1986,120,Crime
+1488,Army of the Dead,2021,148,Crime
+1489,Gone Baby Gone,2007,114,Crime
+1490,Crash,2004,112,Crime
+1491,The Girl with the Dragon Tattoo,2011,158,Crime
+1492,Memories of Murder,2003,132,Crime
+1493,Breaking,2022,103,Crime
+1494,Chicago,2002,113,Crime
+1495,Fast Five,2011,130,Crime
+1496,Kindergarten Cop,1990,111,Crime
+1497,"O Brother, Where Art Thou?",2000,107,Crime
+1498,Cruella,2021,134,Crime
+1499,The House That Jack Built,2018,152,Crime
+1500,The Girl Next Door,2007,91,Crime
+1501,Law Abiding Citizen,2009,109,Crime
+1502,The Fast and the Furious: Tokyo Drift,2006,104,Crime
+1503,Army of Thieves,2021,127,Crime
+1504,Bad Boys II,2003,147,Crime
+1505,Butch Cassidy and the Sundance Kid,1969,110,Crime
+1506,L.A. Confidential,1997,138,Crime
+1507,The Iceman,2012,106,Crime
+1508,Strange Days,1995,145,Crime
+1509,City of Lies,2018,112,Crime
+1510,The Equalizer 2,2018,121,Crime
+1511,Cape Fear,1991,128,Crime
+1512,Swimming Pool,2003,102,Crime
+1513,Hustlers,2019,110,Crime
+1514,John Q,2002,116,Crime
+1515,Bad Boys for Life,2020,124,Crime
+1516,Taken,2008,90,Crime
+1517,"Confess, Fletch",2022,98,Crime
+1518,21,2008,123,Crime
+1519,Dick Tracy,1990,105,Crime
+1520,A Time to Kill,1996,149,Crime
+1521,Molly's Game,2017,140,Crime
+1522,Hitman's Wife's Bodyguard,2021,100,Crime
+1523,To Live and Die in L.A.,1985,116,Crime
+1524,BlacKkKlansman,2018,135,Crime
+1525,Burn,2019,88,Crime
+1526,Life,1999,108,Crime
+1527,Layer Cake,2004,105,Crime
+1528,Twins,1988,107,Crime
+1529,Game Night,2018,100,Crime
+1530,American Gangster,2007,157,Crime
+1531,Man on Fire,2004,146,Crime
+1532,Malignant,2021,111,Crime
+1533,The Assassination of Jesse James by the Coward Robert Ford,2007,160,Crime
+1534,Mr. & Mrs. Smith,2005,120,Crime
+1535,Traffic,2000,147,Crime
+1536,A History of Violence,2005,96,Crime
+1537,The Other Guys,2010,107,Crime
+1538,Sicario: Day of the Soldado,2018,122,Crime
+1539,The Fugitive,1993,130,Crime
+1540,Miss Willoughby and the Haunted Bookshop,2021,90,Crime
+1541,Furious 6,2013,130,Crime
+1542,Face/Off,1997,138,Crime
+1543,Thelma & Louise,1991,130,Crime
+1544,Heathers,1988,103,Crime
+1545,The Mask,1994,101,Crime
+1546,Central Intelligence,2016,107,Crime
+1547,The Lincoln Lawyer,2011,118,Crime
+1548,The Tax Collector,2020,95,Crime
+1549,A Simple Favor,2018,117,Crime
+1550,The Place Beyond the Pines,2012,140,Crime
+1551,Broker,2022,129,Crime
+1552,RED,2010,111,Crime
+1553,Jack Reacher: Never Go Back,2016,118,Crime
+1554,Collateral,2004,120,Crime
+1555,Jackie Brown,1997,154,Crime
+1556,The Talented Mr. Ripley,1999,139,Crime
+1557,Despicable Me,2010,95,Crime
+1558,West Side Story,1961,153,Crime
+1559,The Drop,2014,106,Crime
+1560,Lethal Weapon,1987,109,Crime
+1561,Wanted,2008,110,Crime
+1562,The Weekend Away,2022,89,Crime
+1563,Kill Bill: Vol. 2,2004,137,Crime
+1564,Now You See Me 2,2016,129,Crime
+1565,Loving Adults,2022,104,Crime
+1566,Slumdog Millionaire,2008,120,Crime
+1567,Under the Silver Lake,2018,139,Crime
+1568,The Italian Job,2003,111,Crime
+1569,Step Up,2006,104,Crime
+1570,Focus,2015,105,Crime
+1571,Cold Pursuit,2019,119,Crime
+1572,Horrible Bosses,2011,98,Crime
+1573,American Made,2017,115,Crime
+1574,Project Wolf Hunting,2022,122,Crime
+1575,The Invisible Guest,2016,106,Crime
+1576,Natural Born Killers,1994,119,Crime
+1577,The Girl on the Train,2016,112,Crime
+1578,A Life Less Ordinary,1997,103,Crime
+1579,Goodnight Mommy,2022,92,Crime
+1580,The Blues Brothers,1980,133,Crime
+1581,The Killer,2023,158,Crime
+1582,Faster,2010,98,Crime
+1583,Red Dragon,2002,124,Crime
+1584,Logan Lucky,2017,118,Crime
+1585,It's a Mad Mad Mad Mad World,1963,210,Crime
+1586,War Dogs,2016,114,Crime
+1587,Body Heat,1981,113,Crime
+1588,A Bronx Tale,1993,121,Crime
+1589,Don't Breathe,2016,88,Crime
+1590,The Unforgivable,2021,112,Crime
+1591,The Crow,1994,102,Crime
+1593,Southpaw,2015,124,Crime
+1594,Side Effects,2013,106,Crime
+1595,Fruitvale Station,2013,85,Crime
+1596,The Basketball Diaries,1995,102,Crime
+1597,22 Jump Street,2014,112,Crime
+1598,What Happened to Monday,2017,123,Crime
+1599,Burn After Reading,2008,96,Crime
+1600,3:10 to Yuma,2007,122,Crime
+1601,Falling Down,1993,113,Crime
+1602,To Kill a Mockingbird,1962,129,Crime
+1603,Broken City,2013,109,Crime
+1604,The Longest Yard,1974,121,Crime
+1605,Running Scared,2006,122,Crime
+1606,American Murderer,2022,102,Crime
+1607,Desperado,1995,104,Crime
+1608,Austin Powers: The Spy Who Shagged Me,1999,95,Crime
+1609,The Untouchables,1987,119,Crime
+1610,The Long Good Friday,1980,114,Crime
+1611,Adventures in Babysitting,1987,102,Crime
+1612,Solace,2015,101,Crime
+1613,Kate,2021,106,Crime
+1614,No Sudden Move,2021,115,Crime
+1615,RocknRolla,2008,114,Crime
+1616,Boyz n the Hood,1991,112,Crime
+1617,Home Sweet Hell,2015,98,Crime
+1618,Just Mercy,2019,137,Crime
+1619,Captain Phillips,2013,134,Crime
+1620,Wild at Heart,1990,125,Crime
+1621,Out of the Furnace,2013,116,Crime
+1622,Snake Eyes,2021,121,Crime
+1623,Hannie Caulder,1971,85,Crime
+1624,Minions,2015,91,Crime
+1625,Green Room,2015,95,Crime
+1626,Lucky Number Slevin,2006,110,Crime
+1627,Spring Breakers,2012,94,Crime
+1628,S.W.A.T.,2003,117,Crime
+1629,Pineapple Express,2008,111,Crime
+1630,Savages,2012,131,Crime
+1631,I Saw the Devil,2010,144,Crime
+1632,Point Break,2015,114,Crime
+1633,Monster,2003,109,Crime
+1634,Lethal Weapon 2,1989,114,Crime
+1635,Dog Pound,2010,91,Crime
+1636,Lawless,2012,116,Crime
+1637,Mississippi Burning,1988,128,Crime
+1638,Rush Hour,1998,98,Crime
+1639,Lolita,1962,153,Crime
+1640,Midnight Express,1978,121,Crime
+1641,Who Framed Roger Rabbit,1988,104,Crime
+1642,The Hate U Give,2018,133,Crime
+1643,Risky Business,1983,99,Crime
+1644,Black Mass,2015,123,Crime
+1645,Batman Returns,1992,126,Crime
+1646,Airheads,1994,92,Crime
+1647,November,2022,100,Crime
+1648,Widows,2018,129,Crime
+1649,End of Watch,2012,109,Crime
+1650,Fletch,1985,98,Crime
+1651,Run Hide Fight,2020,109,Crime
+1652,The Forever Purge,2021,103,Crime
+1653,The Card Counter,2021,111,Crime
+1654,My Name Is Vendetta,2022,90,Crime
+1655,Perfume: The Story of a Murderer,2006,147,Crime
+1656,Detective Knight: Independence,2023,91,Crime
+1657,Eastern Promises,2007,100,Crime
+1658,The Hitman's Bodyguard,2017,118,Crime
+1659,Chungking Express,1994,102,Crime
+1660,Megamind,2010,95,Crime
+1661,Dogville,2003,178,Crime
+1662,The Mexican,2001,123,Crime
+1663,Perfect Blue,1997,81,Crime
+1664,The Woman in the Window,2020,100,Crime
+1665,Rambo: Last Blood,2019,89,Crime
+1666,The Cell,2000,107,Crime
+1667,Fallen,1998,124,Crime
+1668,Bad Boys,1983,123,Crime
+1669,Glengarry Glen Ross,1992,100,Crime
+1670,Georgetown,2019,99,Crime
+1671,Smokin' Aces,2006,108,Crime
+1672,Four Brothers,2005,109,Crime
+1673,Manhunter,1986,120,Crime
+1674,Blow,2001,124,Crime
+1675,The Pledge,2001,124,Crime
+1676,Gone in 60 Seconds,2000,118,Crime
+1677,Inferno,2016,121,Crime
+1678,Escape from Alcatraz,1979,112,Crime
+1679,Stillwater,2021,139,Crime
+1680,The Pelican Brief,1993,141,Crime
+1681,Ghost in the Shell,2017,107,Crime
+1682,The Mule,2018,116,Crime
+1683,The Danish Girl,2015,119,Crime
+1684,Deja Vu,2006,126,Crime
+1685,Puss in Boots: The Last Wish,2022,102,Family
+1686,True Spirit,2023,109,Family
+1687,"Lyle, Lyle, Crocodile",2022,106,Family
+1688,Harry Potter and the Sorcerer's Stone,2001,152,Family
+1689,Guillermo del Toro's Pinocchio,2022,117,Family
+1690,Asterix & Obelix: The Middle Kingdom,2023,112,Family
+1691,Strange World,2022,102,Family
+1692,Roald Dahl's Matilda the Musical,2022,117,Family
+1693,Puss in Boots,2011,90,Family
+1694,Minions: The Rise of Gru,2022,87,Family
+1695,The Amazing Maurice,2022,93,Family
+1696,Encanto,2021,102,Family
+1697,Harry Potter and the Goblet of Fire,2005,157,Family
+1698,The Goonies,1985,114,Family
+1699,Sing 2,2021,110,Family
+1700,Harry Potter and the Deathly Hallows: Part 2,2011,130,Family
+1701,Matilda,1996,102,Family
+1702,The Princess Bride,1987,98,Family
+1703,Harry Potter and the Prisoner of Azkaban,2004,142,Family
+1704,Fantastic Beasts: The Secrets of Dumbledore,2022,142,Family
+1705,Harry Potter and the Chamber of Secrets,2002,161,Family
+1706,The Bad Guys,2022,100,Family
+1707,The Sea Beast,2022,115,Family
+1708,Spirited Away,2001,125,Family
+1709,Spider-Man: Into the Spider-Verse,2018,117,Family
+1710,A Christmas Story,1983,93,Family
+1711,Harry Potter and the Order of the Phoenix,2007,138,Family
+1712,The Lion King,1994,88,Family
+1713,Harry Potter and the Deathly Hallows: Part 1,2010,146,Family
+1714,Shrek,2001,90,Family
+1715,Cars,2006,117,Family
+1716,Pinocchio,2022,105,Family
+1717,Harry Potter and the Half-Blood Prince,2009,153,Family
+1718,Moana,2016,107,Family
+1719,Scooby-Doo,2002,86,Family
+1720,Marcel the Shell with Shoes On,2021,90,Family
+1721,Turning Red,2022,100,Family
+1722,Ratatouille,2007,111,Family
+1723,Frozen,2013,102,Family
+1724,Hook,1991,142,Family
+1725,Disenchanted,2022,119,Family
+1726,Zootopia,2016,108,Family
+1727,Flushed Away,2006,85,Family
+1728,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,Family
+1729,Sing,2016,108,Family
+1730,Toy Story,1995,81,Family
+1731,Inside Out,2015,95,Family
+1732,Beauty and the Beast,2017,129,Family
+1733,Home Alone,1990,103,Family
+1734,Kung Fu Panda,2008,92,Family
+1735,Labyrinth,1986,101,Family
+1736,Howl's Moving Castle,2004,119,Family
+1737,Coco,2017,105,Family
+1738,Shrek 2,2004,93,Family
+1739,Fantastic Mr. Fox,2009,87,Family
+1740,The Sound of Music,1965,172,Family
+1741,The Lion King,2019,118,Family
+1742,Toy Story 4,2019,100,Family
+1743,Hercules,1997,93,Family
+1744,Dog Gone,2023,95,Family
+1745,E.T.,1982,115,Family
+1746,WALL·E,2008,98,Family
+1747,The Wizard of Oz,1939,102,Family
+1748,Up,2009,96,Family
+1749,The Incredibles,2004,115,Family
+1750,Fantastic Beasts and Where to Find Them,2016,132,Family
+1751,Mummies,2023,88,Family
+1752,Finding Nemo,2003,100,Family
+1753,DC League of Super-Pets,2022,105,Family
+1754,Sonic the Hedgehog 2,2022,122,Family
+1755,Slumberland,2022,117,Family
+1756,George of the Jungle,1997,92,Family
+1757,The Karate Kid,1984,126,Family
+1758,Charlie and the Chocolate Factory,2005,115,Family
+1759,Aladdin,2019,128,Family
+1760,Tangled,2010,100,Family
+1761,Wonder,2017,113,Family
+1762,Percy Jackson & the Olympians: The Lightning Thief,2010,118,Family
+1763,The Princess and the Frog,2009,97,Family
+1764,Stardust,2007,127,Family
+1765,Willy Wonka & the Chocolate Factory,1971,100,Family
+1766,"Monsters, Inc.",2001,92,Family
+1767,Enchanted,2007,107,Family
+1768,How to Train Your Dragon,2010,98,Family
+1769,Soul,2020,100,Family
+1770,The Last Airbender,2010,103,Family
+1771,Super Mario Bros.,1993,104,Family
+1772,Beauty and the Beast,1991,84,Family
+1773,We Have a Ghost,2023,126,Family
+1774,The Parent Trap,1998,128,Family
+1775,Cloudy with a Chance of Meatballs,2009,90,Family
+1776,Holes,2003,117,Family
+1777,Lightyear,2022,105,Family
+1778,Bridge to Terabithia,2007,96,Family
+1779,Alice in Wonderland,2010,108,Family
+1780,It's a Wonderful Life,1946,130,Family
+1781,Zoom,2006,83,Family
+1782,Trolls,2016,92,Family
+1783,Night at the Museum,2006,108,Family
+1784,Fantastic Beasts: The Crimes of Grindelwald,2018,134,Family
+1785,Aladdin,1992,90,Family
+1786,Jumanji,1995,104,Family
+1787,Toy Story 3,2010,103,Family
+1788,Incredibles 2,2018,118,Family
+1789,Mulan,1998,87,Family
+1790,Blueback,2022,102,Family
+1791,Cinderella,2015,105,Family
+1792,The Princess Diaries,2001,115,Family
+1793,Cats,2019,110,Family
+1794,Mary Poppins,1964,139,Family
+1795,Despicable Me,2010,95,Family
+1796,The Lego Movie,2014,100,Family
+1797,Raya and the Last Dragon,2021,107,Family
+1798,A Bug's Life,1998,95,Family
+1799,Luck,2022,105,Family
+1800,Frozen II,2019,103,Family
+1801,Ice Age,2002,81,Family
+1802,Coraline,2009,100,Family
+1803,The Prince of Egypt,1998,99,Family
+1804,The Golden Compass,2007,113,Family
+1805,The Little Mermaid,1989,83,Family
+1806,Shrek the Third,2007,93,Family
+1807,Luca,2021,95,Family
+1808,My Bodyguard,1980,102,Family
+1809,Brave,2012,93,Family
+1810,Peter Pan,2003,113,Family
+1811,The Sandlot,1993,101,Family
+1812,Madagascar,2005,86,Family
+1813,Daddy Day Care,2003,92,Family
+1814,Hachi: A Dog's Tale,2009,93,Family
+1815,Big Hero 6,2014,102,Family
+1816,Lilo & Stitch,2002,85,Family
+1817,We Can Be Heroes,2020,100,Family
+1818,Sonic the Hedgehog,2020,99,Family
+1819,Spy Kids,2001,88,Family
+1820,Kung Fu Panda 3,2016,95,Family
+1821,The Black Stallion,1979,118,Family
+1822,The NeverEnding Story,1984,102,Family
+1823,Spirited,2022,127,Family
+1824,Moonrise Kingdom,2012,94,Family
+1825,The Adventures of Tintin,2011,107,Family
+1826,Sky High,2005,100,Family
+1827,iMordecai,2022,102,Family
+1828,Atlantis: The Lost Empire,2001,95,Family
+1829,Minions,2015,91,Family
+1830,Shrek Forever After,2010,95,Family
+1831,Elemental,2023,93,Family
+1832,Pocahontas,1995,81,Family
+1833,Asterix & Obelix: Mission Cleopatra,2002,107,Family
+1834,My Neighbor Totoro,1988,86,Family
+1835,Homeward Bound: The Incredible Journey,1993,84,Family
+1836,The Call of the Wild,2020,100,Family
+1837,The Mitchells vs the Machines,2021,114,Family
+1838,Wreck-It Ralph,2012,101,Family
+1839,Who Framed Roger Rabbit,1988,104,Family
+1840,My Girl,1991,102,Family
+1841,Secret Headquarters,2022,104,Family
+1842,Rio,2011,96,Family
+1843,Toy Story 2,1999,92,Family
+1844,"Honey, I Shrunk the Kids",1989,93,Family
+1845,The Emperor's New Groove,2000,78,Family
+1846,Diary of a Wimpy Kid,2010,94,Family
+1847,Anastasia,1997,94,Family
+1848,RV,2006,99,Family
+1849,Kung Fu Panda 2,2011,90,Family
+1850,The Jungle Book,2016,106,Family
+1851,Treasure Planet,2002,95,Family
+1852,How to Train Your Dragon: The Hidden World,2019,104,Family
+1853,Megamind,2010,95,Family
+1854,Something from Tiffany's,2022,87,Family
+1855,My Sister's Keeper,2009,109,Family
+1856,Tomorrowland,2015,130,Family
+1857,Miss Peregrine's Home for Peculiar Children,2016,127,Family
+1858,Pokémon: Detective Pikachu,2019,104,Family
+1859,Tarzan,1999,88,Family
+1860,Paddington 2,2017,103,Family
+1861,Cinderella,2021,113,Family
+1862,Life with Luca,2023,90,Family
+1863,Paws of Fury: The Legend of Hank,2022,98,Family
+1864,Paddington,2014,95,Family
+1865,Teenage Mutant Ninja Turtles,1990,93,Family
+1866,The Munsters,2022,109,Family
+1867,Hotel Transylvania,2012,91,Family
+1868,Space Jam: A New Legacy,2021,115,Family
+1869,Cars 2,2011,106,Family
+1870,Monsters vs. Aliens,2009,94,Family
+1871,Hugo,2011,126,Family
+1872,Annie,1982,127,Family
+1873,Maleficent,2014,97,Family
+1874,Cheaper by the Dozen,2003,98,Family
+1875,Major Payne,1995,95,Family
+1876,The Pacifier,2005,95,Family
+1877,The Karate Kid,2010,140,Family
+1878,Ralph Breaks the Internet,2018,112,Family
+1879,Space Jam,1996,88,Family
+1880,Hocus Pocus,1993,96,Family
+1881,The Little Rascals,1994,82,Family
+1882,The Girl Who Believes in Miracles,2021,100,Family
+1883,The Addams Family,2019,86,Family
+1884,Monsters University,2013,104,Family
+1885,Hotel Transylvania: Transformania,2022,87,Family
+1886,The Flintstones,1994,91,Family
+1887,Finding Dory,2016,97,Family
+1888,The Ten Commandments,1956,220,Family
+1889,Eragon,2006,104,Family
+1890,Ferdinand,2017,108,Family
+1891,The Chronicles of Narnia: Prince Caspian,2008,150,Family
+1892,The Mighty Ducks,1992,104,Family
+1893,A Christmas Story Christmas,2022,98,Family
+1894,The Three Musketeers,1993,105,Family
+1895,How to Train Your Dragon 2,2014,102,Family
+1896,The Hunchback of Notre Dame,1996,91,Family
+1897,Tom and Jerry,2021,101,Family
+1898,Yes Day,2021,86,Family
+1899,How the Grinch Stole Christmas,2000,104,Family
+1900,The Jungle Book,1967,78,Family
+1901,Percy Jackson: Sea of Monsters,2013,106,Family
+1902,The Lego Batman Movie,2017,104,Family
+1903,Onward,2020,102,Family
+1904,Little Giants,1994,107,Family
+1905,Rango,2011,107,Family
+1906,Scooby-Doo 2: Monsters Unleashed,2004,93,Family
+1907,Peter Pan & Wendy,,106,Family
+1908,Fiddler on the Roof,1971,181,Family
+1909,Cars 3,2017,102,Family
+1910,Little Women,1933,115,Family
+1911,Alvin and the Chipmunks,2007,92,Family
+1912,Harry and the Hendersons,1987,110,Family
+1913,A Cinderella Story,2004,95,Family
+1914,The Rocketeer,1991,108,Family
+1915,Robots,2005,91,Family
+1916,Home,2015,94,Family
+1917,Journey to the Center of the Earth,2008,93,Family
+1918,Night at the Museum: Battle of the Smithsonian,2009,105,Family
+1919,The AristoCats,1970,78,Family
+1920,A Series of Unfortunate Events,2004,108,Family
+1921,Pan,2015,111,Family
+1922,The Book of Life,2014,95,Family
+1923,Oz the Great and Powerful,2013,130,Family
+1924,Robin Hood,1973,83,Family
+1925,The Croods,2013,98,Family
+1926,Nacho Libre,2006,92,Family
+1927,The Nightmare Before Christmas,1993,76,Family
+1928,Chip 'n Dale: Rescue Rangers,2022,97,Family
+1929,Bolt,2008,96,Family
+1930,Newsies,1992,121,Family
+1931,Freaky Friday,2003,97,Family
+1932,Chicken Run,2000,84,Family
+1933,Asterix at the Olympic Games,2008,116,Family
+1934,Mary Poppins Returns,2018,130,Family
+1935,A Goofy Movie,1995,78,Family
+1936,The Croods: A New Age,2020,95,Family
+1937,Wendell & Wild,2022,105,Family
+1938,The Borrowers,1997,89,Family
+1939,The Iron Giant,1999,86,Family
+1940,Snow White and the Seven Dwarfs,1937,83,Family
+1941,Casper,1995,100,Family
+1942,Father of the Bride,1991,105,Family
+1943,Flight of the Navigator,1986,90,Family
+1944,Cloudy with a Chance of Meatballs 2,2013,95,Family
+1945,Meet the Robinsons,2007,95,Family
+1946,Trolls World Tour,2020,91,Family
+1947,Marley & Me,2008,115,Family
+1948,FernGully: The Last Rainforest,1992,76,Family
+1949,Hocus Pocus 2,2022,103,Family
+1950,The Road to El Dorado,2000,89,Family
+1951,Muppets Most Wanted,2014,107,Family
+1952,Stuart Little,1999,84,Family
+1953,Little Women,1994,115,Family
+1954,Dakota,2022,96,Family
+1955,My Fair Lady,1964,170,Family
+1956,Short Circuit,1986,98,Family
+1957,Aquamarine,2006,110,Family
+1958,Dick Tracy,1945,61,Family
+1959,Shark Tale,2004,90,Family
+1960,Cool Runnings,1993,98,Family
+1961,Sister Act,1992,100,Family
+1962,Home Alone 2: Lost in New York,1992,120,Family
+1963,Asterix and Obelix vs. Caesar,1999,109,Family
+1964,Field of Dreams,1989,107,Family
+1965,The Secret Garden,1993,101,Family
+1966,The Secret Life of Pets,2016,87,Family
+1967,Night at the Museum: Secret of the Tomb,2014,98,Family
+1968,Chitty Chitty Bang Bang,1968,144,Family
+1969,Rookie of the Year,1993,103,Family
+1970,Small Soldiers,1998,110,Family
+1971,Peter Pan,1953,77,Family
+1972,The Princess Diaries 2: Royal Engagement,2004,113,Family
+1973,Annie,2014,118,Family
+1974,Ponyo,2008,101,Family
+1975,The Witches,2020,106,Family
+1976,Kiki's Delivery Service,1989,103,Family
+1977,Despicable Me 2,2013,98,Family
+1978,Clash of the Titans,1981,118,Family
+1979,Bee Movie,2007,91,Family
+1980,The Flintstones in Viva Rock Vegas,2000,90,Family
+1981,The Chronicles of Narnia: The Voyage of the Dawn Treader,2010,113,Family
+1982,Popeye,1980,114,Family
+1983,PAW Patrol: The Movie,2021,86,Family
+1984,Soul Surfer,2011,112,Family
+1985,The Lorax,2012,86,Family
+1986,The Adventures of Sharkboy and Lavagirl 3-D,2005,93,Family
+1987,Railway Children,2022,99,Family
+1988,Secondhand Lions,2003,109,Family
+1989,October Sky,1999,108,Family
+1990,Inkheart,2008,106,Family
+1991,Pattie et la colère de Poséidon,2022,95,Family
+1992,Belle,2021,121,Family
+1993,Chicken Little,2005,81,Family
+1994,Maleficent: Mistress of Evil,2019,119,Family
+1995,The BFG,2016,117,Family
+1996,The Land Before Time,1988,69,Family
+1997,101 Dalmatians,1996,103,Family
+1998,Elf,2003,97,Family
+1999,Foodfight!,2012,91,Family
+2000,Despicable Me 3,2017,89,Family
+2001,The Karate Kid Part II,1986,113,Family
+2002,The Spiderwick Chronicles,2008,96,Family
+2003,The Cat in the Hat,2003,82,Family
+2004,Surf's Up,2007,85,Family
+2005,Dinosaur,2000,82,Family
+2006,Angry Birds,2016,97,Family
+2007,The Good Dinosaur,2015,93,Family
+2008,Daddy's Home,2015,96,Family
+2009,Spy Kids 3: Game Over,2003,84,Family
+2010,Alice Through the Looking Glass,2016,113,Family
+2011,Black Panther: Wakanda Forever,2022,161,Fantasy
+2012,Avatar: The Way of Water,2022,192,Fantasy
+2013,Everything Everywhere All at Once,2022,139,Fantasy
+2014,Puss in Boots: The Last Wish,2022,102,Fantasy
+2015,Teen Wolf: The Movie,2023,140,Fantasy
+2016,"Lyle, Lyle, Crocodile",2022,106,Fantasy
+2017,Avatar,2009,162,Fantasy
+2018,Harry Potter and the Sorcerer's Stone,2001,152,Fantasy
+2019,Black Adam,2022,125,Fantasy
+2020,Guillermo del Toro's Pinocchio,2022,117,Fantasy
+2021,The Northman,2022,137,Fantasy
+2022,The Lord of the Rings: The Fellowship of the Ring,2001,178,Fantasy
+2023,Thor: Love and Thunder,2022,118,Fantasy
+2024,Dungeons & Dragons: Honor Among Thieves,2023,134,Fantasy
+2025,Spider-Man: No Way Home,2021,148,Fantasy
+2026,Strange World,2022,102,Fantasy
+2027,Roald Dahl's Matilda the Musical,2022,117,Fantasy
+2028,Violent Night,2022,112,Fantasy
+2029,Puss in Boots,2011,90,Fantasy
+2030,Groundhog Day,1993,101,Fantasy
+2031,Scott Pilgrim vs. the World,2010,112,Fantasy
+2032,Encanto,2021,102,Fantasy
+2033,Shazam! Fury of the Gods,2023,130,Fantasy
+2034,Harry Potter and the Goblet of Fire,2005,157,Fantasy
+2035,The Mummy,1999,124,Fantasy
+2036,The Lighthouse,2019,109,Fantasy
+2037,Willow,1988,126,Fantasy
+2038,Men,2022,100,Fantasy
+2039,The Green Mile,1999,189,Fantasy
+2040,The Lord of the Rings: The Return of the King,2003,201,Fantasy
+2041,About Time,2013,123,Fantasy
+2042,Doctor Strange in the Multiverse of Madness,2022,126,Fantasy
+2043,Eternals,2021,156,Fantasy
+2044,Harry Potter and the Deathly Hallows: Part 2,2011,130,Fantasy
+2045,Matilda,1996,102,Fantasy
+2046,The Princess Bride,1987,98,Fantasy
+2047,Free Guy,2021,115,Fantasy
+2048,Harry Potter and the Prisoner of Azkaban,2004,142,Fantasy
+2049,Star Wars,1977,121,Fantasy
+2050,The School for Good and Evil,2022,147,Fantasy
+2051,Fantastic Beasts: The Secrets of Dumbledore,2022,142,Fantasy
+2052,Harry Potter and the Chamber of Secrets,2002,161,Fantasy
+2053,Suicide Squad,2016,123,Fantasy
+2054,Twilight,2008,122,Fantasy
+2055,The Age of Adaline,2015,112,Fantasy
+2056,Wonder Woman 1984,2020,151,Fantasy
+2057,Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,Fantasy
+2058,The Sea Beast,2022,115,Fantasy
+2059,The Lord of the Rings: The Two Towers,2002,179,Fantasy
+2060,Spirited Away,2001,125,Fantasy
+2061,Spider-Man: Into the Spider-Verse,2018,117,Fantasy
+2062,Harry Potter and the Order of the Phoenix,2007,138,Fantasy
+2063,The Addams Family,1991,99,Fantasy
+2064,The Hobbit: An Unexpected Journey,2012,169,Fantasy
+2066,Harry Potter and the Deathly Hallows: Part 1,2010,146,Fantasy
+2067,Shrek,2001,90,Fantasy
+2068,Shazam!,2019,132,Fantasy
+2069,The VVitch: A New-England Folktale,2015,92,Fantasy
+2070,Star Wars: The Rise Of Skywalker,2019,141,Fantasy
+2071,Ghostbusters: Afterlife,2021,124,Fantasy
+2072,Pinocchio,2022,105,Fantasy
+2073,Harry Potter and the Half-Blood Prince,2009,153,Fantasy
+2074,Moana,2016,107,Fantasy
+2075,Scooby-Doo,2002,86,Fantasy
+2076,The Curious Case of Benjamin Button,2008,166,Fantasy
+2077,Marcel the Shell with Shoes On,2021,90,Fantasy
+2078,Turning Red,2022,100,Fantasy
+2079,Ratatouille,2007,111,Fantasy
+2080,Shang-Chi and the Legend of the Ten Rings,2021,132,Fantasy
+2081,Frozen,2013,102,Fantasy
+2082,Hook,1991,142,Fantasy
+2083,Disenchanted,2022,119,Fantasy
+2084,Star Wars: Episode I - The Phantom Menace,1999,136,Fantasy
+2085,Troll,2022,101,Fantasy
+2086,Swiss Army Man,2016,97,Fantasy
+2087,"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,143,Fantasy
+2088,Toy Story,1995,81,Fantasy
+2089,Inside Out,2015,95,Fantasy
+2090,Beauty and the Beast,2017,129,Fantasy
+2091,Kung Fu Panda,2008,92,Fantasy
+2092,Suspiria,2018,152,Fantasy
+2093,Mad God,2021,83,Fantasy
+2094,Labyrinth,1986,101,Fantasy
+2095,The Shape of Water,2017,123,Fantasy
+2096,Big,1988,104,Fantasy
+2097,Thor: Ragnarok,2017,130,Fantasy
+2098,Wonder Woman,2017,141,Fantasy
+2099,Howl's Moving Castle,2004,119,Fantasy
+2100,Barbarella,1968,98,Fantasy
+2101,Coco,2017,105,Fantasy
+2102,Aquaman,2018,143,Fantasy
+2103,Shrek 2,2004,93,Fantasy
+2104,The Hobbit: The Battle of the Five Armies,2014,144,Fantasy
+2105,Jumanji: Welcome to the Jungle,2017,119,Fantasy
+2106,Toy Story 4,2019,100,Fantasy
+2107,Star Wars: Episode V - The Empire Strikes Back,1980,124,Fantasy
+2108,Love and Monsters,2020,109,Fantasy
+2109,Ghostbusters,1984,105,Fantasy
+2110,Mannequin,1987,90,Fantasy
+2111,Star Wars: Episode VI - Return of the Jedi,1983,131,Fantasy
+2112,Hercules,1997,93,Fantasy
+2113,Thor,2011,115,Fantasy
+2114,The Hobbit: The Desolation of Smaug,2013,161,Fantasy
+2115,Three Thousand Years of Longing,2022,108,Fantasy
+2116,The Wizard of Oz,1939,102,Fantasy
+2117,Fantastic Beasts and Where to Find Them,2016,132,Fantasy
+2118,Pan's Labyrinth,2006,118,Fantasy
+2119,Your Name.,2016,106,Fantasy
+2120,DC League of Super-Pets,2022,105,Fantasy
+2121,Sonic the Hedgehog 2,2022,122,Fantasy
+2122,Doctor Sleep,2019,152,Fantasy
+2123,Slumberland,2022,117,Fantasy
+2124,Justice League,2017,120,Fantasy
+2125,Dracula,1992,128,Fantasy
+2126,Charlie and the Chocolate Factory,2005,115,Fantasy
+2127,Aladdin,2019,128,Fantasy
+2128,Pirates of the Caribbean: Dead Men Tell No Tales,2017,129,Fantasy
+2129,Day Shift,2022,113,Fantasy
+2130,Constantine,2005,121,Fantasy
+2131,Meet Joe Black,1998,178,Fantasy
+2132,Tangled,2010,100,Fantasy
+2133,Percy Jackson & the Olympians: The Lightning Thief,2010,118,Fantasy
+2134,Beetlejuice,1988,92,Fantasy
+2135,Palm Springs,2020,90,Fantasy
+2136,The Secret Life of Walter Mitty,2013,114,Fantasy
+2137,The Mummy Returns,2001,130,Fantasy
+2138,The Princess and the Frog,2009,97,Fantasy
+2139,Stardust,2007,127,Fantasy
+2140,Willy Wonka & the Chocolate Factory,1971,100,Fantasy
+2141,Sleepy Hollow,1999,105,Fantasy
+2142,"Monsters, Inc.",2001,92,Fantasy
+2143,Mortal Kombat,2021,110,Fantasy
+2144,Star Wars: Episode VIII - The Last Jedi,2017,152,Fantasy
+2145,Interview with the Vampire: The Vampire Chronicles,1994,123,Fantasy
+2146,Star Wars: Episode III - Revenge of the Sith,2005,140,Fantasy
+2147,The Road,2009,111,Fantasy
+2148,Underworld,2003,121,Fantasy
+2149,The Lovely Bones,2009,135,Fantasy
+2150,Enchanted,2007,107,Fantasy
+2151,How to Train Your Dragon,2010,98,Fantasy
+2152,Samaritan,2022,102,Fantasy
+2153,Soul,2020,100,Fantasy
+2154,The Last Airbender,2010,103,Fantasy
+2155,Super Mario Bros.,1993,104,Fantasy
+2156,Teen Wolf,1985,91,Fantasy
+2157,This Is the End,2013,107,Fantasy
+2158,Beauty and the Beast,1991,84,Fantasy
+2159,Doctor Strange,2016,115,Fantasy
+2160,Tomb Raider,2018,119,Fantasy
+2161,Lady in the Water,2006,110,Fantasy
+2162,A Cure for Wellness,2016,146,Fantasy
+2163,Cloudy with a Chance of Meatballs,2009,90,Fantasy
+2164,The Change-Up,2011,112,Fantasy
+2165,Bridge to Terabithia,2007,96,Fantasy
+2166,Alice in Wonderland,2010,108,Fantasy
+2167,It's a Wonderful Life,1946,130,Fantasy
+2168,Valerian and the City of a Thousand Planets,2017,136,Fantasy
+2169,Zoom,2006,83,Fantasy
+2170,Vanilla Sky,2001,136,Fantasy
+2171,Trolls,2016,92,Fantasy
+2172,Night at the Museum,2006,108,Fantasy
+2173,Fantastic Beasts: The Crimes of Grindelwald,2018,134,Fantasy
+2174,Sausage Party,2016,89,Fantasy
+2175,Aladdin,1992,90,Fantasy
+2176,Jumanji,1995,104,Fantasy
+2177,Pirates of the Caribbean: Dead Man's Chest,2006,151,Fantasy
+2178,The Green Knight,2021,130,Fantasy
+2179,The Mummy,2017,110,Fantasy
+2180,Toy Story 3,2010,103,Fantasy
+2181,Legend,1985,94,Fantasy
+2182,Downsizing,2017,135,Fantasy
+2183,Click,2006,107,Fantasy
+2184,Jumanji: The Next Level,2019,123,Fantasy
+2185,The Mask,1994,101,Fantasy
+2186,Mulan,1998,87,Fantasy
+2187,Star Wars: Episode II - Attack of the Clones,2002,142,Fantasy
+2188,Gods of Egypt,2016,127,Fantasy
+2189,Cinderella,2015,105,Fantasy
+2190,Masters of the Universe,1987,106,Fantasy
+2191,Cats,2019,110,Fantasy
+2192,Midnight in Paris,2011,94,Fantasy
+2193,It Chapter Two,2019,169,Fantasy
+2194,Mulan,2020,115,Fantasy
+2195,Mary Poppins,1964,139,Fantasy
+2196,The Dead Don't Die,2019,104,Fantasy
+2197,King Arthur: Legend of the Sword,2017,126,Fantasy
+2198,Life of Pi,2012,127,Fantasy
+2199,The Innocents,2021,117,Fantasy
+2200,Buffy the Vampire Slayer,1992,86,Fantasy
+2201,Ghost,1990,127,Fantasy
+2202,The Lego Movie,2014,100,Fantasy
+2203,Raya and the Last Dragon,2021,107,Fantasy
+2204,Jungle Cruise,2021,127,Fantasy
+2205,Pirates of the Caribbean: On Stranger Tides,2011,136,Fantasy
+2206,A Bug's Life,1998,95,Fantasy
+2207,Luck,2022,105,Fantasy
+2208,The Twilight Saga: Breaking Dawn - Part 2,2012,115,Fantasy
+2209,Suzume,2022,122,Fantasy
+2210,Frozen II,2019,103,Fantasy
+2211,Addams Family Values,1993,94,Fantasy
+2212,Birth,2004,100,Fantasy
+2213,The Mummy: Tomb of the Dragon Emperor,2008,112,Fantasy
+2214,Highlander,1986,116,Fantasy
+2215,Coraline,2009,100,Fantasy
+2216,Demon Slayer: Kimetsu No Yaiba - To the Swordsmith Village,2023,110,Fantasy
+2217,The Prince of Egypt,1998,99,Fantasy
+2218,The Great Wall,2016,103,Fantasy
+2219,The Golden Compass,2007,113,Fantasy
+2220,The Little Mermaid,1989,83,Fantasy
+2221,Shrek the Third,2007,93,Fantasy
+2222,Luca,2021,95,Fantasy
+2223,Monty Python and the Holy Grail,1975,91,Fantasy
+2224,Brave,2012,93,Fantasy
+2225,Peter Pan,2003,113,Fantasy
+2226,Van Helsing,2004,131,Fantasy
+2227,A Life Less Ordinary,1997,103,Fantasy
+2228,The Covenant,2006,97,Fantasy
+2229,Hercules,2014,98,Fantasy
+2230,Princess Mononoke,1997,134,Fantasy
+2231,Immortals,2011,110,Fantasy
+2232,Legion,2010,100,Fantasy
+2233,Pirates of the Caribbean: At World's End,2007,169,Fantasy
+2234,Big Fish,2003,125,Fantasy
+2235,Pixels,2015,105,Fantasy
+2236,Edward Scissorhands,1990,105,Fantasy
+2237,Conan the Barbarian,1982,129,Fantasy
+2238,Excalibur,1981,140,Fantasy
+2239,Lilo & Stitch,2002,85,Fantasy
+2240,We Can Be Heroes,2020,100,Fantasy
+2241,The Crow,1994,102,Fantasy
+2242,13 Going on 30,2004,98,Fantasy
+2243,Sonic the Hedgehog,2020,99,Fantasy
+2244,The Dark Tower,2017,95,Fantasy
+2245,Mr. Nobody,2009,141,Fantasy
+2246,Sex and Zen,1991,99,Fantasy
+2247,What Happened to Monday,2017,123,Fantasy
+2248,Yesterday,2019,116,Fantasy
+2249,Akira,1988,124,Fantasy
+2250,Kung Fu Panda 3,2016,95,Fantasy
+2251,Mandy,2018,121,Fantasy
+2252,The NeverEnding Story,1984,102,Fantasy
+2253,The Craft,1996,101,Fantasy
+2254,Drive Angry,2011,104,Fantasy
+2255,Bedazzled,2000,93,Fantasy
+2256,Dark City,1998,100,Fantasy
+2257,Hellboy,2019,120,Fantasy
+2258,Liar Liar,1997,86,Fantasy
+2259,Dracula Untold,2014,92,Fantasy
+2260,Snake Eyes,2021,121,Fantasy
+2261,Atlantis: The Lost Empire,2001,95,Fantasy
+2262,Big Trouble in Little China,1986,99,Fantasy
+2263,Shrek Forever After,2010,95,Fantasy
+2264,Mortal Engines,2018,128,Fantasy
+2265,Elemental,2023,93,Fantasy
+2266,47 Ronin,2013,128,Fantasy
+2267,Asterix & Obelix: Mission Cleopatra,2002,107,Fantasy
+2268,My Neighbor Totoro,1988,86,Fantasy
+2269,Power Rangers,2017,124,Fantasy
+2270,Wreck-It Ralph,2012,101,Fantasy
+2271,Sucker Punch,2011,110,Fantasy
+2272,Who Framed Roger Rabbit,1988,104,Fantasy
+2273,Batman Returns,1992,126,Fantasy
+2274,Toy Story 2,1999,92,Fantasy
+2275,Dogma,1999,130,Fantasy
+2276,The Emperor's New Groove,2000,78,Fantasy
+2277,Sorry to Bother You,2018,112,Fantasy
+2278,Enter the Void,2009,161,Fantasy
+2279,The League of Extraordinary Gentlemen,2003,110,Fantasy
+2280,Anastasia,1997,94,Fantasy
+2281,Hatching,2022,91,Fantasy
+2282,Perfume: The Story of a Murderer,2006,147,Fantasy
+2283,Warcraft,2016,123,Fantasy
+2284,Kung Fu Panda 2,2011,90,Fantasy
+2285,The Jungle Book,2016,106,Fantasy
+2286,The Seventh Seal,1957,96,Fantasy
+2287,Thor: The Dark World,2013,112,Fantasy
+2288,Treasure Planet,2002,95,Fantasy
+2289,How to Train Your Dragon: The Hidden World,2019,104,Fantasy
+2290,Kong: Skull Island,2017,118,Fantasy
+2291,Eraserhead,1977,89,Fantasy
+2292,1408,2007,104,Fantasy
+2293,Demon Slayer the Movie: Mugen Train,2020,117,Fantasy
+2294,The VelociPastor,2018,75,Fantasy
+2295,The Twilight Saga: Eclipse,2010,124,Fantasy
+2296,Dragonball Evolution,2009,85,Fantasy
+2297,Fallen,1998,124,Fantasy
+2298,Hellboy,2004,122,Fantasy
+2299,Tomorrowland,2015,130,Fantasy
+2300,Miss Peregrine's Home for Peculiar Children,2016,127,Fantasy
+2301,Paddington 2,2017,103,Fantasy
+2302,Cinderella,2021,113,Fantasy
+2303,Max Steel,2016,92,Fantasy
+2304,In the Mouth of Madness,1994,95,Fantasy
+2305,Bubba Ho-Tep,2002,92,Fantasy
+2306,Clash of the Titans,2010,106,Fantasy
+2307,Into the Woods,2014,125,Fantasy
+2308,Triangle,2009,99,Fantasy
+2309,The Legend of Tarzan,2016,110,Fantasy
+2310,What Women Want,2000,127,Fantasy
+2311,Paddington,2014,95,Fantasy
+2312,Mona Lisa and the Blood Moon,2021,106,Fantasy
+2313,Time Bandits,1981,110,Fantasy
+2314,The Three Musketeers,2011,110,Fantasy
+2315,The Munsters,2022,109,Fantasy
+2316,Hotel Transylvania,2012,91,Fantasy
+2317,Ghost Rider,2007,110,Fantasy
+2318,Mama,2013,100,Fantasy
+2319,Space Jam: A New Legacy,2021,115,Fantasy
+2320,Stairway to Heaven,1946,104,Fantasy
+2321,Monsters vs. Aliens,2009,94,Fantasy
+2322,Monster Hunter,2020,103,Fantasy
+2323,Meet Cute,2022,89,Fantasy
+2324,Lara Croft: Tomb Raider,2001,100,Fantasy
+2325,Hugo,2011,126,Fantasy
+2326,Being John Malkovich,1999,113,Fantasy
+2327,Maleficent,2014,97,Fantasy
+2328,Gremlins,1984,106,Fantasy
+2329,The Lake House,2006,99,Fantasy
+2330,Queen of the Damned,2002,101,Fantasy
+2331,Ralph Breaks the Internet,2018,112,Fantasy
+2332,Space Jam,1996,88,Fantasy
+2333,Hocus Pocus,1993,96,Fantasy
+2334,Pride and Prejudice and Zombies,2016,108,Fantasy
+2335,Bruce Almighty,2003,101,Fantasy
+2336,The Holy Mountain,1973,114,Fantasy
+2337,The Twilight Saga: New Moon,2009,130,Fantasy
+2338,The Addams Family,2019,86,Fantasy
+2339,Monsters University,2013,104,Fantasy
+2340,R.I.P.D.,2013,96,Fantasy
+2341,Hotel Transylvania: Transformania,2022,87,Fantasy
+2342,The Flintstones,1994,91,Fantasy
+2343,Last Action Hero,1993,130,Fantasy
+2344,Conan the Barbarian,2011,113,Fantasy
+2345,Babylon,2022,189,History
+2346,Amsterdam,2022,134,History
+2347,The Northman,2022,137,History
+2348,Narvik: Hitler's First Defeat,2022,108,History
+2349,The Woman King,2022,135,History
+2350,Schindler's List,1993,195,History
+2351,She Said,2022,129,History
+2352,Dunkirk,2017,106,History
+2353,Hidden Figures,2016,127,History
+2354,Till,2022,130,History
+2355,Mission Majnu,2023,129,History
+2356,Hacksaw Ridge,2016,139,History
+2357,Medieval,2022,125,History
+2358,The Big Short,2015,130,History
+2359,Braveheart,1995,178,History
+2360,"Argentina, 1985",2022,140,History
+2361,Tombstone,1993,130,History
+2362,The Last Duel,2021,152,History
+2363,Hamilton,2020,160,History
+2364,BlackBerry,2023,122,History
+2365,The King,2019,140,History
+2366,Kingdom of Heaven,2005,144,History
+2367,Caligula,1979,156,History
+2368,JFK,1991,189,History
+2369,History of the World: Part I,1981,92,History
+2370,Black Hawk Down,2001,144,History
+2371,Malcolm X,1992,202,History
+2372,12 Years a Slave,2013,134,History
+2373,Corsage,2022,114,History
+2374,The Impossible,2012,114,History
+2375,Inherit the Wind,1960,128,History
+2376,Pearl Harbor,2001,183,History
+2377,13 Hours,2016,144,History
+2378,The Favourite,2018,119,History
+2379,Zero Dark Thirty,2012,157,History
+2380,21,2008,123,History
+2381,Downfall,2004,156,History
+2382,The Assassination of Jesse James by the Coward Robert Ford,2007,160,History
+2383,The Thin Red Line,1998,170,History
+2384,First Man,2018,141,History
+2385,Greyhound,2020,91,History
+2386,The Post,2017,116,History
+2387,Judas and the Black Messiah,2021,126,History
+2388,The King's Speech,2010,118,History
+2389,Midway,2019,138,History
+2390,Curiosa,2019,107,History
+2391,The Way Back,2010,133,History
+2392,The Patriot,2000,165,History
+2393,Robin Hood,2010,140,History
+2394,Benedetta,2021,131,History
+2395,Bridge of Spies,2015,142,History
+2396,Apollo 13,1995,140,History
+2397,Lincoln,2012,150,History
+2398,The Great Escape,1963,172,History
+2399,Outlaw King,2018,121,History
+2400,Harriet,2019,125,History
+2401,Mary Queen of Scots,2018,124,History
+2402,Defiance,2008,137,History
+2403,Alexander,2004,175,History
+2404,Deepwater Horizon,2016,107,History
+2405,12 Strong,2018,130,History
+2406,The Courier,2020,112,History
+2407,Munich,2005,164,History
+2408,Silence,2016,161,History
+2409,Straight Outta Compton,2015,147,History
+2410,Public Enemies,2009,140,History
+2411,Marie Antoinette,2006,123,History
+2412,Shakespeare in Love,1998,123,History
+2413,The Trial of the Chicago 7,2020,129,History
+2414,Skyggen i mit øje,2021,107,History
+2415,The Ten Commandments,1956,220,History
+2416,King Arthur,2004,126,History
+2417,Valkyrie,2008,121,History
+2418,In the Heart of the Sea,2015,122,History
+2419,We Were Soldiers,2002,138,History
+2420,Flags of Our Fathers,2006,135,History
+2421,"Lust, Caution",2007,157,History
+2422,Dark Waters,2019,126,History
+2423,The Alamo,1960,162,History
+2424,The Survivor,2021,129,History
+2425,The Leopard,1963,186,History
+2426,The Electrical Life of Louis Wain,2021,111,History
+2427,Against the Ice,2022,102,History
+2428,Spartacus,1960,197,History
+2429,Munich: The Edge of War,2021,130,History
+2430,The Dig,2021,112,History
+2431,Cleopatra,1963,192,History
+2432,Hidden Blade,2023,128,History
+2433,Newsies,1992,121,History
+2434,The Death of Stalin,2017,107,History
+2435,Gandhi Godse Ek Yudh,2023,130,History
+2436,Chevalier,2022,107,History
+2437,The Lost City of Z,2016,141,History
+2438,The Red Sea Diving Resort,2019,129,History
+2439,The Good Shepherd,2006,167,History
+2440,Foxcatcher,2014,134,History
+2441,Glory,1989,122,History
+2442,Cool Runnings,1993,98,History
+2443,Amistad,1997,155,History
+2444,The Sea Hawk,1940,127,History
+2445,A Bridge Too Far,1977,175,History
+2446,Happening,2021,100,History
+2447,Gandhi,1982,191,History
+2448,All the President's Men,1976,138,History
+2449,The Outpost,2019,123,History
+2450,The Other Boleyn Girl,2008,115,History
+2451,Elizabeth,1998,124,History
+2452,Full River Red,2023,159,History
+2453,The 13th Warrior,1999,102,History
+2454,Ammonite,2020,120,History
+2455,Call Jane,2022,121,History
+2456,Operation Finale,2018,122,History
+2458,Ip Man,2008,106,History
+2459,Seven Years in Tibet,1997,136,History
+2460,The Right Stuff,1983,193,History
+2461,The Last King of Scotland,2006,123,History
+2462,Pompeii,2014,105,History
+2463,Benediction,2021,137,History
+2464,The Laundromat,2019,96,History
+2465,Hotel Rwanda,2004,121,History
+2466,The Duchess,2008,110,History
+2467,Hotel Mumbai,2018,123,History
+2468,The New World,2005,135,History
+2469,Red Joan,2018,101,History
+2470,Eddie the Eagle,2015,106,History
+2471,King of Thieves,2018,108,History
+2472,Across the Universe,2007,133,History
+2473,Bezos,2023,99,History
+2474,Miracle,2004,135,History
+2475,Invictus,2009,134,History
+2476,The Monuments Men,2014,118,History
+2477,Colonia,2015,110,History
+2478,Charlie Wilson's War,2007,102,History
+2479,"10,000 BC",2008,109,History
+2480,War Horse,2011,146,History
+2481,The Report,2019,119,History
+2482,Letters from Iwo Jima,2006,141,History
+2483,Togo,2019,113,History
+2484,A Man of Action,2022,111,History
+2485,The Last Emperor,1987,163,History
+2486,The Devils,1971,111,History
+2487,Changeling,2008,141,History
+2488,The Mission,1986,125,History
+2489,Freedom's Path,2022,131,History
+2490,Zulu,1964,138,History
+2491,The Last Kingdom: Seven Kings Must Die,2023,120,History
+2492,Worth,2020,118,History
+2493,Capote,2005,114,History
+2494,The Finest Hours,2016,117,History
+2495,The Birth of a Nation,2016,120,History
+2496,Compliance,2012,90,History
+2497,The 12th Man,2017,135,History
+2498,The Lion in Winter,1968,134,History
+2499,Pride,2014,119,History
+2500,Patriots Day,2016,133,History
+2501,Seabiscuit,2003,140,History
+2502,Woman in Gold,2015,109,History
+2503,Selma,2014,128,History
+2504,The Concubine,2012,122,History
+2505,Anthropoid,2016,120,History
+2506,The Longest Day,1962,178,History
+2507,Knock at the Cabin,2023,100,Horror
+2508,The Menu,2022,107,Horror
+2509,M3GAN,2022,102,Horror
+2510,Viking Wolf,2022,97,Horror
+2511,Infinity Pool,2023,117,Horror
+2512,Scream VI,2023,123,Horror
+2513,The Pale Blue Eye,2022,128,Horror
+2514,X,2022,105,Horror
+2515,Winnie the Pooh: Blood and Honey,2023,84,Horror
+2516,Blood,2022,108,Horror
+2517,Skinamarink,2022,100,Horror
+2518,Barbarian,2022,102,Horror
+2519,Pearl,2022,103,Horror
+2520,Smile,2022,115,Horror
+2521,Nope,2022,130,Horror
+2522,Jeepers Creepers: Reborn,2022,88,Horror
+2523,Bones and All,2022,131,Horror
+2524,Scream,2022,114,Horror
+2525,American Psycho,2000,102,Horror
+2526,Old,2021,108,Horror
+2527,Midsommar,2019,148,Horror
+2528,The Black Phone,2021,103,Horror
+2529,Hereditary,2018,127,Horror
+2530,White Noise,2022,136,Horror
+2531,Venus,2022,100,Horror
+2532,Terrifier 2,2022,138,Horror
+2533,Split,2016,117,Horror
+2534,Sick,2022,83,Horror
+2535,Get Out,2017,104,Horror
+2536,Scream,1996,111,Horror
+2537,Men,2022,100,Horror
+2538,Bodies Bodies Bodies,2022,94,Horror
+2539,Doctor Strange in the Multiverse of Madness,2022,126,Horror
+2540,Beast,2022,93,Horror
+2541,Alien,1979,117,Horror
+2542,Evil Dead Rise,2023,97,Horror
+2543,Prey,2022,100,Horror
+2544,The Visit,2015,94,Horror
+2545,Last Night in Soho,2021,116,Horror
+2546,The Cabin in the Woods,2011,95,Horror
+2547,Bone Tomahawk,2015,132,Horror
+2548,The Invitation,2022,105,Horror
+2549,Creature from the Black Lagoon,1954,79,Horror
+2550,From Dusk Till Dawn,1996,108,Horror
+2551,The Shining,1980,146,Horror
+2552,The Outwaters,2022,100,Horror
+2553,A Quiet Place,2018,90,Horror
+2554,A Serbian Film,2010,104,Horror
+2555,It,2017,135,Horror
+2556,She Came from the Woods,2022,101,Horror
+2557,Tusk,2014,102,Horror
+2558,Orphan: First Kill,2022,99,Horror
+2559,Crimes of the Future,2022,107,Horror
+2560,Hidden,2015,84,Horror
+2561,The Killing of a Sacred Deer,2017,121,Horror
+2562,Glass,2019,129,Horror
+2563,Ready or Not,2019,95,Horror
+2564,The VVitch: A New-England Folktale,2015,92,Horror
+2565,Come Play,2020,96,Horror
+2566,Speak No Evil,2022,97,Horror
+2567,Us,2019,116,Horror
+2568,Candy Land,2022,93,Horror
+2569,Watcher,2022,91,Horror
+2570,Under the Skin,2013,108,Horror
+2571,There's Something Wrong with the Children,2023,92,Horror
+2572,I Know What You Did Last Summer,1997,101,Horror
+2573,Float,2022,76,Horror
+2574,The Conjuring,2013,112,Horror
+2575,Morbius,2022,104,Horror
+2576,28 Days Later,2002,113,Horror
+2577,The Lost Boys,1987,97,Horror
+2578,Jennifer's Body,2009,102,Horror
+2579,Scream 4,2011,111,Horror
+2580,Knock Knock,2015,99,Horror
+2581,Suspiria,2018,152,Horror
+2582,The Offering,2022,93,Horror
+2583,A Quiet Place Part II,2020,97,Horror
+2584,Orphan,2009,123,Horror
+2585,Consecration,2023,91,Horror
+2586,Mad God,2021,83,Horror
+2587,World War Z,2013,116,Horror
+2588,Possessor,2020,103,Horror
+2589,Annihilation,2018,115,Horror
+2590,The Thing,1982,109,Horror
+2591,The Mist,2007,126,Horror
+2592,Fear,2023,98,Horror
+2593,The Exorcist,2023,121,Horror
+2594,The Vanishing,1993,109,Horror
+2595,Piggy,2022,99,Horror
+2596,Terrifier,2016,85,Horror
+2597,Fresh,2022,114,Horror
+2598,The Exorcist,1973,122,Horror
+2599,Psycho,1960,109,Horror
+2600,Predator,1987,107,Horror
+2601,Event Horizon,1997,96,Horror
+2602,Prey for the Devil,2022,93,Horror
+2603,Beau Is Afraid,2023,179,Horror
+2604,Martyrs,2008,99,Horror
+2605,The Platform,2019,94,Horror
+2606,Mother!,2017,121,Horror
+2607,Haunt,2019,92,Horror
+2608,Scream 2,1997,120,Horror
+2609,Train to Busan,2016,118,Horror
+2610,Possession,1981,124,Horror
+2611,Army of the Dead,2021,148,Horror
+2612,Dawn of the Dead,2004,101,Horror
+2613,Doctor Sleep,2019,152,Horror
+2614,Bird Box,2018,124,Horror
+2615,Dracula,1992,128,Horror
+2616,Day Shift,2022,113,Horror
+2617,Constantine,2005,121,Horror
+2618,I Spit on Your Grave,2010,108,Horror
+2619,Life,2017,104,Horror
+2620,Hellraiser,2022,121,Horror
+2621,Mr. Harrigan's Phone,2022,104,Horror
+2622,Alien: Covenant,2017,122,Horror
+2623,Sleepy Hollow,1999,105,Horror
+2624,Searching,2018,102,Horror
+2625,Interview with the Vampire: The Vampire Chronicles,1994,123,Horror
+2626,Halloween Ends,2022,111,Horror
+2627,The House That Jack Built,2018,152,Horror
+2628,The Girl Next Door,2007,91,Horror
+2629,Soft & Quiet,2022,91,Horror
+2630,10 Cloverfield Lane,2016,103,Horror
+2631,Play Dead,2022,106,Horror
+2632,Zombieland,2009,88,Horror
+2633,The New Mutants,2020,94,Horror
+2634,The Evil Dead,1981,85,Horror
+2635,Jeepers Creepers,2001,90,Horror
+2636,Evil Dead,2013,91,Horror
+2637,The Meg,2018,113,Horror
+2638,Cloverfield,2008,85,Horror
+2639,Cannibal Holocaust,1980,95,Horror
+2640,We Have a Ghost,2023,126,Horror
+2641,Scream 3,2000,116,Horror
+2642,The Human Centipede (First Sequence),2009,92,Horror
+2643,A Cure for Wellness,2016,146,Horror
+2644,Saw,2004,103,Horror
+2645,28 Weeks Later,2007,100,Horror
+2646,Piranha 3D,2010,88,Horror
+2647,The Skin I Live In,2011,120,Horror
+2648,It Follows,2014,100,Horror
+2649,Maneater,2022,87,Horror
+2650,The Faculty,1998,104,Horror
+2651,I Am Legend,2007,101,Horror
+2652,What We Do in the Shadows,2014,86,Horror
+2653,Malignant,2021,111,Horror
+2654,Huesera: The Bone Woman,2022,93,Horror
+2655,The Rocky Horror Picture Show,1975,100,Horror
+2656,Scary Movie 2,2001,83,Horror
+2657,The Mummy,2017,110,Horror
+2658,Gerald's Game,2017,103,Horror
+2659,Freaky,2020,102,Horror
+2660,Nanny,2022,99,Horror
+2661,Sound of Silence,2023,93,Horror
+2662,Attachment,2022,105,Horror
+2663,Escape Room,2019,99,Horror
+2664,Antichrist,2009,108,Horror
+2665,The Descent,2005,99,Horror
+2666,Underwater,2020,95,Horror
+2667,It Chapter Two,2019,169,Horror
+2668,The Dead Don't Die,2019,104,Horror
+2669,The Hunt,2020,90,Horror
+2670,The Innocents,2021,117,Horror
+2671,Buffy the Vampire Slayer,1992,86,Horror
+2672,They Live,1988,94,Horror
+2673,Sinister,2012,110,Horror
+2674,Blade,1998,120,Horror
+2675,Wrong Turn,2003,84,Horror
+2676,The Babysitter,2017,85,Horror
+2677,The Fly,1986,96,Horror
+2678,Pitch Black,2000,109,Horror
+2679,Climax,2018,97,Horror
+2680,Poltergeist,1982,114,Horror
+2681,The Mummy: Tomb of the Dragon Emperor,2008,112,Horror
+2682,Carrie,1976,98,Horror
+2683,Bhediya,2022,156,Horror
+2684,Project Wolf Hunting,2022,122,Horror
+2685,The Nun,2018,96,Horror
+2686,Resident Evil,2002,100,Horror
+2687,Resident Evil: Welcome to Raccoon City,2021,107,Horror
+2688,Firestarter,2022,94,Horror
+2689,The Rental,2020,88,Horror
+2690,The Covenant,2006,97,Horror
+2691,Shaun of the Dead,2004,99,Horror
+2692,Goodnight Mommy,2022,92,Horror
+2693,The Empty Man,2020,137,Horror
+2694,Eden Lake,2008,91,Horror
+2695,Legion,2010,100,Horror
+2696,The Conjuring 2,2016,134,Horror
+2697,Spawn,1997,96,Horror
+2698,The Devil Conspiracy,2022,111,Horror
+2699,The Price We Pay,2022,86,Horror
+2700,Don't Breathe,2016,88,Horror
+2701,The Crow,1994,102,Horror
+2702,Rosemary's Baby,1968,137,Horror
+2703,Halloween,1978,91,Horror
+2704,Project Legion,2022,90,Horror
+2705,The Others,2001,104,Horror
+2706,The Ring,2002,115,Horror
+2707,The Night House,2020,107,Horror
+2708,The Neon Demon,2016,117,Horror
+2709,Mandy,2018,121,Horror
+2710,The Babadook,2014,94,Horror
+2711,The Craft,1996,101,Horror
+2712,A Nightmare on Elm Street,1984,91,Horror
+2713,Things Heard & Seen,2021,121,Horror
+2714,Sissy,2022,102,Horror
+2715,Hellboy,2019,120,Horror
+2716,The Last House on the Left,2009,110,Horror
+2717,The Babysitter: Killer Queen,2020,101,Horror
+2718,Insidious,2010,103,Horror
+2719,The Invisible Man,2020,124,Horror
+2720,Dracula Untold,2014,92,Horror
+2721,Wrong Turn,2021,109,Horror
+2722,From Beyond,1986,85,Horror
+2723,Green Room,2015,95,Horror
+2724,Deadstream,2022,87,Horror
+2725,I Saw the Devil,2010,144,Horror
+2726,Friday the 13th,1980,95,Horror
+2727,Alien³,1992,114,Horror
+2728,The Lair,2022,96,Horror
+2729,Slither,2006,95,Horror
+2730,The Conjuring: The Devil Made Me Do It,2021,112,Horror
+2731,The Cloverfield Paradox,2018,102,Horror
+2732,Awake,2021,96,Horror
+2733,Final Destination,2000,98,Horror
+2734,Phantom of the Mall: Eric's Revenge,1989,91,Horror
+2735,Killer Klowns from Outer Space,1988,88,Horror
+2736,An American Werewolf in London,1981,97,Horror
+2737,Vivarium,2019,97,Horror
+2738,Hostel,2005,94,Horror
+2739,Kill Her Goats,2023,99,Horror
+2740,The Sadness,2021,99,Horror
+2741,Brightburn,2019,90,Horror
+2742,The Forever Purge,2021,103,Horror
+2743,The Texas Chain Saw Massacre,1974,83,Horror
+2744,Raw,2016,99,Horror
+2745,Hatching,2022,91,Horror
+2746,Splice,2009,104,Horror
+2747,Videodrome,1983,87,Horror
+2748,Marrowbone,2017,110,Horror
+2749,The Autopsy of Jane Doe,2016,86,Horror
+2750,Eraserhead,1977,89,Horror
+2751,Hush,2016,82,Horror
+2752,1408,2007,104,Horror
+2753,Knock at the Cabin,2023,100,Mystery
+2754,Puss in Boots: The Last Wish,2022,102,Mystery
+2755,Ant-Man and the Wasp: Quantumania,2023,125,Mystery
+2756,Glass Onion,2022,139,Mystery
+2757,Infinity Pool,2023,117,Mystery
+2758,Scream VI,2023,123,Mystery
+2759,The Pale Blue Eye,2022,128,Mystery
+2760,X,2022,105,Mystery
+2761,Amsterdam,2022,134,Mystery
+2762,Where the Crawdads Sing,2022,125,Mystery
+2763,Knives Out,2019,130,Mystery
+2764,Barbarian,2022,102,Mystery
+2765,Vengeance,2022,107,Mystery
+2766,Smile,2022,115,Mystery
+2767,Nope,2022,130,Mystery
+2768,Jeepers Creepers: Reborn,2022,88,Mystery
+2769,Scream,2022,114,Mystery
+2770,The Locksmith,2023,92,Mystery
+2771,Old,2021,108,Mystery
+2772,Midsommar,2019,148,Mystery
+2773,Decision to Leave,2022,139,Mystery
+2774,Luther: The Fallen Sun,2023,129,Mystery
+2775,Blade Runner 2049,2017,164,Mystery
+2776,Hereditary,2018,127,Mystery
+2777,White Noise,2022,136,Mystery
+2778,Last Seen Alive,2022,95,Mystery
+2779,Prisoners,2013,153,Mystery
+2780,Puss in Boots,2011,90,Mystery
+2781,Shutter Island,2010,138,Mystery
+2782,Death on the Nile,2022,127,Mystery
+2783,Se7en,1995,127,Mystery
+2784,Luckiest Girl Alive,2022,113,Mystery
+2785,Harry Potter and the Goblet of Fire,2005,157,Mystery
+2786,Gone Girl,2014,149,Mystery
+2787,The Prestige,2006,130,Mystery
+2788,Apocalypse Now,1979,147,Mystery
+2789,Get Out,2017,104,Mystery
+2790,Scream,1996,111,Mystery
+2791,The Lighthouse,2019,109,Mystery
+2792,See How They Run,2022,98,Mystery
+2793,The Green Mile,1999,189,Mystery
+2794,Harry Potter and the Deathly Hallows: Part 2,2011,130,Mystery
+2795,Irreversible,2002,97,Mystery
+2796,Murder Mystery,2019,97,Mystery
+2797,The Visit,2015,94,Mystery
+2798,Harry Potter and the Prisoner of Azkaban,2004,142,Mystery
+2799,Last Night in Soho,2021,116,Mystery
+2800,The Cabin in the Woods,2011,95,Mystery
+2801,Harry Potter and the Chamber of Secrets,2002,161,Mystery
+2802,Sicario,2015,121,Mystery
+2803,The Little Things,2021,128,Mystery
+2804,The Sixth Sense,1999,107,Mystery
+2805,The Wonder,2022,108,Mystery
+2806,Oldboy,2003,120,Mystery
+2807,Left Behind: Rise of the Antichrist,2023,120,Mystery
+2808,Memento,2000,113,Mystery
+2809,Promising Young Woman,2020,113,Mystery
+2810,The Outfit,2022,105,Mystery
+2811,The Usual Suspects,1995,106,Mystery
+2812,Eyes Wide Shut,1999,159,Mystery
+2813,Signs,2002,106,Mystery
+2814,A Serbian Film,2010,104,Mystery
+2815,Spirited Away,2001,125,Mystery
+2816,Mystic River,2003,138,Mystery
+2817,Harry Potter and the Order of the Phoenix,2007,138,Mystery
+2818,Enola Holmes 2,2022,129,Mystery
+2819,Atonement,2007,123,Mystery
+2820,Marlowe,2022,110,Mystery
+2821,The Village,2004,108,Mystery
+2822,Orphan: First Kill,2022,99,Mystery
+2823,Harry Potter and the Deathly Hallows: Part 1,2010,146,Mystery
+2824,Donnie Darko,2001,113,Mystery
+2825,Clue,1985,94,Mystery
+2826,Arrival,2016,116,Mystery
+2827,The Killing of a Sacred Deer,2017,121,Mystery
+2828,Ready or Not,2019,95,Mystery
+2829,The VVitch: A New-England Folktale,2015,92,Mystery
+2830,The Hateful Eight,2015,168,Mystery
+2831,Run,2020,90,Mystery
+2832,Harry Potter and the Half-Blood Prince,2009,153,Mystery
+2833,Come Play,2020,96,Mystery
+2834,Scooby-Doo,2002,86,Mystery
+2835,Wind River,2017,107,Mystery
+2836,Deep Water,2022,115,Mystery
+2837,Lou,2022,107,Mystery
+2838,Us,2019,116,Mystery
+2839,Basic Instinct,1992,127,Mystery
+2840,Mulholland Drive,2001,147,Mystery
+2841,Murder on the Orient Express,2017,114,Mystery
+2842,Divergent,2014,139,Mystery
+2843,The Father,2020,97,Mystery
+2844,Now You See Me,2013,115,Mystery
+2845,Zootopia,2016,108,Mystery
+2846,Under the Skin,2013,108,Mystery
+2847,National Treasure,2004,131,Mystery
+2848,There's Something Wrong with the Children,2023,92,Mystery
+2849,I Know What You Did Last Summer,1997,101,Mystery
+2850,The Conjuring,2013,112,Mystery
+2851,Enola Holmes,2020,123,Mystery
+2852,Zodiac,2007,157,Mystery
+2853,Primal Fear,1996,129,Mystery
+2854,The Maze Runner,2014,113,Mystery
+2855,Scream 4,2011,111,Mystery
+2856,Jack Reacher,2012,130,Mystery
+2857,Prometheus,2012,124,Mystery
+2858,Suspiria,2018,152,Mystery
+2859,Orphan,2009,123,Mystery
+2860,Minority Report,2002,145,Mystery
+2861,Possessor,2020,103,Mystery
+2862,Annihilation,2018,115,Mystery
+2863,The Thing,1982,109,Mystery
+2864,The Vanishing,1993,109,Mystery
+2865,Drishyam 2,2022,140,Mystery
+2866,Watchmen,2009,162,Mystery
+2867,The Voyeurs,2021,116,Mystery
+2868,The Ballad of Buster Scruggs,2018,133,Mystery
+2869,Coco,2017,105,Mystery
+2870,Psycho,1960,109,Mystery
+2871,Wild Things,1998,108,Mystery
+2872,Mindcage,2022,96,Mystery
+2873,Inside Man,2006,129,Mystery
+2874,God's Crooked Lines,2022,154,Mystery
+2875,The Game,1997,129,Mystery
+2876,Quantum of Solace,2008,106,Mystery
+2877,Beau Is Afraid,2023,179,Mystery
+2878,Bad Times at the El Royale,2018,141,Mystery
+2879,Mother!,2017,121,Mystery
+2880,Scream 2,1997,120,Mystery
+2881,Blue Velvet,1986,120,Mystery
+2882,Oldboy,2013,104,Mystery
+2883,Bird Box,2018,124,Mystery
+2884,The Devil's Advocate,1997,144,Mystery
+2885,Gone Baby Gone,2007,114,Mystery
+2886,Inheritance,2020,111,Mystery
+2887,Constantine,2005,121,Mystery
+2888,The Girl with the Dragon Tattoo,2011,158,Mystery
+2889,Unbreakable,2000,106,Mystery
+2890,Memories of Murder,2003,132,Mystery
+2891,The Lives of Others,2006,137,Mystery
+2892,Palm Springs,2020,90,Mystery
+2893,Hellraiser,2022,121,Mystery
+2894,Mr. Harrigan's Phone,2022,104,Mystery
+2895,Sleepy Hollow,1999,105,Mystery
+2896,Searching,2018,102,Mystery
+2897,"I, Robot",2004,115,Mystery
+2898,Soft & Quiet,2022,91,Mystery
+2899,10 Cloverfield Lane,2016,103,Mystery
+2900,The New Mutants,2020,94,Mystery
+2901,L.A. Confidential,1997,138,Mystery
+2902,City of Lies,2018,112,Mystery
+2903,Incendies,2010,131,Mystery
+2904,Jeepers Creepers,2001,90,Mystery
+2905,Ad Astra,2019,123,Mystery
+2906,Swimming Pool,2003,102,Mystery
+2907,12 Monkeys,1995,129,Mystery
+2908,We Have a Ghost,2023,126,Mystery
+2909,Scream 3,2000,116,Mystery
+2910,Lady in the Water,2006,110,Mystery
+2911,The Bourne Identity,2002,119,Mystery
+2912,A Cure for Wellness,2016,146,Mystery
+2913,Saw,2004,103,Mystery
+2914,Holes,2003,117,Mystery
+2915,Alice in Wonderland,2010,108,Mystery
+2916,The Skin I Live In,2011,120,Mystery
+2917,Significant Other,2022,84,Mystery
+2918,It Follows,2014,100,Mystery
+2919,Super 8,2011,112,Mystery
+2920,The Faculty,1998,104,Mystery
+2921,Malignant,2021,111,Mystery
+2922,Vanilla Sky,2001,136,Mystery
+2923,Sherlock Holmes,2009,128,Mystery
+2924,Sicario: Day of the Soldado,2018,122,Mystery
+2925,The Fugitive,1993,130,Mystery
+2926,Miss Willoughby and the Haunted Bookshop,2021,90,Mystery
+2927,Chinatown,1974,130,Mystery
+2928,The Lincoln Lawyer,2011,118,Mystery
+2929,The Gift,2015,108,Mystery
+2930,Hot Fuzz,2007,121,Mystery
+2931,A Simple Favor,2018,117,Mystery
+2932,Escape Room,2019,99,Mystery
+2933,The 'Burbs,1989,102,Mystery
+2934,The Innocents,2021,117,Mystery
+2935,Sinister,2012,110,Mystery
+2936,Men in Black II,2002,88,Mystery
+2937,Enemy,2013,91,Mystery
+2938,The Weekend Away,2022,89,Mystery
+2939,Now You See Me 2,2016,129,Mystery
+2940,Under the Silver Lake,2018,139,Mystery
+2941,Contact,1997,150,Mystery
+2942,Birth,2004,100,Mystery
+2943,Carrie,1976,98,Mystery
+2944,The Abyss,1989,140,Mystery
+2945,The Nun,2018,96,Mystery
+2946,Cloud Atlas,2012,172,Mystery
+2947,The Invisible Guest,2016,106,Mystery
+2948,The Girl on the Train,2016,112,Mystery
+2949,The Rental,2020,88,Mystery
+2950,The Covenant,2006,97,Mystery
+2951,Vertigo,1958,128,Mystery
+2952,Goodnight Mommy,2022,92,Mystery
+2953,The Empty Man,2020,137,Mystery
+2954,The Killer,2023,158,Mystery
+2955,The Conjuring 2,2016,134,Mystery
+2956,Source Code,2011,93,Mystery
+2957,Rear Window,1954,112,Mystery
+2958,Knowing,2009,121,Mystery
+2959,Pig,2021,92,Mystery
+2960,Zoolander 2,2016,101,Mystery
+2961,Side Effects,2013,106,Mystery
+2962,The Others,2001,104,Mystery
+2963,The Ring,2002,115,Mystery
+2964,The Night House,2020,107,Mystery
+2965,The Vanishing,2018,107,Mystery
+2966,What Happened to Monday,2017,123,Mystery
+2967,Reminiscence,2021,116,Mystery
+2968,Eileen,2023,97,Mystery
+2969,The Babadook,2014,94,Mystery
+2970,The Tragedy of Macbeth,2021,105,Mystery
+2971,The Da Vinci Code,2006,149,Mystery
+2972,Brimstone,2016,148,Mystery
+2973,The Long Good Friday,1980,114,Mystery
+2974,Moon,2009,97,Mystery
+2975,Citizen Kane,1941,119,Mystery
+2976,Solace,2015,101,Mystery
+2977,No Sudden Move,2021,115,Mystery
+2978,The Adventures of Tintin,2011,107,Mystery
+2979,Things Heard & Seen,2021,121,Mystery
+2980,Dark City,1998,100,Mystery
+2981,Insidious,2010,103,Mystery
+2982,The Invisible Man,2020,124,Mystery
+2983,Peter Pan & Wendy,2023,106,Romance
+2984,Puss in Boots: The Last Wish,2022,102,Romance
+2985,Your Place or Mine,2023,109,Romance
+2986,Somebody I Used to Know,2023,106,Romance
+2987,Titanic,1997,194,Romance
+2988,The Super Mario Bros. Movie,2023,92,Romance
+2989,You People,2023,117,Romance
+2990,Empire of Light,2022,115,Romance
+2991,Spin Me Round,2022,104,Romance
+2992,Love,2015,135,Romance
+2993,Where the Crawdads Sing,2022,125,Romance
+2994,What's Love Got to Do with It?,2022,108,Romance
+2995,Thor: Love and Thunder,2022,118,Romance
+2996,Shotgun Wedding,2022,100,Romance
+2997,Emily,2022,130,Romance
+2998,Blonde,2022,167,Romance
+2999,Good Will Hunting,1997,126,Romance
+3000,Forrest Gump,1994,142,Romance
+3001,Grease,1978,110,Romance
+3002,Teen Wolf: The Movie,2023,140,Romance
+3003,Fifty Shades of Grey,2015,125,Romance
+3004,Bones and All,2022,131,Romance
+3005,The Parent Trap,1998,128,Romance
+3006,Peter Pan,2003,113,Romance
+3007,Ticket to Paradise,2022,104,Romance
+3008,The Great Gatsby,2013,143,Romance
+3009,Decision to Leave,2022,139,Romance
+3010,Little Women,2019,135,Romance
+3011,La La Land,2016,128,Romance
+3012,This Is 40,2012,134,Romance
+3013,Tonight You're Sleeping with Me,2023,92,Romance
+3014,Eternal Sunshine of the Spotless Mind,2004,108,Romance
+3015,Pride & Prejudice,2005,129,Romance
+3016,The Princess Bride,1987,98,Romance
+3017,The Lost City,2022,112,Romance
+3018,Clueless,1995,97,Romance
+3019,Past Lives,2023,106,Romance
+3020,Puss in Boots,2011,90,Romance
+3021,The Dreamers,2003,115,Romance
+3022,Scott Pilgrim vs. the World,2010,112,Romance
+3023,Maybe I Do,2023,95,Romance
+3024,Sixteen Candles,1984,93,Romance
+3025,A Man Called Ove,2015,116,Romance
+3026,Lady Chatterley's Lover,2022,126,Romance
+3027,Breakfast at Tiffany's,1961,115,Romance
+3028,Call Me by Your Name,2017,132,Romance
+3029,True Romance,1993,119,Romance
+3030,The Notebook,2004,123,Romance
+3031,Twilight,2008,122,Romance
+3032,365 Days,2020,114,Romance
+3033,Licorice Pizza,2021,133,Romance
+3034,About Time,2013,123,Romance
+3035,Legally Blonde,2001,96,Romance
+3036,Her,2013,126,Romance
+3037,Stardust,2007,127,Romance
+3038,West Side Story,1961,153,Romance
+3039,Practical Magic,1998,104,Romance
+3040,The Lobster,2015,119,Romance
+3041,Romeo + Juliet,1996,120,Romance
+3042,Bridesmaids,2011,125,Romance
+3043,Lolita,1997,137,Romance
+3044,Pretty Woman,1990,119,Romance
+3045,Just Go with It,2011,117,Romance
+3046,The Shape of Water,2017,123,Romance
+3047,Pitch Perfect,2012,112,Romance
+3048,Three Thousand Years of Longing,2022,108,Romance
+3049,10 Things I Hate About You,1999,97,Romance
+3050,Les Misérables,2012,158,Romance
+3051,Steel Magnolias,1989,117,Romance
+3052,The French Dispatch,2021,107,Romance
+3053,Dirty Dancing,1987,100,Romance
+3054,Life Is Beautiful,1997,116,Romance
+3055,The Handmaiden,2016,145,Romance
+3056,After,2019,105,Romance
+3057,West Side Story,2021,156,Romance
+3058,Willow,1988,126,Romance
+3059,The King,2019,140,Romance
+3060,Me Before You,2016,106,Romance
+3061,Cast Away,2000,143,Romance
+3062,"Crazy, Stupid, Love.",2011,118,Romance
+3063,Battle Cry,1955,149,Romance
+3064,Shrek,2001,90,Romance
+3065,Malena,2000,108,Romance
+3066,The Sound of Music,1965,172,Romance
+3067,As Good as It Gets,1997,139,Romance
+3068,A Star Is Born,2018,136,Romance
+3069,Meet Joe Black,1998,178,Romance
+3070,The Worst Person in the World,2021,128,Romance
+3071,The Age of Adaline,2015,112,Romance
+3072,Weird Science,1985,94,Romance
+3073,Brokeback Mountain,2005,134,Romance
+3074,Friends with Benefits,2011,109,Romance
+3075,The 40-Year-Old Virgin,2005,116,Romance
+3076,Crazy Rich Asians,2018,120,Romance
+3077,Love Actually,2003,135,Romance
+3078,Closer,2004,104,Romance
+3079,Beauty and the Beast,2017,129,Romance
+3080,A Knight's Tale,2001,132,Romance
+3081,Blue Is the Warmest Colour,2013,180,Romance
+3082,Sissy,2022,102,Romance
+3083,Sweet Home Alabama,2002,108,Romance
+3084,The Curious Case of Benjamin Button,2008,166,Romance
+3085,She's the Man,2006,105,Romance
+3086,Are You,2023,96,Romance
+3087,"Crouching Tiger, Hidden Dragon",2000,120,Romance
+3088,Beautiful Disaster,2023,105,Romance
+3089,Love & Other Drugs,2010,112,Romance
+3090,Atonement,2007,123,Romance
+3091,Lie with Me,2005,93,Romance
+3092,Passengers,2016,116,Romance
+3093,Cinderella,2015,105,Romance
+3094,Maleficent,2014,97,Romance
+3095,The Girl Next Door,2004,109,Romance
+3096,Little Children,2006,137,Romance
+3097,The Blue Lagoon,1980,104,Romance
+3098,The Darkest Minds,2018,104,Romance
+3099,Your Name.,2016,106,Romance
+3100,Casablanca,1942,102,Romance
+3101,Mamma Mia!,2008,108,Romance
+3102,Pearl Harbor,2001,183,Romance
+3103,Cashback,2006,102,Romance
+3104,Empire Records,1995,90,Romance
+3105,Big,1988,104,Romance
+3106,Cruel Intentions,1999,97,Romance
+3107,Gone with the Wind,1939,238,Romance
+3108,Forgetting Sarah Marshall,2008,111,Romance
+3109,Tangled,2010,100,Romance
+3110,Purple Hearts,2022,122,Romance
+3111,Jerry Maguire,1996,139,Romance
+3112,Before Sunrise,1995,101,Romance
+3113,Hercules,1997,93,Romance
+3114,Room in Rome,2010,107,Romance
+3115,Aladdin,2019,128,Romance
+3116,The Proposal,2009,108,Romance
+3117,Never Been Kissed,1999,107,Romance
+3118,Robin Hood: Prince of Thieves,1991,143,Romance
+3119,Blue Valentine,2010,112,Romance
+3120,Disenchanted,2022,119,Romance
+3121,The Power of the Dog,2021,126,Romance
+3122,Fifty Shades Freed,2018,105,Romance
+3123,Big Fish,2003,125,Romance
+3124,500 Days of Summer,2009,95,Romance
+3125,Dracula,1992,128,Romance
+3126,Secretary,2002,107,Romance
+3127,Moulin Rouge!,2001,127,Romance
+3128,King Kong,2005,187,Romance
+3129,The Ballad of Buster Scruggs,2018,133,Romance
+3130,Amélie,2001,122,Romance
+3131,The Last of the Mohicans,1992,112,Romance
+3132,Notting Hill,1999,124,Romance
+3133,The Reader,2008,124,Romance
+3134,Mr. Skeffington,1944,146,Romance
+3135,Blended,2014,117,Romance
+3136,Unfaithful,2002,124,Romance
+3137,Pretty in Pink,1986,97,Romance
+3138,Swiss Army Man,2016,97,Romance
+3139,George of the Jungle,1997,92,Romance
+3140,Vicky Cristina Barcelona,2008,96,Romance
+3141,Groundhog Day,1993,101,Romance
+3142,The Legend of Tarzan,2016,110,Romance
+3143,Legend,1985,94,Romance
+3144,Silver Linings Playbook,2012,122,Romance
+3145,Fifty Shades Darker,2017,118,Romance
+3146,Portrait of a Lady on Fire,2019,122,Romance
+3147,After Ever Happy,2022,95,Romance
+3148,Lolita,1962,153,Romance
+3149,Mannequin,1987,90,Romance
+3150,Footloose,1984,107,Romance
+3151,Beauty and the Beast,1991,84,Romance
+3152,The Secret Life of Walter Mitty,2013,114,Romance
+3153,Edward Scissorhands,1990,105,Romance
+3154,Murder Mystery,2019,97,Romance
+3155,Downton Abbey: A New Era,2022,124,Romance
+3156,Shrek 2,2004,93,Romance
+3157,The Wedding Singer,1998,97,Romance
+3158,Easy A,2010,92,Romance
+3159,Excalibur,1981,140,Romance
+3160,After We Collided,2020,105,Romance
+3161,The Wrong Missy,2020,90,Romance
+3162,Perfect Sense,2011,92,Romance
+3163,The Terminal,2004,128,Romance
+3164,Bros,2022,115,Romance
+3165,The Princess Diaries,2001,115,Romance
+3166,Marriage Story,2019,137,Romance
+3167,Five Feet Apart,2019,116,Romance
+3168,Redeeming Love,2022,134,Romance
+3169,The Phantom of the Opera,2004,143,Romance
+3170,The Little Hours,2017,90,Romance
+3171,There's Something About Mary,1998,119,Romance
+3172,The Little Mermaid,1989,83,Romance
+3173,The Beach,2000,119,Romance
+3174,Persuasion,2022,108,Romance
+3175,Dick Tracy,1990,105,Romance
+3176,No Strings Attached,2011,108,Romance
+3177,Aladdin,1992,90,Romance
+3178,Trolls,2016,92,Romance
+3179,Wedding Crashers,2005,119,Romance
+3180,Bring It On,2000,98,Romance
+3181,Coyote Ugly,2000,100,Romance
+3182,The Best Years of Our Lives,1946,170,Romance
+3183,Slumdog Millionaire,2008,120,Romance
+3184,She's All That,1999,95,Romance
+3185,50 First Dates,2004,99,Romance
+3186,The Art of Racing in the Rain,2019,109,Romance
+3187,Sex and Lucía,2001,128,Romance
+3188,Vanilla Sky,2001,136,Romance
+3189,The Princess and the Frog,2009,97,Romance
+3190,"I Love You, Man",2009,105,Romance
+3191,My Policeman,2022,113,Romance
+3192,The Adventures of Robin Hood,1938,102,Romance
+3193,Some Like It Hot,1959,121,Romance
+3194,Witness,1985,112,Romance
+3195,Can't Hardly Wait,1998,100,Romance
+3196,What Women Want,2000,127,Romance
+3197,Enchanted,2007,107,Romance
+3198,At Midnight,2023,100,Romance
+3199,Wet Hot American Summer,2001,97,Romance
+3200,Desire,2011,103,Romance
+3201,Emma.,2020,124,Romance
+3202,The African Queen,1951,105,Romance
+3203,The Fountain,2006,97,Romance
+3204,Knocked Up,2007,129,Romance
+3205,Shortbus,2006,101,Romance
+3206,Hairspray,2007,117,Romance
+3207,It's a Wonderful Life,1946,130,Romance
+3208,Sex Tape,2014,94,Romance
+3209,Palm Springs,2020,90,Romance
+3210,Focus,2015,105,Romance
+3211,Midnight in Paris,2011,94,Romance
+3212,In the Mood for Love,2000,98,Romance
+3213,The English Patient,1996,162,Romance
+3214,"Love, Rosie",2014,102,Romance
+3215,Varsity Blues,1999,106,Romance
+3216,Legends of the Fall,1994,133,Romance
+3217,Mamma Mia! Here We Go Again,2018,114,Romance
+3218,Walk the Line,2005,136,Romance
+3219,Benedetta,2021,131,Romance
+3220,Some Kind of Wonderful,1987,95,Romance
+3221,Click,2006,107,Romance
+3222,Of an Age,2022,100,Romance
+3223,Phantom Thread,2017,130,Romance
+3224,Ghost,1990,127,Romance
+3225,Reminiscence,2021,116,Romance
+3226,The Virgin Suicides,1999,97,Romance
+3227,Brigadoon,1954,108,Romance
+3228,Below Her Mouth,2016,94,Romance
+3229,Blast from the Past,1999,112,Romance
+3230,Burlesque,2010,119,Romance
+3231,Light in the Piazza,1962,102,Romance
+3232,Mr. Nobody,2009,141,Romance
+3233,The Graduate,1967,106,Romance
+3234,Sleeping Beauty,2011,101,Romance
+3235,Singin' in the Rain,1952,103,Romance
+3236,How to Lose a Guy in 10 Days,2003,116,Romance
+3237,He's Just Not That Into You,2009,129,Romance
+3238,Through My Window,2022,116,Romance
+3239,Revolutionary Road,2008,119,Romance
+3240,Auntie Mame,1958,143,Romance
+3241,The Twilight Saga: Breaking Dawn - Part 2,2012,115,Romance
+3242,The Quick and the Dead,1995,108,Romance
+3243,Robin Hood: Men in Tights,1993,104,Romance
+3244,Sam & Kate,2022,110,Romance
+3245,Better Off Dead...,1985,97,Romance
+3246,Cinema Paradiso,1988,155,Romance
+3247,One Day,2011,107,Romance
+3248,But I'm a Cheerleader,1999,85,Romance
+3249,Game of Love,2022,91,Romance
+3250,Carol,2015,118,Romance
+3251,Shehzada,2023,142,Romance
+3252,The Best of Me,2014,118,Romance
+3253,The Bodyguard,1992,129,Romance
+3254,9 Songs,2004,71,Romance
+3255,Vertigo,1958,128,Romance
+3256,The Next 365 Days,2022,112,Romance
+3257,Young & Beautiful,2013,95,Romance
+3258,The Fault in Our Stars,2014,126,Romance
+3259,Survival Island,2005,95,Romance
+3260,The Illusionist,2006,110,Romance
+3261,Eat Pray Love,2010,133,Romance
+3262,Tulip Fever,2017,105,Romance
+3263,The Secret: Dare to Dream,2020,107,Romance
+3264,Don Jon,2013,90,Romance
+3265,The Mask of Zorro,1998,136,Romance
+3266,Last Tango in Paris,1972,129,Romance
+3267,Coming to America,1988,117,Romance
+3268,Sleepless in Seattle,1993,105,Romance
+3269,Moonstruck,1987,102,Romance
+3270,About Fate,2022,103,Romance
+3271,Perfect Addiction,2023,98,Romance
+3272,Moonrise Kingdom,2012,94,Romance
+3273,Sense and Sensibility,1995,136,Romance
+3274,Rosaline,2022,95,Romance
+3275,Allied,2016,124,Romance
+3276,The Vow,2012,104,Romance
+3277,The Secret in Their Eyes,2009,129,Romance
+3278,Up in the Air,2009,109,Romance
+3279,The Giver,2014,97,Romance
+3280,This Means War,2012,103,Romance
+3281,13 Going on 30,2004,98,Romance
+3282,When Harry Met Sally...,1989,95,Romance
+3283,Never Let Me Go,2010,103,Romance
+3284,Anastasia,1997,94,Romance
+3285,Fallen Angels,1995,99,Romance
+3286,Waves,2019,135,Romance
+3287,One Fine Morning,2022,112,Romance
+3288,Romeo and Juliet,1968,138,Romance
+3289,Ever After: A Cinderella Story,1998,121,Romance
+3290,The Holiday,2006,136,Romance
+3291,Leap Year,2010,100,Romance
+3292,Hotel Transylvania,2012,91,Romance
+3293,Memoirs of a Geisha,2005,145,Romance
+3294,Royal Rendezvous,2023,89,Romance
+3295,10,1979,122,Romance
+3296,Sideways,2004,127,Romance
+3297,The Palm Beach Story,1942,88,Romance
+3298,Remember Me,2010,113,Romance
+3299,Anna Karenina,2012,129,Romance
+3300,Love Machine,2016,79,Romance
+3301,Before Sunset,2004,80,Romance
+3302,She's Out of My League,2010,104,Romance
+3303,You've Got Mail,1998,119,Romance
+3304,Zack and Miri Make a Porno,2008,101,Romance
+3305,The Kissing Booth,2018,105,Romance
+3306,Father of the Bride,2022,117,Romance
+3307,A Room with a View,1985,117,Romance
+3308,Adventures in Babysitting,1987,102,Romance
+3309,9½ Weeks,1986,117,Romance
+3310,The Piano,1993,121,Romance
+3311,Great Expectations,1998,111,Romance
+3312,Out of Africa,1985,161,Romance
+3313,A Cinderella Story,2004,95,Romance
+3314,Black Panther: Wakanda Forever,2022,161,Scifi
+3315,Avatar: The Way of Water,2022,192,Scifi
+3316,Everything Everywhere All at Once,2022,139,Scifi
+3317,M3GAN,2022,102,Scifi
+3318,Ant-Man and the Wasp: Quantumania,2023,125,Scifi
+3319,Infinity Pool,2023,117,Scifi
+3320,Black Panther,2018,134,Scifi
+3321,Avatar,2009,162,Scifi
+3322,The Wandering Earth II,2023,173,Scifi
+3323,Black Adam,2022,125,Scifi
+3324,Interstellar,2014,169,Scifi
+3325,Jurassic World: Dominion,2022,147,Scifi
+3326,The Hunger Games,2012,142,Scifi
+3327,Dune,2021,155,Scifi
+3328,Nope,2022,130,Scifi
+3329,Thor: Love and Thunder,2022,118,Scifi
+3330,Inception,2010,148,Scifi
+3331,Spider-Man: No Way Home,2021,148,Scifi
+3332,Avengers: Endgame,2019,181,Scifi
+3333,Legion of Super-Heroes,2023,83,Scifi
+3334,Strange World,2022,102,Scifi
+3335,Blade Runner 2049,2017,164,Scifi
+3336,The Matrix,1999,136,Scifi
+3337,Don't Look Up,2021,138,Scifi
+3338,Minions: The Rise of Gru,2022,87,Scifi
+3339,Independence Day,1996,145,Scifi
+3340,Barb Wire,1996,98,Scifi
+3341,Vesper,2022,114,Scifi
+3342,Tenet,2020,150,Scifi
+3343,The Suicide Squad,2021,132,Scifi
+3344,Back to the Future,1985,116,Scifi
+3345,The Prestige,2006,130,Scifi
+3346,Jurassic Park,1993,127,Scifi
+3347,Ant-Man,2015,117,Scifi
+3348,Eternal Sunshine of the Spotless Mind,2004,108,Scifi
+3349,Edge of Tomorrow,2014,113,Scifi
+3350,About Time,2013,123,Scifi
+3351,The Hunger Games: Catching Fire,2013,146,Scifi
+3352,Infinite,2021,106,Scifi
+3353,Doctor Strange in the Multiverse of Madness,2022,126,Scifi
+3354,Eternals,2021,156,Scifi
+3355,Guardians of the Galaxy,2014,121,Scifi
+3356,Alien,1979,117,Scifi
+3357,Prey,2022,100,Scifi
+3358,Mad Max: Fury Road,2015,120,Scifi
+3359,Free Guy,2021,115,Scifi
+3360,Star Wars,1977,121,Scifi
+3361,Suicide Squad,2016,123,Scifi
+3362,Wifelike,2022,105,Scifi
+3363,Her,2013,126,Scifi
+3364,Avengers: Infinity War,2018,149,Scifi
+3365,A Clockwork Orange,1971,136,Scifi
+3366,Creature from the Black Lagoon,1954,79,Scifi
+3367,The Lobster,2015,119,Scifi
+3368,Deadpool 2,2018,119,Scifi
+3369,The Butterfly Effect,2004,113,Scifi
+3370,Ant-Man and the Wasp,2018,118,Scifi
+3371,The Outwaters,2022,100,Scifi
+3372,A Quiet Place,2018,90,Scifi
+3373,Signs,2002,106,Scifi
+3374,Blade Runner,1982,117,Scifi
+3375,Rogue One: A Star Wars Story,2016,133,Scifi
+3376,The Terminator,1984,107,Scifi
+3377,Terminator 2: Judgment Day,1991,137,Scifi
+3378,Ex Machina,2014,108,Scifi
+3379,Spider-Man: Into the Spider-Verse,2018,117,Scifi
+3380,Ready Player One,2018,140,Scifi
+3381,Spider-Man,2002,121,Scifi
+3382,Aliens,1986,137,Scifi
+3383,The Fifth Element,1997,126,Scifi
+3384,Passengers,2016,116,Scifi
+3386,Crimes of the Future,2022,107,Scifi
+3387,Oblivion,2013,124,Scifi
+3388,Donnie Darko,2001,113,Scifi
+3389,2001: A Space Odyssey,1968,149,Scifi
+3390,Close Encounters of the Third Kind,1977,138,Scifi
+3391,The Day After Tomorrow,2004,124,Scifi
+3392,Hidden,2015,84,Scifi
+3393,War of the Worlds,2005,116,Scifi
+3394,Man of Steel,2013,143,Scifi
+3395,Captain America: The First Avenger,2011,124,Scifi
+3396,Arrival,2016,116,Scifi
+3397,Logan,2017,137,Scifi
+3398,Moonfall,2022,130,Scifi
+3399,Glass,2019,129,Scifi
+3400,The Matrix Resurrections,2021,148,Scifi
+3401,Star Wars: The Rise Of Skywalker,2019,141,Scifi
+3402,Jung_E,2023,98,Scifi
+3403,Ghostbusters: Afterlife,2021,124,Scifi
+3404,The Martian,2015,144,Scifi
+3405,Idiocracy,2006,84,Scifi
+3406,RoboCop,1987,102,Scifi
+3407,Black Widow,2021,134,Scifi
+3408,Shang-Chi and the Legend of the Ten Rings,2021,132,Scifi
+3409,Divergent,2014,139,Scifi
+3410,Star Wars: Episode I - The Phantom Menace,1999,136,Scifi
+3411,The Avengers,2012,143,Scifi
+3412,Under the Skin,2013,108,Scifi
+3413,Transformers,2007,144,Scifi
+3414,Star Wars: Episode VII - The Force Awakens,2015,138,Scifi
+3415,Morbius,2022,104,Scifi
+3416,Iron Man,2008,126,Scifi
+3417,28 Days Later,2002,113,Scifi
+3418,The Maze Runner,2014,113,Scifi
+3419,Prometheus,2012,124,Scifi
+3420,2012,2009,158,Scifi
+3421,A Quiet Place Part II,2020,97,Scifi
+3422,The Hunger Games: Mockingjay - Part 2,2015,137,Scifi
+3423,Mad God,2021,83,Scifi
+3424,Minority Report,2002,145,Scifi
+3425,The Adam Project,2022,106,Scifi
+3426,World War Z,2013,116,Scifi
+3427,Possessor,2020,103,Scifi
+3428,Annihilation,2018,115,Scifi
+3429,Spiderhead,2022,106,Scifi
+3430,The Thing,1982,109,Scifi
+3431,The Mist,2007,126,Scifi
+3432,Tron: Legacy,2010,125,Scifi
+3433,Jurassic World: Fallen Kingdom,2018,128,Scifi
+3434,A.I. Artificial Intelligence,2001,146,Scifi
+3435,Okja,2017,120,Scifi
+3436,Watchmen,2009,162,Scifi
+3437,Thor: Ragnarok,2017,130,Scifi
+3438,Wonder Woman,2017,141,Scifi
+3439,Barbarella,1968,98,Scifi
+3440,Alita: Battle Angel,2019,122,Scifi
+3441,Men in Black,1997,98,Scifi
+3442,Aquaman,2018,143,Scifi
+3443,Batman v Superman: Dawn of Justice,2016,151,Scifi
+3444,Mars Attacks!,1996,106,Scifi
+3445,Spider-Man: Homecoming,2017,133,Scifi
+3446,Guardians of the Galaxy Vol. 2,2017,136,Scifi
+3447,Predator,1987,107,Scifi
+3448,Star Wars: Episode V - The Empire Strikes Back,1980,124,Scifi
+3449,Armageddon,1998,151,Scifi
+3450,Love and Monsters,2020,109,Scifi
+3451,The Hunger Games: Mockingjay - Part 1,2014,123,Scifi
+3452,Transformers: The Last Knight,2017,154,Scifi
+3453,The Wandering Earth,2019,125,Scifi
+3454,Ghostbusters,1984,105,Scifi
+3455,Jurassic World,2015,124,Scifi
+3456,Dune,1984,137,Scifi
+3457,Star Wars: Episode VI - Return of the Jedi,1983,131,Scifi
+3458,Avengers: Age of Ultron,2015,141,Scifi
+3459,Event Horizon,1997,96,Scifi
+3460,Starship Troopers,1997,129,Scifi
+3461,X-Men,2000,104,Scifi
+3462,E.T.,1982,115,Scifi
+3463,WALL·E,2008,98,Scifi
+3464,Total Recall,1990,113,Scifi
+3465,The Platform,2019,94,Scifi
+3466,WarGames,1983,114,Scifi
+3467,DC League of Super-Pets,2022,105,Scifi
+3468,Captain America: Civil War,2016,147,Scifi
+3469,Sonic the Hedgehog 2,2022,122,Scifi
+3470,Army of the Dead,2021,148,Scifi
+3471,Justice League,2017,120,Scifi
+3472,Terminator: Dark Fate,2019,128,Scifi
+3473,Bird Box,2018,124,Scifi
+3474,Star Trek,2009,127,Scifi
+3475,Weird Science,1985,94,Scifi
+3476,Unbreakable,2000,106,Scifi
+3477,Captain Marvel,2019,123,Scifi
+3478,Life,2017,104,Scifi
+3479,V for Vendetta,2005,132,Scifi
+3480,Alien: Covenant,2017,122,Scifi
+3481,Mortal Kombat,2021,110,Scifi
+3482,Mad Max,1979,88,Scifi
+3483,"I, Robot",2004,115,Scifi
+3484,Star Wars: Episode VIII - The Last Jedi,2017,152,Scifi
+3485,In Time,2011,109,Scifi
+3486,Star Wars: Episode III - Revenge of the Sith,2005,140,Scifi
+3487,Predestination,2014,97,Scifi
+3488,The Happening,2008,91,Scifi
+3489,10 Cloverfield Lane,2016,103,Scifi
+3490,The New Mutants,2020,94,Scifi
+3491,Strange Days,1995,145,Scifi
+3492,Real Genius,1985,108,Scifi
+3493,The Running Man,1987,101,Scifi
+3494,Samaritan,2022,102,Scifi
+3495,Cowboys & Aliens,2011,119,Scifi
+3496,Ad Astra,2019,123,Scifi
+3497,Snowpiercer,2013,126,Scifi
+3498,Super Mario Bros.,1993,104,Scifi
+3499,Godzilla vs. Kong,2021,113,Scifi
+3500,The Meg,2018,113,Scifi
+3501,Cloverfield,2008,85,Scifi
+3502,Solo: A Star Wars Story,2018,135,Scifi
+3503,12 Monkeys,1995,129,Scifi
+3504,Children of Men,2006,109,Scifi
+3505,Prospect,2018,100,Scifi
+3506,Doctor Strange,2016,115,Scifi
+3507,Iron Man Three,2013,130,Scifi
+3508,Riddick,2013,119,Scifi
+3509,A Cure for Wellness,2016,146,Scifi
+3510,28 Weeks Later,2007,100,Scifi
+3511,Stargate,1994,116,Scifi
+3512,Cloudy with a Chance of Meatballs,2009,90,Scifi
+3513,The Tomorrow War,2021,138,Scifi
+3514,Lightyear,2022,105,Scifi
+3515,X-Men: Apocalypse,2016,144,Scifi
+3516,Men in Black 3,2012,106,Scifi
+3517,Spider-Man 3,2007,139,Scifi
+3518,Significant Other,2022,84,Scifi
+3519,Sunshine,2007,107,Scifi
+3520,Valerian and the City of a Thousand Planets,2017,136,Scifi
+3521,Terminator 3: Rise of the Machines,2003,109,Scifi
+3522,Deep Impact,1998,120,Scifi
+3523,Super 8,2011,112,Scifi
+3524,The Faculty,1998,104,Scifi
+3525,I Am Legend,2007,101,Scifi
+3526,Zoom,2006,83,Scifi
+3527,Hot Tub Time Machine,2010,101,Scifi
+3528,Spaceballs,1987,96,Scifi
+3529,Captain America: The Winter Soldier,2014,136,Scifi
+3530,Deep Blue Sea,1999,105,Scifi
+3531,Vanilla Sky,2001,136,Scifi
+3532,Gravity,2013,91,Scifi
+3533,Superman,1978,143,Scifi
+3534,Venom: Let There Be Carnage,2021,97,Scifi
+3535,Spider-Man: Far from Home,2019,129,Scifi
+3536,Limitless,2011,105,Scifi
+3537,Blast from the Past,1999,112,Scifi
+3538,The Amazing Spider-Man,2012,136,Scifi
+3539,Downsizing,2017,135,Scifi
+3540,Face/Off,1997,138,Scifi
+3541,Incredibles 2,2018,118,Scifi
+3542,Star Wars: Episode II - Attack of the Clones,2002,142,Scifi
+3543,Venom,2018,112,Scifi
+3544,Star Trek Beyond,2016,122,Scifi
+3545,District 9,2009,112,Scifi
+3546,Batman & Robin,1997,125,Scifi
+3547,Masters of the Universe,1987,106,Scifi
+3548,Escape Room,2019,99,Scifi
+3549,Underwater,2020,95,Scifi
+3550,Logan's Run,1976,119,Scifi
+3551,Escape from New York,1981,99,Scifi
+3552,X-Men: Dark Phoenix,2019,113,Scifi
+3553,The Dead Don't Die,2019,104,Scifi
+3554,X: First Class,2011,131,Scifi
+3555,They Live,1988,94,Scifi
+3556,Blade,1998,120,Scifi
+3557,Despicable Me,2010,95,Scifi
+3558,Men in Black II,2002,88,Scifi
+3559,The Lego Movie,2014,100,Scifi
+3560,The Incredible Hulk,2008,112,Scifi
+3561,The Fly,1986,96,Scifi
+3562,Lucy,2014,89,Scifi
+3563,Pitch Black,2000,109,Scifi
+3564,Transformers: Age of Extinction,2014,165,Scifi
+3565,The Circle,2017,110,Scifi
+3566,Pacific Rim,2013,131,Scifi
+3567,Contact,1997,150,Scifi
+3568,Upgrade,2018,100,Scifi
+3569,Bumblebee,2018,114,Scifi
+3570,Project Wolf Hunting,2022,122,Scifi
+3571,The Abyss,1989,140,Scifi
+3572,The Midnight Sky,2020,118,Scifi
+3573,Cloud Atlas,2012,172,Scifi
+3574,Resident Evil,2002,100,Scifi
+3575,Back to the Future Part II,1989,108,Scifi
+3576,Resident Evil: Welcome to Raccoon City,2021,107,Scifi
+3577,Firestarter,2022,94,Scifi
+3578,Battleship,2012,131,Scifi
+3579,X-Men: Days of Future Past,2014,132,Scifi
+3580,Gamer,2009,95,Scifi
+3581,Iron Man 2,2010,124,Scifi
+3582,Bloodshot,2020,109,Scifi
+3583,Source Code,2011,93,Scifi
+3584,Pixels,2015,105,Scifi
+3585,Superman Returns,2006,154,Scifi
+3586,Knowing,2009,121,Scifi
+3587,Galaxy Quest,1999,102,Scifi
+3588,The Chronicles of Riddick,2004,119,Scifi
+3589,Big Hero 6,2014,102,Scifi
+3590,Lilo & Stitch,2002,85,Scifi
+3591,Geostorm,2017,109,Scifi
+3592,Sonic the Hedgehog,2020,99,Scifi
+3593,Tron,1982,96,Scifi
+3594,Project Legion,2022,90,Scifi
+3595,Spy Kids,2001,88,Scifi
+3596,The Dark Tower,2017,95,Scifi
+3597,Looper,2012,119,Scifi
+3598,Mr. Nobody,2009,141,Scifi
+3599,What Happened to Monday,2017,123,Scifi
+3600,Gattaca,1997,106,Scifi
+3601,Akira,1988,124,Scifi
+3602,Reminiscence,2021,116,Scifi
+3603,Voyagers,2021,108,Scifi
+3604,Finch,2021,115,Scifi
+3605,Moon,2009,97,Scifi
+3606,Planet of the Apes,2001,119,Scifi
+3607,Dark City,1998,100,Scifi
+3608,Terminator Genisys,2015,126,Scifi
+3609,The Road Warrior,1981,96,Scifi
+3610,Hellboy,2019,120,Scifi
+3611,Sky High,2005,100,Scifi
+3612,The Invisible Man,2020,124,Scifi
+3613,Spider-Man 2,2004,127,Scifi
+3614,Snake Eyes,2021,121,Scifi
+3615,From Beyond,1986,85,Scifi
+3616,Atlantis: The Lost Empire,2001,95,Scifi
+3617,Minions,2015,91,Scifi
+3618,Mortal Engines,2018,128,Scifi
+3619,John Carter,2012,132,Scifi
+3620,X-Men Origins: Wolverine,2009,107,Scifi
+3621,Elemental,2023,93,Scifi
+3622,Chronicle,2012,84,Scifi
+3623,Metropolis,1927,153,Scifi
+3624,Alien³,1992,114,Scifi
+3625,Slither,2006,95,Scifi
+3626,Planet of the Apes,1968,112,Scifi
+3627,Melancholia,2011,135,Scifi
+3628,The Lost World: Jurassic Park,1997,129,Scifi
+3629,Serenity,2005,119,Scifi
+3630,The Mitchells vs the Machines,2021,114,Scifi
+3631,The Cloverfield Paradox,2018,102,Scifi
+3632,Brazil,1985,132,Scifi
+3633,Power Rangers,2017,124,Scifi
+3634,Awake,2021,96,Scifi
+3635,Wreck-It Ralph,2012,101,Scifi
+3636,I Am Number Four,2011,111,Scifi
+3637,Killer Klowns from Outer Space,1988,88,Scifi
+3638,Secret Headquarters,2022,104,Scifi
+3639,Vivarium,2019,97,Scifi
+3640,The Giver,2014,97,Scifi
+3641,"Honey, I Shrunk the Kids",1989,93,Scifi
+3642,The Amazing Spider-Man 2,2014,142,Scifi
+3643,Sorry to Bother You,2018,112,Scifi
+3644,Transformers: Dark of the Moon,2011,154,Scifi
+3645,Moonraker,1979,126,Scifi
+3646,Elysium,2013,109,Scifi
+3647,The League of Extraordinary Gentlemen,2003,110,Scifi
+3648,Brightburn,2019,90,Scifi
+3649,X2: X-Men United,2003,134,Scifi
+3650,Stalker,1979,162,Scifi
+3651,The Final Countdown,1980,103,Scifi
+3652,Transformers: Revenge of the Fallen,2009,149,Scifi
+3653,Splice,2009,104,Scifi
+3654,Videodrome,1983,87,Scifi
+3655,Equilibrium,2002,107,Scifi
+3656,Boss Level,2020,100,Scifi
+3657,Treasure Planet,2002,95,Scifi
+3658,The Fountain,2006,97,Scifi
+3659,G.I. Joe: The Rise of Cobra,2009,118,Scifi
+3660,The Wolverine,2013,126,Scifi
+3661,Megamind,2010,95,Scifi
+3662,Kong: Skull Island,2017,118,Scifi
+3663,Maze Runner: The Scorch Trials,2015,131,Scifi
+3664,Teenage Mutant Ninja Turtles,2014,101,Scifi
+3665,Demolition Man,1993,115,Scifi
+3666,The Purge,2013,85,Scifi
+3667,Titane,2021,108,Scifi
+3668,Fantastic Four,2015,100,Scifi
+3669,The Predator,2018,107,Scifi
+3670,Lifeforce,1985,101,Scifi
+3671,Species,1995,108,Scifi
+3672,The VelociPastor,2018,75,Scifi
+3673,Dragonball Evolution,2009,85,Scifi
+3674,The Hitchhiker's Guide to the Galaxy,2005,109,Scifi
+3675,The Cell,2000,107,Scifi
+3676,Maze Runner: The Death Cure,2018,143,Scifi
+3677,After Yang,2021,96,Scifi
+3678,Godzilla,2014,123,Scifi
+3679,The Matrix Reloaded,2003,138,Scifi
+3680,Hellboy,2004,122,Scifi
+3681,Tomorrowland,2015,130,Scifi
+3682,Planet Terror,2007,105,Scifi
+3683,Pokémon: Detective Pikachu,2019,104,Scifi
+3684,Max Steel,2016,92,Scifi
+3685,Never Let Me Go,2010,103,Scifi
+3686,After Earth,2013,100,Scifi
+3687,Coherence,2013,89,Scifi
+3688,Ghost in the Shell,2017,107,Scifi
+3689,Star Trek Into Darkness,2013,132,Scifi
+3690,Triangle,2009,99,Scifi
+3691,Deja Vu,2006,126,Scifi
+3692,1984,1984,113,Scifi
+3693,Time Bandits,1981,110,Scifi
+3694,Teenage Mutant Ninja Turtles,1990,93,Scifi
+3695,The Munsters,2022,109,Scifi
+3696,Total Recall,2012,118,Scifi
+3697,Ender's Game,2013,114,Scifi
+3698,In the Shadow of the Moon,2019,115,Scifi
+3699,The Core,2003,135,Scifi
+3700,Dredd,2012,95,Scifi
+3701,Alien: Resurrection,1997,109,Scifi
+3702,The Divergent Series: Insurgent,2015,119,Scifi
+3703,Space Jam: A New Legacy,2021,115,Scifi
+3704,Green Lantern,2011,114,Scifi
+3705,Monsters vs. Aliens,2009,94,Scifi
+3706,Meet Cute,2022,89,Scifi
+3707,Twilight Zone: The Movie,1983,101,Scifi
+3708,Waterworld,1995,177,Scifi
+3709,I'm Totally Fine,2022,83,Scifi
+3710,It Comes at Night,2017,91,Scifi
+3711,Ralph Breaks the Internet,2018,112,Scifi
+3712,Space Jam,1996,88,Scifi
+3713,Real Steel,2011,127,Scifi
+3714,The Nutty Professor,1996,95,Scifi
+3715,R.I.P.D.,2013,96,Scifi
+3716,The Island,2005,136,Scifi
+3717,Terminator Salvation,2009,115,Scifi
+3718,Assassin's Creed,2016,115,Scifi
+3719,Hulk,2003,138,Scifi
+3720,I Origins,2014,106,Scifi
+3721,Piranha 3DD,2012,83,Scifi
+3722,Allegiant,2016,120,Scifi
+3723,Rise of the Planet of the Apes,2011,105,Scifi
+3724,Jumper,2008,88,Scifi
+3725,80 for Brady,2023,98,Sports
+3726,True Spirit,2023,109,Sports
+3727,Creed III,2023,116,Sports
+3728,Ford v Ferrari,2019,152,Sports
+3729,Rocky,1976,120,Sports
+3730,Happy Gilmore,1996,92,Sports
+3731,Cars,2006,117,Sports
+3732,Hustle,2022,117,Sports
+3733,Slap Shot,1977,123,Sports
+3734,The Swimmers,2022,134,Sports
+3735,The Longest Yard,2005,113,Sports
+3736,Creed,2015,133,Sports
+3737,Moneyball,2011,133,Sports
+3738,Jerry Maguire,1996,139,Sports
+3739,She's the Man,2006,105,Sports
+3740,Warrior,2011,140,Sports
+3741,The Karate Kid,1984,126,Sports
+3742,Creed II,2018,130,Sports
+3743,Talladega Nights: The Ballad of Ricky Bobby,2006,108,Sports
+3744,The Blind Side,2009,129,Sports
+3745,Remember the Titans,2000,113,Sports
+3746,Major League,1989,107,Sports
+3747,White Men Can't Jump,1992,115,Sports
+3748,42,2013,128,Sports
+3749,Dodgeball: A True Underdog Story,2004,92,Sports
+3750,"I, Tonya",2017,119,Sports
+3751,A League of Their Own,1992,128,Sports
+3752,Molly's Game,2017,140,Sports
+3753,Unbroken,2014,137,Sports
+3754,The Waterboy,1998,90,Sports
+3755,Rocky IV,1985,91,Sports
+3756,Coach Carter,2005,136,Sports
+3757,Rocky Balboa,2006,102,Sports
+3758,Champions,2023,123,Sports
+3759,Kingpin,1996,114,Sports
+3760,Chariots of Fire,1981,125,Sports
+3761,Rush,2013,123,Sports
+3762,The Wrestler,2008,109,Sports
+3763,Bring It On,2000,98,Sports
+3764,The Sandlot,1993,101,Sports
+3765,Million Dollar Baby,2004,132,Sports
+3766,Raging Bull,1980,129,Sports
+3767,Southpaw,2015,124,Sports
+3768,The Basketball Diaries,1995,102,Sports
+3769,King Richard,2021,144,Sports
+3770,The Longest Yard,1974,121,Sports
+3771,The Black Stallion,1979,118,Sports
+3772,The Fighter,2010,116,Sports
+3773,Caddyshack,1980,98,Sports
+3774,Rocky V,1990,104,Sports
+3775,Vision Quest,1985,107,Sports
+3776,Point Break,2015,114,Sports
+3777,Rocky III,1982,99,Sports
+3778,The Replacements,2000,118,Sports
+3779,Home Team,2022,95,Sports
+3780,Waves,2019,135,Sports
+3781,Ski School,1990,89,Sports
+3782,Space Jam: A New Legacy,2021,115,Sports
+3783,Cars 2,2011,106,Sports
+3784,Rocky II,1979,119,Sports
+3785,The Karate Kid,2010,140,Sports
+3786,Space Jam,1996,88,Sports
+3787,Real Steel,2011,127,Sports
+3788,In from the Side,2022,134,Sports
+3789,The Mighty Ducks,1992,104,Sports
+3790,Varsity Blues,1999,106,Sports
+3791,The Cannonball Run,1981,95,Sports
+3792,Little Giants,1994,107,Sports
+3793,Sous emprise,2022,118,Sports
+3794,Lamborghini: The Man Behind the Legend,2022,97,Sports
+3795,The Survivor,2021,129,Sports
+3796,Fighting with My Family,2019,108,Sports
+3797,Cars 3,2017,102,Sports
+3798,Uncle Drew,2018,103,Sports
+3799,Days of Thunder,1990,107,Sports
+3800,Nacho Libre,2006,92,Sports
+3801,Any Given Sunday,1999,162,Sports
+3802,17 Again,2009,102,Sports
+3803,Never Back Down,2008,113,Sports
+3804,Whip It,2009,111,Sports
+3805,Foxcatcher,2014,134,Sports
+3806,Back to School,1986,96,Sports
+3807,Cool Runnings,1993,98,Sports
+3808,The Prizefighter and the Lady,1933,102,Sports
+3809,Field of Dreams,1989,107,Sports
+3810,The Natural,1984,138,Sports
+3811,Next Goal Wins,2023,97,Sports
+3812,American Underdog,2021,112,Sports
+3813,Rookie of the Year,1993,103,Sports
+3814,Stick It,2006,103,Sports
+3815,Friday Night Lights,2004,118,Sports
+3816,Bloodsport,1988,92,Sports
+3817,Draft Day,2014,110,Sports
+3818,The Art of Racing in the Rain,2019,109,Sports
+3819,Soul Surfer,2011,112,Sports
+3820,Goon,2011,92,Sports
+3821,Hooligans,2005,109,Sports
+3822,Blades of Glory,2006,93,Sports
+3823,Major League II,1994,105,Sports
+3824,The First Slam Dunk,2022,124,Sports
+3825,The Color of Money,1986,119,Sports
+3826,The Karate Kid Part II,1986,113,Sports
+3827,Surf's Up,2007,85,Sports
+3828,Invincible,2006,105,Sports
+3829,Ali,2001,157,Sports
+3830,Rumble,2021,95,Sports
+3831,The Karate Kid Part III,1989,112,Sports
+3832,Eddie the Eagle,2015,106,Sports
+3833,Miracle,2004,135,Sports
+3834,Spy Kids 4: All the Time in the World,2011,89,Sports
+3835,Invictus,2009,134,Sports
+3836,Cinderella Man,2005,144,Sports
+3837,Here Comes the Boom,2012,105,Sports
+3838,Speed Racer,2008,135,Sports
+3839,Trouble with the Curve,2012,111,Sports
+3840,The Game Plan,2007,110,Sports
+3841,BASEketball,1998,103,Sports
+3842,Glory Road,2006,118,Sports
+3843,Heavyweights,1995,100,Sports
+3844,Rudy,1993,114,Sports
+3845,The Last Dragon,1985,109,Sports
+3846,Race,2016,134,Sports
+3847,The Phantom of the Open,2021,106,Sports
+3848,Bull Durham,1988,108,Sports
+3849,Over the Top,1987,93,Sports
+3850,The Way Back,2020,108,Sports
+3851,D2: The Mighty Ducks,1994,106,Sports
+3852,The World's Fastest Indian,2005,127,Sports
+3853,Concussion,2015,123,Sports
+3854,Bend It Like Beckham,2002,112,Sports
+3855,Rollerball,1975,125,Sports
+3856,Seabiscuit,2003,140,Sports
+3857,Hot Rod,2007,88,Sports
+3858,The Hustler,1961,134,Sports
+3859,Sidekicks,1992,101,Sports
+3860,The Cutting Edge,1992,101,Sports
+3861,Turbo,2013,96,Sports
+3862,Love & Basketball,2000,124,Sports
+3863,The Ringer,2005,94,Sports
+3864,Dangal,2016,161,Sports
+3865,Planes,2013,91,Sports
+3866,Death Race 2000,1975,80,Sports
+3867,Out Cold,2001,89,Sports
+3868,Lords of Dogtown,2005,107,Sports
+3869,Gridiron Gang,2006,125,Sports
+3870,Kickboxer,1989,97,Sports
+3871,Hard Ball,2001,106,Sports
+3872,The Bad News Bears,1976,102,Sports
+3873,All the Right Moves,1983,91,Sports
+3874,Hoosiers,1986,114,Sports
+3875,Blue Crush,2002,104,Sports
+3876,"McFarland, USA",2015,129,Sports
+3877,Bleed for This,2016,117,Sports
+3878,Youngblood,1986,110,Sports
+3879,Lionheart,1990,108,Sports
+3880,Le grand bleu,1988,168,Sports
+3881,12 Mighty Orphans,2021,118,Sports
+3882,Battle of the Sexes,2017,121,Sports
+3883,Driven,2001,116,Sports
+3884,Ice Castles,1978,108,Sports
+3885,Angels in the Outfield,1994,102,Sports
+3886,Fired Up!,2009,90,Sports
+3887,Heaven Can Wait,1978,101,Sports
+3888,Siu Lam juk kau,2001,113,Sports
+3889,3 Ninjas,1992,84,Sports
+3890,He Got Game,1998,136,Sports
+3891,Bacheha-Ye aseman,1997,89,Sports
+3892,Fantasy Football,2022,98,Sports
+3893,Ladybugs,1992,90,Sports
+3894,La caída,2022,95,Sports
+3895,Bigger,2018,107,Sports
+3896,Semi-Pro,2008,91,Sports
+3897,Radio,2003,109,Sports
+3898,The Hurricane,1999,146,Sports
+3899,Ski Patrol,1990,91,Sports
+3900,The Wizard,1989,96,Sports
+3901,Tin Cup,1996,135,Sports
+3902,Billy Lynn's Long Halftime Walk,2016,113,Sports
+3903,Victory,1981,116,Sports
+3904,Airborne,1993,91,Sports
+3905,The Bronze,2015,100,Sports
+3906,Wimbledon,2004,98,Sports
+3907,Hidalgo,2004,136,Sports
+3908,Pawn Sacrifice,2014,115,Sports
+3909,Grind,2003,105,Sports
+3910,The Benchwarmers,2006,85,Sports
+3911,Like Mike,2002,99,Sports
+3912,Searching for Bobby Fischer,1993,109,Sports
+3913,Breaking Away,1979,101,Sports
+3914,Surf Ninjas,1993,87,Sports
+3915,Secretariat,2010,123,Sports
+3916,Ice Princess,2005,98,Sports
+3917,Air Bud,1997,98,Sports
+3918,The Miracle Season,2018,101,Sports
+3919,The Great Race,1965,160,Sports
+3920,D3: The Mighty Ducks,1996,104,Sports
+3921,Herbie Fully Loaded,2005,101,Sports
+3922,Hot Dog ...The Movie,1983,96,Sports
+3923,Black Panther: Wakanda Forever,2022,161,Thriller
+3924,Knock at the Cabin,2023,100,Thriller
+3925,Plane,2023,107,Thriller
+3926,The Menu,2022,107,Thriller
+3927,M3GAN,2022,102,Thriller
+3928,Ant-Man and the Wasp: Quantumania,2023,125,Thriller
+3929,Bullet Train,2022,127,Thriller
+3930,Glass Onion,2022,139,Thriller
+3931,Viking Wolf,2022,97,Thriller
+3932,Infinity Pool,2023,117,Thriller
+3933,Scream VI,2023,123,Thriller
+3934,Cocaine Bear,2023,95,Thriller
+3935,The Pale Blue Eye,2022,128,Thriller
+3936,Pathaan,2023,146,Thriller
+3937,X,2022,105,Thriller
+3938,"Alice, Darling",2022,89,Thriller
+3939,Teen Wolf: The Movie,2023,140,Thriller
+3940,Blood,2022,108,Thriller
+3941,Infiesto,2023,96,Thriller
+3942,Amsterdam,2022,134,Thriller
+3943,The Batman,2022,176,Thriller
+3944,Baby Ruby,2022,93,Thriller
+3945,Where the Crawdads Sing,2022,125,Thriller
+3946,Knives Out,2019,130,Thriller
+3947,Barbarian,2022,102,Thriller
+3948,Missing,2023,111,Thriller
+3949,Don't Worry Darling,2022,123,Thriller
+3950,Operation Fortune: Ruse de guerre,2023,114,Thriller
+3951,Vadh,2022,110,Thriller
+3952,Jurassic World: Dominion,2022,147,Thriller
+3953,Vengeance,2022,107,Thriller
+3954,Smile,2022,115,Thriller
+3955,The Hunger Games,2012,142,Thriller
+3956,The Northman,2022,137,Thriller
+3957,Fall,2022,107,Thriller
+3958,Nope,2022,130,Thriller
+3959,The Unbearable Weight of Massive Talent,2022,107,Thriller
+3960,Jeepers Creepers: Reborn,2022,88,Thriller
+3961,Scream,2022,114,Thriller
+3962,The Locksmith,2023,92,Thriller
+3963,The Dark Knight,2008,152,Thriller
+3964,Inception,2010,148,Thriller
+3965,Black Swan,2010,108,Thriller
+3966,John Wick: Chapter 4,2023,169,Thriller
+3967,Old,2021,108,Thriller
+3968,Midsommar,2019,148,Thriller
+3969,Decision to Leave,2022,139,Thriller
+3970,Little Dixie,2023,105,Thriller
+3971,The Black Phone,2021,103,Thriller
+3972,An Action Hero,2022,130,Thriller
+3973,Luther: The Fallen Sun,2023,129,Thriller
+3974,John Wick,2014,101,Thriller
+3975,Blade Runner 2049,2017,164,Thriller
+3976,Hereditary,2018,127,Thriller
+3977,F9: The Fast Saga,2021,143,Thriller
+3978,Parasite,2019,132,Thriller
+3979,Violent Night,2022,112,Thriller
+3980,Last Seen Alive,2022,95,Thriller
+3981,Nobody,2021,92,Thriller
+3982,The Gray Man,2022,122,Thriller
+3983,Prisoners,2013,153,Thriller
+3984,Joker,2019,122,Thriller
+3985,The Fast and the Furious,2001,106,Thriller
+3986,In Bruges,2008,107,Thriller
+3987,No Country for Old Men,2007,122,Thriller
+3988,Emily the Criminal,2022,97,Thriller
+3989,On the Line,2022,104,Thriller
+3990,No Time to Die,2021,163,Thriller
+3991,Shutter Island,2010,138,Thriller
+3992,Se7en,1995,127,Thriller
+3993,Tenet,2020,150,Thriller
+3994,Luckiest Girl Alive,2022,113,Thriller
+3995,Shazam! Fury of the Gods,2023,130,Thriller
+3996,Split,2016,117,Thriller
+3997,The Silence of the Lambs,1991,118,Thriller
+3998,Sick,2022,83,Thriller
+3999,Fifty Shades of Grey,2015,125,Thriller
+4000,Dunkirk,2017,106,Thriller
+4001,The Reading,2023,96,Thriller
+4002,The Departed,2006,151,Thriller
+4003,Gone Girl,2014,149,Thriller
+4004,The Prestige,2006,130,Thriller
+4005,Transfusion,2023,106,Thriller
+4006,Get Out,2017,104,Thriller
+4007,Jurassic Park,1993,127,Thriller
+4008,Kingsman: The Golden Circle,2017,141,Thriller
+4009,The Lighthouse,2019,109,Thriller
+4010,Crisis,2021,118,Thriller
+4011,Men,2022,100,Thriller
+4012,Bodies Bodies Bodies,2022,94,Thriller
+4013,The Hunger Games: Catching Fire,2013,146,Thriller
+4014,Infinite,2021,106,Thriller
+4015,The King's Man,2021,131,Thriller
+4016,The Good Nurse,2022,121,Thriller
+4017,Beast,2022,93,Thriller
+4018,Irreversible,2002,97,Thriller
+4019,The Stranger,2022,117,Thriller
+4020,Léon: The Professional,1994,110,Thriller
+4021,Prey,2022,100,Thriller
+4022,Mad Max: Fury Road,2015,120,Thriller
+4023,Road House,1989,114,Thriller
+4024,The Visit,2015,94,Thriller
+4025,Sharper,2023,116,Thriller
+4026,Mission Majnu,2023,129,Thriller
+4027,Last Night in Soho,2021,116,Thriller
+4028,GoldenEye,1995,130,Thriller
+4029,The Cabin in the Woods,2011,95,Thriller
+4030,Sicario,2015,121,Thriller
+4031,The Little Things,2021,128,Thriller
+4032,Wifelike,2022,105,Thriller
+4033,The Sixth Sense,1999,107,Thriller
+4034,The Wonder,2022,108,Thriller
+4035,Oldboy,2003,120,Thriller
+4036,Left Behind: Rise of the Antichrist,2023,120,Thriller
+4037,Deliverance,1972,109,Thriller
+4038,Memento,2000,113,Thriller
+4039,The Invitation,2022,105,Thriller
+4040,Promising Young Woman,2020,113,Thriller
+4041,The Lobster,2015,119,Thriller
+4042,The Outfit,2022,105,Thriller
+4043,Kingsman: The Secret Service,2014,129,Thriller
+4044,Poker Face,2022,94,Thriller
+4045,The Usual Suspects,1995,106,Thriller
+4046,The Butterfly Effect,2004,113,Thriller
+4047,John Wick: Chapter 3 - Parabellum,2019,130,Thriller
+4048,The Outwaters,2022,100,Thriller
+4049,Eyes Wide Shut,1999,159,Thriller
+4050,Signs,2002,106,Thriller
+4051,Blade Runner,1982,117,Thriller
+4052,Mission: Impossible - Fallout,2018,147,Thriller
+4053,A Serbian Film,2010,104,Thriller
+4054,Brothers,2009,105,Thriller
+4055,Ex Machina,2014,108,Thriller
+4056,True Lies,1994,141,Thriller
+4057,Wrath of Man,2021,119,Thriller
+4058,Reservoir Dogs,1992,99,Thriller
+4059,Mystic River,2003,138,Thriller
+4060,Red Sparrow,2018,140,Thriller
+4061,Marlowe,2022,110,Thriller
+4062,Aliens,1986,137,Thriller
+4063,John Wick: Chapter 2,2017,122,Thriller
+4064,The Village,2004,108,Thriller
+4065,Passengers,2016,116,Thriller
+4066,Enough,2002,115,Thriller
+4067,Orphan: First Kill,2022,99,Thriller
+4068,Heavenly Creatures,1994,99,Thriller
+4069,Road to Perdition,2002,117,Thriller
+4070,Casino Royale,2006,144,Thriller
+4071,Donnie Darko,2001,113,Thriller
+4072,Emancipation,2022,132,Thriller
+4073,Clue,1985,94,Thriller
+4074,The Day After Tomorrow,2004,124,Thriller
+4075,Ambulance,2022,136,Thriller
+4076,Hidden,2015,84,Thriller
+4077,Thunivu,2023,146,Thriller
+4078,Room,2015,118,Thriller
+4079,Logan,2017,137,Thriller
+4080,Triple Frontier,2019,125,Thriller
+4081,The Killing of a Sacred Deer,2017,121,Thriller
+4082,All Quiet on the Western Front,2022,148,War
+4083,Jojo Rabbit,2019,108,War
+4084,Devotion,2022,139,War
+4085,Narvik: Hitler's First Defeat,2022,108,War
+4086,Inglourious Basterds,2009,153,War
+4087,Dunkirk,2017,106,War
+4088,Apocalypse Now,1979,147,War
+4089,Edge of Tomorrow,2014,113,War
+4090,1917,2019,119,War
+4091,Hacksaw Ridge,2016,139,War
+4092,Saving Private Ryan,1998,169,War
+4093,Brothers,2009,105,War
+4094,Medieval,2022,125,War
+4095,Atonement,2007,123,War
+4096,Fury,2014,134,War
+4097,Braveheart,1995,178,War
+4098,Life Is Beautiful,1997,116,War
+4099,The Pianist,2002,150,War
+4100,Operation Mincemeat,2021,128,War
+4101,Come and See,1985,142,War
+4102,The King,2019,140,War
+4103,The Imitation Game,2014,114,War
+4104,Casablanca,1942,102,War
+4105,Full Metal Jacket,1987,116,War
+4106,Wonder Woman,2017,141,War
+4107,Kingdom of Heaven,2005,144,War
+4108,Tropic Thunder,2008,107,War
+4109,Malena,2000,108,War
+4110,Red Dawn,1984,114,War
+4111,All Quiet on the Western Front,1930,152,War
+4112,Black Hawk Down,2001,144,War
+4113,Pan's Labyrinth,2006,118,War
+4114,Army of the Dead,2021,148,War
+4115,The Forgotten Battle,2020,124,War
+4116,Gone with the Wind,1939,238,War
+4117,Pearl Harbor,2001,183,War
+4118,The Deer Hunter,1978,183,War
+4119,13 Hours,2016,144,War
+4120,Platoon,1986,120,War
+4121,Lawrence of Arabia,1962,218,War
+4122,Zero Dark Thirty,2012,157,War
+4123,The Last of the Mohicans,1992,112,War
+4124,Downfall,2004,156,War
+4125,The Boy in the Striped Pajamas,2008,94,War
+4126,The Hurt Locker,2008,131,War
+4127,The Thin Red Line,1998,170,War
+4128,Grave of the Fireflies,1988,89,War
+4129,Greyhound,2020,91,War
+4130,Lone Survivor,2013,121,War
+4131,The Post,2017,116,War
+4132,Unbroken,2014,137,War
+4133,The Greatest Beer Run Ever,2022,126,War
+4134,Mulan,1998,87,War
+4135,American Sniper,2014,133,War
+4136,Midway,2019,138,War
+4137,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,1964,95,War
+4138,Master and Commander: The Far Side of the World,2003,138,War
+4139,The Patriot,2000,165,War
+4140,The English Patient,1996,162,War
+4141,War Dogs,2016,114,War
+4142,Legends of the Fall,1994,133,War
+4143,Bridge of Spies,2015,142,War
+4144,Darkest Hour,2017,125,War
+4145,Lincoln,2012,150,War
+4146,Crimson Tide,1995,116,War
+4147,The Great Escape,1963,172,War
+4148,Behind Enemy Lines,2001,106,War
+4149,Outlaw King,2018,121,War
+4150,Stripes,1981,106,War
+4151,Defiance,2008,137,War
+4152,Alexander,2004,175,War
+4153,The Boat,1981,149,War
+4154,Doctor Zhivago,1965,197,War
+4155,12 Strong,2018,130,War
+4156,The Courier,2020,112,War
+4157,Empire of the Sun,1987,153,War
+4158,Barry Lyndon,1975,185,War
+4159,Without Remorse,2021,109,War
+4160,The Bridge on the River Kwai,1957,161,War
+4161,Allied,2016,124,War
+4162,Enemy at the Gates,2001,131,War
+4163,Stairway to Heaven,1946,104,War
+4164,Cold Mountain,2003,154,War
+4165,Sisu,2022,91,War
+4166,Skyggen i mit øje,2021,107,War
+4167,King Arthur,2004,126,War
+4168,Valkyrie,2008,121,War
+4169,The Sum of All Fears,2002,124,War
+4170,We Were Soldiers,2002,138,War
+4171,Flags of Our Fathers,2006,135,War
+4172,"Lust, Caution",2007,157,War
+4173,The Alamo,1960,162,War
+4174,The Survivor,2021,129,War
+4175,The Guernsey Literary and Potato Peel Pie Society,2018,124,War
+4176,Little Women,1933,115,War
+4177,Sand Castle,2017,113,War
+4178,Spartacus,1960,197,War
+4179,Jarhead,2005,125,War
+4180,The Lucky One,2012,101,War
+4181,M*A*S*H,1970,116,War
+4182,Glory,1989,122,War
+4183,Tolkien,2019,112,War
+4184,Whiskey Tango Foxtrot,2016,112,War
+4185,How I Live Now,2013,101,War
+4186,Paths of Glory,1957,88,War
+4187,Mudbound,2017,134,War
+4188,A Bridge Too Far,1977,175,War
+4189,Overlord,2018,110,War
+4190,The Outpost,2019,123,War
+4191,Ran,1985,162,War
+4192,Imperium,2016,109,War
+4193,Green Street Hooligans,2005,109,War
+4194,Operation Finale,2018,122,War
+4196,The Dirty Dozen,1967,150,War
+4197,Judgment at Nuremberg,1961,179,War
+4198,Seven Years in Tibet,1997,136,War
+4199,A Call to Spy,2019,123,War
+4200,Heartbreak Ridge,1986,130,War
+4201,Australia,2008,165,War
+4202,The Men Who Stare at Goats,2009,94,War
+4203,Official Secrets,2019,112,War
+4204,Benediction,2021,137,War
+4205,Hotel Rwanda,2004,121,War
+4206,"Good Morning, Vietnam",1987,121,War
+4207,Hotel Berlin,1945,98,War
+4208,Da 5 Bloods,2020,154,War
+4209,The Eagle Has Landed,1976,123,War
+4210,Eye in the Sky,2015,102,War
+4211,The Book Thief,2013,131,War
+4212,Black Crab,2022,114,War
+4213,Dear John,2010,108,War
+4214,The Monuments Men,2014,118,War
+4215,The Beguiled,2017,93,War
+4216,Suite Française,2014,107,War
+4217,Timeline,2003,116,War
+4218,Shadow in the Cloud,2020,83,War
+4219,Espionage Agent,1939,83,War
+4220,War Horse,2011,146,War
+4221,Letters from Iwo Jima,2006,141,War
+4222,Sniper. The White Raven,2022,111,War
+4223,Three Kings,1999,114,War
+4224,The Railway Man,2013,116,War
+4225,Tears of the Sun,2003,121,War
+4226,Freedom's Path,2022,131,War
+4227,Zulu,1964,138,War
+4228,Never Look Away,2018,189,War
+4229,War Machine,2017,122,War
