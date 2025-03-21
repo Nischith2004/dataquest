@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Data Insights Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="header">
+        <h1>Streaming Service Analytics Dashboard</h1>
+        <p>Insights from cleaned data analysis</p>
+    </div>
+
+    <div class="filters">
+        <button class="filter-btn" onclick="filterCards('all')">All</button>
+        <button class="filter-btn" onclick="filterCards('users')">Users</button>
+        <button class="filter-btn" onclick="filterCards('subscriptions')">Subscriptions</button>
+        <button class="filter-btn" onclick="filterCards('content')">Content</button>
+    </div>
+
+    
+        <div class="dashboard">
+            <div class="card" data-category="users">
+                <img src="users_plots.png" alt="User Country Distribution">
+                <div class="card-content">
+                    <h3>User Geographic Distribution</h3>
+                    <p>Breakdown of users by country</p>
+                </div>
+            </div>
+    
+            <!-- Subscription Analytics -->
+            <div class="card" data-category="subscriptions">
+                <img src="subscriptions_plots.png" alt="Churn Rate">
+                <div class="card-content">
+                    <h3>Subscription Churn Rates</h3>
+                    <p>Churn percentage by plan type</p>
+                </div>
+            </div>
+    
+            <div class="card" data-category="subscriptions">
+                <img src="watch_history_plots.png" alt="Plan Distribution">
+                <div class="card-content">
+                    <h3>Plan Distribution</h3>
+                    <p>Subscription distribution by plan</p>
+                </div>
+            </div>
+    
+            <div class="card" data-category="movies">
+                <img src="movies_plots.png" alt="Movie Ratings">
+                <div class="card-content">
+                    <h3>Movie Ratings</h3>
+                    <p>Analysis of movie ratings</p>
+                </div>
+            </div>
+    
+            <div class="card" data-category="ratings">
+                <img src="ratings_plots.png" alt="User Ratings">
+                <div class="card-content">
+                    <h3>User Ratings</h3>
+                    <p>Distribution of user ratings for content</p>
+                </div>
+            </div>
+        </div>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
